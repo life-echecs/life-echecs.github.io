@@ -1,5 +1,5 @@
 ---
-name: chess.com
+name: Chess.com
 ---
 
 Chess.com est le numéro 1 mondial des échecs en ligne avec plus de 30 millions de membres venant des 4 coins de la planète !
