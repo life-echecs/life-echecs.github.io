@@ -1,1 +1,10 @@
+# Cayman theme settings
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+.jekyll-cache
+.jekyll-cache
+
+# User settings
 cayman-master/*
