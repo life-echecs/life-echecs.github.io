@@ -49,6 +49,12 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
+      <script>
+        var navMobileMenuClicked = () => {
+          document.querySelector('.mobile-navbar').classList.toggle('open')
+          document.getElementById('navbar').classList.toggle('open')
+        }
+      </script>
       <footer class="site-footer">
         <span class="site-footer-credits">© LIFE {{ "now" | date: "%Y" }}, Tous droits réservés.</span>
       </footer>
