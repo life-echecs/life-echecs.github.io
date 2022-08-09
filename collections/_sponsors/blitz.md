@@ -1,0 +1,8 @@
+---
+name: Blitz
+---
+
+Créé par Cédric BISCAY, producteur des jeux vidéo Shenmue 3, Twin Mirror et de la série d’animation Astroboy Reboot, Blitz est le premier manga monégasque. Co scénarisé par Tsukasa Mori et mis en image par le Mangaka Daitaro NISHIHARA. Le manga est supervisé et parrainé par Garry KASPAROV en personne.
+Blitz est la concrétisation d’une étroite collaboration entre le Japon, Monaco et les USA permettant aux parties de travailler conjointement selon les techniques de production japonaises pour un manga.
+
+Blitz est édité par IWA (le rocher en japonais), la Maison d'édition de la société Shibuya Productions.
