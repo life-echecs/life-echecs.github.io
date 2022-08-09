@@ -1,5 +1,6 @@
 ---
 layout: default
+title: LIFE
 ---
 
 ## Welcome to GitHub Pages !!
