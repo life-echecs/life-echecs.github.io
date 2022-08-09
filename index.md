@@ -3,4 +3,6 @@ layout: default
 title: LIFE
 ---
 
-[Link to sponsors page](./sponsors.html).
+[Ancienne version du site](./BNEI).
+
+[Nos Sponsors](./sponsors.html).
