@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "fr" }}">
+<html lang="fr">
   <head>
     <meta charset="UTF-8">
 
@@ -10,10 +10,22 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
+    
+    <title>LIFE | Accueil</title>
+    <link rel="shortcut icon" type="image/png" href="{{ '/img/favicon.png' | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
+
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.5.1.js"></script>
+    <script src="js/popper.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SYXY02LPEY"></script>
+    <script src="js/google.js"></script>
   </head>
+
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <!-- <a id="skip-to-content" href="#content">Skip to the content.</a> -->
 
     <header class="page-header" role="banner">
       <img id="banner" src="img/banner.png" alt="bannière du tournoi">
