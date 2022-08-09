@@ -1,6 +1,6 @@
 description: Ligue Ingénieure Française d'échecs
-google_analytics:
+# google_analytics:
 show_downloads: true
 title: LIFE
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 url: http://life-echecs.org
