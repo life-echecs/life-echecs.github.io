@@ -45,7 +45,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to sponsors page](./sponsors.html).
 
 There should be whitespace between paragraphs.
 
