@@ -1,5 +1,6 @@
 description: Ligue Ingénieure Française d'échecs
 # google_analytics:
+lang: fr
 locale: fr
 show_downloads: true
 title: LIFE
@@ -10,3 +11,5 @@ url: http://life-echecs.org
 collections_dir: collections
 collections:
   - sponsors
+
+fixed-navbar: true
