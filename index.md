@@ -40,9 +40,6 @@ N'hésitez pas à aller jeter un oeil à la page de nos [sponsors](/sponsors) po
 
 ## Documents importants
 
-- <a href="files/R_glement_LIFE.pdf" target="_blank">Règlement du tournoi</a>
-
-*Dernière mise à jour: 18/02/2022*
-
+- <a href="files/R_glement_LIFE.pdf" target="_blank">Règlement du tournoi</a> *Dernière mise à jour: 18/02/2022*
 - <a href="files/politique_confidentialite.pdf" target="_blank">Politique de confidentialité</a>
 - <a href="https://fb.me/e/2VmSgJI6q" target="_blank">Evénement Facebook pour les annonces hebdomadaires</a>
