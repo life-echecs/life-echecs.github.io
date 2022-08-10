@@ -125,12 +125,12 @@ img {
 }
 
 /* Footer */
-.footer_text{
+.site-footer-credits{
     text-align: right;
     color:white;
     font-size: 28px;
 }
-.footer_text a {
+.site-footer-credits a {
     text-decoration: none;
     color: white;
 }
