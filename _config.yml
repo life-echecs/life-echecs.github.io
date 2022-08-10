@@ -12,4 +12,4 @@ collections_dir: collections
 collections:
   - sponsors
 
-fixed-navbar: true
+fixed_navbar: true
