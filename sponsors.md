@@ -14,5 +14,3 @@ N'hésitez pas à y jeter un oeil, chacun d'eux peut vous intéresser !
 
 {{ sponsor.content | markdownify }}
 {% endfor %}
-
-[back](./)
