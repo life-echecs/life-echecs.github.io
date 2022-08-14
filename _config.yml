@@ -69,3 +69,5 @@ plugins:
  - jekyll-seo-tag
 
 google_analytics: UA-237400932
+
+theme_color: "#5eff05"
