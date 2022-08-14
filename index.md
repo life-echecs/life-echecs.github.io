@@ -6,4 +6,14 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 # layout: home
+# hide_footer: true
+# hero_image: /img/hero.png
+# hero_height: is-fullheight
+# image: /img/page-image.jpg
+title: LIFE
+subtitle: Ligue Ingénieure Française d'Échecs
+hero_link: /my-page
+hero_link_text: The Link Text
+menubar_toc: true
+toc_title: Custom Title
 ---

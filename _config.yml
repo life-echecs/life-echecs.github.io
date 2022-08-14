@@ -65,11 +65,16 @@ minima:
 remote_theme: chrisrhymes/bulma-clean-theme
 
 plugins:
- - jekyll-feed
+#  - jekyll-feed
  - jekyll-seo-tag
 
 google_analytics: UA-237400932
 
-theme_color: "#5eff05"
+theme_color: "#e5e1f2"
 
 # fixed_navbar: top
+
+footer_menu: footer_menu
+
+# hero_image: /img/hero.png
+# hero_height: is-fullwidth
