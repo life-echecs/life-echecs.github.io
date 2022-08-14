@@ -1,0 +1,20 @@
+- name: About
+  link: /about.html
+- name: Sponsors
+  link: /sponsors.html
+- name: Results
+  link: /results.html
+  dropdown: 
+    - name: 2021
+      link: /results/2021
+    - name: 2022
+      link: /results/2022
+- name: Documents
+  link: /files.html
+  dropdown:
+    - name: Formulaire d'nscription
+      link: /files/Formulaire_inscription_joueur.pdf
+    - name: Politique de confidentialité
+      link: /files/politique_confidentialite.pdf
+    - name: Reglement LIFE
+      link: /files/Reglement_LIFE.pdf

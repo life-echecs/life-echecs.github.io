@@ -1,0 +1,17 @@
+---
+---
+
+$primary: {{ site.theme_color }};
+// Import Main CSS file from theme
+
+@import "main";
+
+.hero.is-primary.is-bold {
+    text-align: center;
+    background-image:
+        url('../../img/l.svg'),
+        url('../../img/r.svg');
+    background-repeat: no-repeat;
+    background-position: left, right;
+    background-size: auto 100%;
+}

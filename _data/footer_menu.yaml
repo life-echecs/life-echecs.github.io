@@ -1,0 +1,6 @@
+- name: About
+  link: /about
+- name: Sponsors
+  link: /sponsors
+- name: Résultats
+  link : /results
