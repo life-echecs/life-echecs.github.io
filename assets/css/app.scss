@@ -1,6 +1,6 @@
 ---
 ---
 
-$primary: #5eff05;
+$primary: {{ site.theme-color }};
 // Import Main CSS file from theme
 @import "main";
