@@ -71,3 +71,5 @@ plugins:
 google_analytics: UA-237400932
 
 theme_color: "#5eff05"
+
+# fixed_navbar: top
