@@ -12,8 +12,8 @@
 # image: /img/page-image.jpg
 title: LIFE
 subtitle: Ligue Ingénieure Française d'Échecs
-hero_link: /my-page
-hero_link_text: The Link Text
+hero_link: /files/Formulaire_inscription_joueur.pdf
+hero_link_text: Inscription
 menubar_toc: true
 toc_title: Custom Title
 ---
