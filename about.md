@@ -4,8 +4,23 @@ title: About
 permalink: /about.html
 ---
 
-## Présentation du tournoi
+## Le retour de la LIFE !
 
+Suite au succès de la première édition, nous ne pouvions pas nous arrêter là, nous voilà donc de retour avec une deuxième édition de la LIFE.
+Pour préparer cette nouvelle édition, nous avons tenu compte de vos retours pour améliorer le format et voici le résultat de ce travail dans les grandes lignes :
+
+Des qualifications sur 4 semaines via 4 tournois indépendants au format suisse
+Des équipes de 4 à 5 joueurs
+Plus aucune limite au nombre d'équipes, que ce soit le nombre au total mais aussi le nombre par école
+Des prix individuels pour les meilleurs joueurs et les meilleures joueuses lors des phases de qualification
+Pour plus de détails vous pouvez aller regarder le règlement qui se trouve dans la barre juste à droite de cet article et si vous avez des questions vous pouvez les poser à cette adresse : life@bnei.fr.
+
+## Résultats de la LIFE
+
+Après plusieurs mois de compétition qui ont vu s'affronter 32 écoles d'ingénieurs venues de toute la France, la LIFE s'est terminée Lundi 15/02 sur une victoire de l'équipe de Polytechnique. L'ENSAE et l'ECE Paris viennent compléter ce magnifique podium.
+Merci à tous les joueurs et à toutes les personnes qui ont suivi l'événement ainsi qu'à nos sponsors, on se retrouve l'année prochaine pour la deuxième édition !
+
+## Présentation du tournoi
 Bienvenue sur le site de la Ligue Ingénieure Française d'Echecs.
 Cette compétition, dont la toute première édition aura lieu entre Novembre 2020 et Février 2021, est organisée par le BNEI sur l'initiative du club d'échecs de l'ENSEEIHT .
 
