@@ -1,7 +1,11 @@
 - name: About
   link: /about.html
-- name: Sponsors
-  link: /sponsors.html
+- name: Classement
+  link: /rankings.html
+- name: Planning
+  link: /planning.html
+- name: Équipes
+  link: /teams.html
 - name: Results
   link: /results.html
   dropdown: 
@@ -18,3 +22,5 @@
       link: /files/politique_confidentialite.pdf
     - name: Reglement LIFE
       link: /files/Reglement_LIFE.pdf
+- name: Sponsors
+  link: /sponsors.html
