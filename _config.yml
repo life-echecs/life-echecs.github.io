@@ -1,91 +1,36 @@
-title: LIFE
-
-baseurl: ""
+# Domain information
 url: "https://life-echecs.org"
+baseurl: ""
 
+# Langugage
 lang: "fr"
 locale: "fr"
 
+# Author
 author:
   name: Jean Heibig
   email: jean@life-echecs.org
-description: > # this means to ignore newlines until "show_excerpts:"
+
+# Title and description
+title: LIFE
+tagline: Ligue Ingénieure Française d'Échecs
+description: >
   Bienvenue sur le site de la Ligue Ingénieure Française d'Échecs !
   Nous organisons chaque année un tournoi d'échecs où les élèves d'écoles
   d'ingénieurs s'affrontent par équipes et tentent de remporter des prix
-  ainsi que du prestige pour leur école.
-tagline: Ligue Ingénieure Française d'Échecs
+  prestigieux pour leur école.
 
-show_excerpts: false # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-
-  # generate social links in footer
-  social_links:
-    # twitter: jekyllrb
-    github:  life-echecs
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-
-# twitter:
-#   username: benbalter
-#   card: summary
-
-# facebook:
-#   app_id: 1234
-#   publisher: 1234
-#   admins: 1234
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-# Build settings
-# theme: minima
+# Theme https://www.csrhymes.com/bulma-clean-theme/
 remote_theme: chrisrhymes/bulma-clean-theme
-
-plugins:
-#  - jekyll-feed
- - jekyll-seo-tag
-
-google_analytics: UA-237400932
-
 theme_color: "#e5e1f2"
 
-# fixed_navbar: top
+# Plugins
+plugins:
+ - jekyll-seo-tag  # Meta
 
+# Navigation
+fixed_navbar: top
 footer_menu: footer_menu
 
-# hero_image: /img/hero.png
-# hero_height: is-fullwidth
+# Google
+google_analytics: UA-237400932
