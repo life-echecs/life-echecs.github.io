@@ -8,10 +8,18 @@ $primary: {{ site.theme_color }};
 
 .hero.is-primary.is-bold {
     text-align: center;
-    background-image:
-        url('../../img/l.svg'),
-        url('../../img/r.svg');
     background-repeat: no-repeat;
-    background-position: left, right;
     background-size: auto 100%;
+
+    @include mobile {
+        background-image: url('../../img/r.svg');
+        background-position: center;
+    }
+    
+    @include tablet {
+        background-image:
+            url('../../img/l.svg'),
+            url('../../img/r.svg');
+        background-position: left, right;
+    }
 }

@@ -1,6 +1,6 @@
-- name: About
+- name: Accueil
+  link : /
+- name: À propos
   link: /about
-- name: Sponsors
+- name: Nos sponsors
   link: /sponsors
-- name: Résultats
-  link : /results

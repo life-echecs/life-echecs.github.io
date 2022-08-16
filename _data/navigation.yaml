@@ -1,20 +1,24 @@
-- name: About
+- name: À propos
   link: /about.html
-- name: Sponsors
-  link: /sponsors.html
-- name: Results
-  link: /results.html
+- name: Classement
+  link: /rankings.html
+- name: Calendrier
+  link: /planning.html
+- name: Équipes
+  link: /teams.html
+- name: Résultats
   dropdown: 
     - name: 2021
       link: /results/2021
     - name: 2022
       link: /results/2022
 - name: Documents
-  link: /files.html
   dropdown:
-    - name: Formulaire d'nscription
-      link: /files/Formulaire_inscription_joueur.pdf
-    - name: Politique de confidentialité
-      link: /files/politique_confidentialite.pdf
-    - name: Reglement LIFE
+    - name: Formulaire d'inscription
+      link: https://forms.gle/KL8h5sGHUx1rqHQk9
+      target: _blank
+    - name: Règlement LIFE
       link: /files/Reglement_LIFE.pdf
+      download: true
+- name: Sponsors
+  link: /sponsors.html
