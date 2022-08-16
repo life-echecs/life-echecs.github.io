@@ -1,12 +1,16 @@
 <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary">
     <div class="hero-body {% if page.hero_darken %} hero-darken {% endif %}">
-        <div class="columns is-centered">
-            <div class="column is-two-fifths">
-                <h1 class="title is-1">{{ page.title }}</h1>
-                <p class="subtitle is-3">{{ page.subtitle }}</p>
-                {% if page.hero_link %}
-                    <a href="{{ page.hero_link | relative_url }}" class="button is-dark is-outlined is-large">{{ page.hero_link_text }}</a>
-                {% endif %}
+        <div class="container has-text-centered">
+            <div class="columns is-centered">
+                <div class="column one-third"></div>
+                <div class="column one-third">
+                    <h1 class="title is-1">{{ page.title }}</h1>
+                    <p class="subtitle is-3">{{ page.subtitle }}</p>
+                    {% if page.hero_link %}
+                        <a href="{{ page.hero_link | relative_url }}" target="_blank" class="button is-dark is-outlined is-large">{{ page.hero_link_text }}</a>
+                    {% endif %}
+                </div>
+                <div class="column one-third"></div>
             </div>
         </div>
     </div>

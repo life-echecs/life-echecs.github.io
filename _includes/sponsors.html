@@ -1,0 +1,29 @@
+{% if page.sponsors %}
+{% assign sponsors=site.data.[page.sponsors] %}
+    <div class="columns is-multiline">
+        <div class="column is-12">
+            <p class="title is-3 has-text-centered">
+                <span>Merci beaucoup à nos sponsors !</span>
+            </p>
+            <p class="subtitle has-text-centered">
+                <span class="icon is-large gh-sponsor"><i class="fas fa-heart fa-2x"></i></span>
+            </p>
+
+            {% for sponsor in sponsors %}
+            
+            <div class="box has-text-centered">
+                <p class="title is-4">
+                    <a href="{{ sponsor.link }}" class="is-link">{{ sponsor.name }}</a>
+                </p>
+                <p class="subtitle is-6">
+                    {{ sponsor.description | markdownify }}
+                </p>
+            </div>
+
+            {% endfor %}
+        </div>
+        <div class="column is-12">
+            <hr />
+        </div>
+    </div>
+{% endif %}

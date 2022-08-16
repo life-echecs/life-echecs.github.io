@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Sponsors Page
+title: Nos sponsors
 sponsors: sponsors
 url: /sponsors
 ---

@@ -1,46 +1,60 @@
-- tier_name: Platinum Sponsors
-  size: large
-  description: |-
-    This is the description for the Platinum Tier.
-    It can contain multiple lines. It has the size set to 'large'.
-  sponsors:
-    - name: Chess.com
-      profile: https://chess.com/
-    - name: Blitz Shibuya
-      profile: https://www.shibuya-productions.com/fr/projets/blitz.html,021
-    - name: Pro Évolution Échecs
-      profile: https://www.pro-evolution-echecs.com/
-    - name: Olibris
-      profile: https://olibris.fr/
+- name: Chess.com
+  link: https://chess.com/
+  description: >
+    Chess.com est le numéro 1 mondial des échecs en ligne avec plus de 30 millions de membres venant des 4 coins de la planète !
+    Jouez à la cadence qui vous convient, du bullet, aux parties par correspondance en passant évidemment par le blitz et le rapide, il y en a pour tous les goûts !
+    Testez des variantes amusantes comme le brouillard de guerre, le blitz à 4 ou même le Shaturanga, ancêtre indien du jeu des rois.
+    Progressez avec tous nos outils pédagogiques : leçons en français, vidéos de Grands Maîtres, exercices tactiques, sprints de problèmes, le ludique est notre priorité !
+    Suivez tous les grands événements avec les commentaires en direct et nos articles, toujours à la pointe de l'actualité échiquéenne !
+    Enfin, intégrez notre communauté pour représenter la France contre les autres nations, échangez sur nos forums et retrouvez chaque jours vos amis sur Chess.com !
+- name: Blitz Shibuya
+  link: https://www.shibuya-productions.com/fr/projets/blitz.html,021
+  description: >
+    Créé par Cédric BISCAY, producteur des jeux vidéo Shenmue 3, Twin Mirror et de la série d’animation Astroboy Reboot, Blitz est le premier manga monégasque. Co scénarisé par Tsukasa Mori et mis en image par le Mangaka Daitaro NISHIHARA. Le manga est supervisé et parrainé par Garry KASPAROV en personne.
+    Blitz est la concrétisation d’une étroite collaboration entre le Japon, Monaco et les USA permettant aux parties de travailler conjointement selon les techniques de production japonaises pour un manga.
+
+    Blitz est édité par IWA (le rocher en japonais), la Maison d'édition de la société Shibuya Productions.
+- name: Pro Évolution Échecs
+  link: https://www.pro-evolution-echecs.com/
+  description: >
+    Pro Évolution Échecs a été créé en 2008 par le Maître International Kevin Terrieux. C'est une véritable école d'échecs à la française où l'on se perfectionne tout en prenant du plaisir. TOP 50 français depuis 2009, Kevin a directement fait le choix de se tourner vers l'entraînement. C'était l'unique moyen pour lui d'être professionnel autour de sa passion. Entraineur de l'équipe de France jeunes pendant 5 années, formateur d'animateurs & d'entraineurs fédéraux, Kevin est le plus jeune Maître Entraineur de France.
+    Chaque été depuis 2010, ce dernier, avec son équipe de coachs, organise des colonies pour mineurs, en marge de tournois internationaux.
+    Depuis 2015, des stages tous publics pour jeunes & adultes amateurs sont mis en place par l'école Pro Évolution Échecs, où pendant une semaine très conviviale, des passionnés se retrouvent pour se perfectionner aux échecs. Depuis 2021, Pro Évolution Échecs évolue avec son temps... Une chaîne Youtube et Twitch ont donc vu le jour. Kévin et son équipe font du streaming, et proposent des contenus numériques de plus en plus appréciés par les joueurs récréatifs & amateurs.
+- name: Olibris
+  link: https://olibris.fr/
+  description: >
+    Pro Évolution Échecs a été créé en 2008 par le Maître International Kevin Terrieux. C'est une véritable école d'échecs à la française où l'on se perfectionne tout en prenant du plaisir. TOP 50 français depuis 2009, Kevin a directement fait le choix de se tourner vers l'entraînement. C'était l'unique moyen pour lui d'être professionnel autour de sa passion. Entraineur de l'équipe de France jeunes pendant 5 années, formateur d'animateurs & d'entraineurs fédéraux, Kevin est le plus jeune Maître Entraineur de France.
+    Chaque été depuis 2010, ce dernier, avec son équipe de coachs, organise des colonies pour mineurs, en marge de tournois internationaux.
+    Depuis 2015, des stages tous publics pour jeunes & adultes amateurs sont mis en place par l'école Pro Évolution Échecs, où pendant une semaine très conviviale, des passionnés se retrouvent pour se perfectionner aux échecs. Depuis 2021, Pro Évolution Échecs évolue avec son temps... Une chaîne Youtube et Twitch ont donc vu le jour. Kévin et son équipe font du streaming, et proposent des contenus numériques de plus en plus appréciés par les joueurs récréatifs & amateurs.
 
 # - tier_name: Gold Sponsors
 #   description: |-
 #     This is the description for the Gold Tier
 #   sponsors:
 #     - name: Dave McDave
-#       profile: https://github.com/
+#       link: https://github.com/
 #     - name: Sarah Lee-Cheesecake
-#       profile: https://github.com/
+#       link: https://github.com/
 #     - name: John Smith
-#       profile: https://github.com/
+#       link: https://github.com/
 # - tier_name: Standard Sponsors
 #   size: small
 #   description: |-
 #     This is the description for the Standard Tier.
 #     It has the size set to 'small'.
-#     The profile is not required so if it's not set the link will not appear.
+#     The link is not required so if it's not set the link will not appear.
 #   sponsors:
 #     - name: Dave McDave
-#       profile: https://github.com/
+#       link: https://github.com/
 #     - name: Sarah Lee-Cheesecake
-#       profile: https://github.com/
+#       link: https://github.com/
 #     - name: John Smith
-#       profile: https://github.com/
+#       link: https://github.com/
 #     - name: Jane Smith
-#       profile: https://github.com
+#       link: https://github.com
 #     - name: John Doe
-#       profile: https://github.com/
+#       link: https://github.com/
 #     - name: Jane Doe
-#       profile: https://github.com/
+#       link: https://github.com/
 #     - name: John Jones
 #     - name: Jane Jones
