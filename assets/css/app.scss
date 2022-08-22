@@ -12,14 +12,14 @@ $primary: {{ site.theme_color }};
     background-size: auto 100%;
 
     @include mobile {
-        background-image: url('../../img/r.svg');
+        background-image: url('../../img/right_background_pieces.svg');
         background-position: center;
     }
     
     @include tablet {
         background-image:
-            url('../../img/l.svg'),
-            url('../../img/r.svg');
+            url('../../img/left_background_pieces.svg'),
+            url('../../img/right_background_pieces.svg');
         background-position: left, right;
     }
 }
