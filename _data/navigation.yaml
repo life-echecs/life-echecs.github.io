@@ -1,5 +1,7 @@
 - name: À propos
   link: /about.html
+- name: Sponsors
+  link: /sponsors.html
 - name: Classement
   link: /rankings.html
 - name: Calendrier
@@ -20,5 +22,4 @@
     - name: Règlement LIFE
       link: /files/Reglement_LIFE.pdf
       download: true
-- name: Sponsors
-  link: /sponsors.html
+
