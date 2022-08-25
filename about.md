@@ -4,7 +4,7 @@ title: À propos
 permalink: /about.html
 ---
 
-## Présentation du tournoi :
+## Présentation du tournoi
 
 ### Bienvenue sur le site de la Ligue Ingénieure Française d'Échecs !
 
