@@ -16,9 +16,6 @@
       link: /results/2022
 - name: Documents
   dropdown:
-    - name: Formulaire d'inscription
-      link: https://forms.gle/KL8h5sGHUx1rqHQk9
-      target: _blank
     - name: Règlement LIFE
       link: /files/Reglement_LIFE.pdf
       download: true
