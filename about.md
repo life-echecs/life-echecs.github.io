@@ -10,7 +10,7 @@ permalink: /about.html
 
 Cette compétition, dont la toute première édition a eu lieu début 2021, était organisée par le [BNEI](https://www.bnei.fr/) sur l'initiative du club d'échecs de l'[ENSEEIHT](https://www.enseeiht.fr/fr/index.html). Après la deuxième édition de 2022, la LIFE est devenue une association indépendante.
 
-L'édition 2023 se déroulera en ligne et opposera des écoles d'ingénieurs venues de toute la France au travers de matchs par équipes. Les affrontements se feront selon différents formats : Rapide, Blitz et même [Blitz à quatre](https://fr.wikipedia.org/wiki/Blitz_%C3%A0_quatre) afin de déterminer quelles équipes se qualifieront pour les phases finales.
+L'édition 2023 se déroulera en ligne et opposera des écoles d'ingénieurs venues de toute la France au travers de matchs par équipes. Les affrontements se feront selon différents formats : Rapide et Blitz afin de déterminer quelles équipes se qualifieront pour les phases finales.
 
 Les parties seront jouées sur le site [Chess.com](https://www.chess.com/home) et seront aussi visionnables sur cette même plateforme via des liens qui sont dans la page [Calendrier](/planning.html). Pour les phases finales, les parties seront directement retransmises et commentées sur la chaîne Twitch [chesscomfr](https://www.twitch.tv/chesscomfr).
 
@@ -38,8 +38,9 @@ Pour préparer cette nouvelle édition, *nous avons tenu compte de vos retours* 
 ### 2021
 
 Après plusieurs mois de compétition qui ont vu s'affronter 32 écoles d'ingénieurs, la LIFE s'est terminée lundi 15 février 2021 sur une victoire de l'équipe de Polytechnique. L'ENSAE et l'ECE Paris sont venues compléter ce magnifique podium.
-Merci à tous les joueurs et à toutes les personnes qui ont suivi l'événement ainsi qu'à [nos sponsors](/sponsors.html) !
+<!-- Merci à tous les joueurs et à toutes les personnes qui ont suivi l'événement ainsi qu'à [nos sponsors](/sponsors.html) ! -->
 
 ### 2022
 
-La LIFE est revenue pour une deuxième édition, avec 135 joueurs venus de toute la France ! Les phases finales du tournoi se sont finies le dimanche 20 mars 2022 avec une victoire de l'équipe des Ponts Paristech contre l'ECE Paris en finale avec une partie [Armaggedon](https://www.chess.com/terms/armageddon-chess) en départage. On se retrouve l'année prochaine pour la troisième édition !
+La LIFE est revenue pour une deuxième édition, avec 135 joueurs venus de toute la France ! Les phases finales du tournoi se sont finies le dimanche 20 mars 2022 avec une victoire de l'équipe des Ponts Paristech contre l'ECE Paris en finale avec une partie [Armaggedon](https://www.chess.com/terms/armageddon-chess) en départage. 
+<!-- On se retrouve l'année prochaine pour la troisième édition ! -->
