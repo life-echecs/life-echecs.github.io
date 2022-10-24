@@ -16,7 +16,7 @@ Les parties seront jouées sur le site [Chess.com](https://www.chess.com/home) e
 
 ### Vous souhaitez représenter la LIFE dans votre école ?
 
-Le formulaire dans la section Documents est fait pour cela ! Et si vous souhaitez juste vous inscrire vous pouvez envoyez un mail à [contact@life-echecs.org](mailto:contact@life-echecs.org).
+Si vous souhaitez vous inscrire à l'édition 2023, vous pouvez envoyez un mail à [contact@life-echecs.org](mailto:contact@life-echecs.org?subject=Inscription LIFE 2023).
 
 <!-- Vous pourrez aussi retrouver des publications régulières sur l'événement Facebook associé. -->
 N'hésitez pas à aller jeter un oeil à la page de [nos sponsors](/sponsors.html) pour découvrir les entreprises qui nous aident à rendre ce tournoi possible et qui pourraient vous intéresser.
