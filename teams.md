@@ -1,6 +1,6 @@
 ---
-layout: teams
+layout: pages
 title: Équipes
-teams: teams
+sponsors: teams
 permalink: /teams.html
 ---
