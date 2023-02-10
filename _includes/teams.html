@@ -1,47 +1,37 @@
-<div class="columns is-multiline">
-    <div class="column is-12">
+{% if page.teams %}
+{% assign teams=site.data.[page.teams] %}
+    <div class="columns is-multiline">
+        <div class="column is-12">
 
-        {% for team in teams %}
+            {% for team in teams %}
 
-        <div class="box has-text-centered">
-            <div class="columns">
-                <!-- <div class="column is-one-quarter">
+            <div class="box has-text-centered">
+                <div class="columns">
                     <p class="title">
-                        <a href="{{ sponsor.link }}" class="is-link">{{ sponsor.name }}</a>
+                        {{ team.name }}
                     </p>
-                    {% for filename in sponsor.img %}
-                    <img src="img/sponsors/{{ filename }}" alt="{{ filename }}" width="100" height="100">
-                    {% endfor %}
+                    <p>
+                        {{ team.player0 }}
+                    </p>
+                    <p>
+                        {{ team.player1 }}
+                    </p>
+                    <p>
+                        {{ team.player2 }}
+                    </p>
+                    <p>
+                        {{ team.player3 }}
+                    </p>
+                    <p>
+                        {{ team.player4 }}
+                    </p>
                 </div>
-                <div class="column is-three-quarters">
-                    <p class="subtitle">
-                        {{ sponsor.description | markdownify }}
-                    </p>
-                </div> -->
-                <p class="title">
-                    {{ team.name }}
-                </p>
-                <p>
-                    {{ team.player0 }}
-                </p>
-                <p>
-                    {{ team.player1 }}
-                </p>
-                <p>
-                    {{ team.player2 }}
-                </p>
-                <p>
-                    {{ team.player3 }}
-                </p>
-                <p>
-                    {{ team.player4 }}
-                </p>
             </div>
-        </div>
 
-        {% endfor %}
+            {% endfor %}
+        </div>
+        <div class="column is-12">
+            <hr />
+        </div>
     </div>
-    <div class="column is-12">
-        <hr />
-    </div>
-</div>
+{% endif %}
