@@ -1,5 +1,5 @@
-{% if page.sponsors %}
-{% assign sponsors=site.data.[page.sponsors] %}
+{% if page.sponsors == "sponsors" %}
+{% assign sponsors=site.data.sponsors %}
     <div class="columns is-multiline">
         <div class="column is-12">
             <p class="title is-3 has-text-centered">
@@ -10,7 +10,7 @@
             </p>
 
             {% for sponsor in sponsors %}
-            
+
             <div class="box has-text-centered">
                 <div class="columns">
                     <div class="column is-one-quarter">
@@ -26,6 +26,44 @@
                             {{ sponsor.description | markdownify }}
                         </p>
                     </div>
+                </div>
+            </div>
+
+            {% endfor %}
+        </div>
+        <div class="column is-12">
+            <hr />
+        </div>
+    </div>
+{% endif %}
+
+{% if page.sponsors == "teams" %}
+{% assign teams=site.data.teams %}
+    <div class="columns is-multiline">
+        <div class="column is-12">
+
+            {% for team in teams %}
+
+            <div class="box has-text-centered">
+                <div class="columns">
+                    <p class="title">
+                        {{ team.name }}
+                    </p>
+                    <p>
+                        {{ team.player0 }}
+                    </p>
+                    <p>
+                        {{ team.player1 }}
+                    </p>
+                    <p>
+                        {{ team.player2 }}
+                    </p>
+                    <p>
+                        {{ team.player3 }}
+                    </p>
+                    <p>
+                        {{ team.player4 }}
+                    </p>
                 </div>
             </div>
 
