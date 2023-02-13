@@ -6,8 +6,6 @@ permalink: /teams.html
 
 ## Centrale Supélec
 
-<div class="table-container">
-
 | Équipe 1                                              |
 |-------------------------------------------------------|
 | [mat0881](https://www.chess.com/member/mat0881)       |
@@ -15,11 +13,7 @@ permalink: /teams.html
 | [RZ_Kyoukai](https://www.chess.com/member/RZ_Kyoukai) |
 | [jmpion](https://www.chess.com/member/jmpion)         |
 
-</div>
-
 ## ECAM
-
-<div class="table-container">
 
 | Équipe 1                                                | Équipe 2                                                              |
 |---------------------------------------------------------|-----------------------------------------------------------------------|
@@ -29,11 +23,7 @@ permalink: /teams.html
 | [alicea2001](https://www.chess.com/member/alicea2001)   | [MrChocolatine](https://www.chess.com/member/MrChocolatine)           |
 | [Patamoule](https://www.chess.com/member/Patamoule)     |                                                                       |
 
-</div>
-
 ## EFREI
-
-<div class="table-container">
 
 | Équipe 1                                            | Équipe 2                                                  | Équipe 3                                                    |
 |-----------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------|
@@ -42,11 +32,7 @@ permalink: /teams.html
 | [chesstut](https://www.chess.com/member/chesstut)   | [fatedane](https://www.chess.com/member/fatedane)         | [CanapeGeant](https://www.chess.com/member/CanapeGeant)     |
 | [Bluemue](https://www.chess.com/member/Bluemue)     | [Mandon2030](https://www.chess.com/member/Mandon2030)     | [Perses_Destro](https://www.chess.com/member/Perses_Destro) |
 
-</div>
-
 ## ENSAE
-
-<div class="table-container">
 
 | Équipe 1                                              |
 |-------------------------------------------------------|
@@ -55,11 +41,7 @@ permalink: /teams.html
 | [Jolaseche](https://www.chess.com/member/Jolaseche)   |
 | [Apdv](https://www.chess.com/member/Apdv)             |
 
-</div>
-
 ## Grenoble INP - Esisar
-
-<div class="table-container">
 
 | Équipe 1                                                        |
 |-----------------------------------------------------------------|
@@ -69,11 +51,7 @@ permalink: /teams.html
 | [Demokaka22](https://www.chess.com/member/Demokaka22)           |
 | [TwinkleSprinklz](https://www.chess.com/member/TwinkleSprinklz) |
 
-</div>
-
 ## IMT Mines d'Ales
-
-<div class="table-container">
 
 | Équipe 1                                                        |
 |-----------------------------------------------------------------|
@@ -82,11 +60,7 @@ permalink: /teams.html
 | [thefarter](https://www.chess.com/member/thefarter)             |
 | [NastyWoodpecker](https://www.chess.com/member/NastyWoodpecker) |
 
-</div>
-
 ## Polytech Orléans
-
-<div class="table-container">
 
 | Équipe 1                                            |
 |-----------------------------------------------------|
@@ -96,11 +70,7 @@ permalink: /teams.html
 | [michadtr](https://www.chess.com/member/michadtr)   |
 | [Bulle_NVL](https://www.chess.com/member/Bulle_NVL) |
 
-</div>
-
 ## Ponts et Chaussées
-
-<div class="table-container">
 
 | Équipe 1                                                              |
 |-----------------------------------------------------------------------|
@@ -110,11 +80,7 @@ permalink: /teams.html
 | [PontsMatthieu](https://www.chess.com/member/PontsMatthieu)           |
 | [ValPonts](https://www.chess.com/member/ValPonts)                     |
 
-</div>
-
 ## Toulouse INP - ENSEEIHT
-
-<div class="table-container">
 
 | Équipe 1                                            | Équipe 2                                                  | Équipe 3                                                  |
 |-----------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
@@ -123,5 +89,3 @@ permalink: /teams.html
 | [Bousghour](https://www.chess.com/member/Bousghour) | [Arthur111110](https://www.chess.com/member/Arthur111110) | [krakal22](https://www.chess.com/member/krakal22)         |
 | [Tomyys](https://www.chess.com/member/Tomyys)       | [vframeze](https://www.chess.com/member/vframeze)         | [Dreadfog](https://www.chess.com/member/Dreadfog)         |
 | [gogetamza](https://www.chess.com/member/gogetamza) | [Enguer31](https://www.chess.com/member/Enguer31)         | [Nathentropie](https://www.chess.com/member/Nathentropie) |
-
-</div>
