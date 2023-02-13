@@ -42,5 +42,13 @@ Après plusieurs mois de compétition qui ont vu s'affronter 32 écoles d'ingén
 
 ### 2022
 
-La LIFE est revenue pour une deuxième édition, avec 135 joueurs venus de toute la France ! Les phases finales du tournoi se sont finies le dimanche 20 mars 2022 avec une victoire de l'équipe des Ponts Paristech contre l'ECE Paris en finale avec une partie [Armaggedon](https://www.chess.com/terms/armageddon-chess) en départage. 
+La LIFE est revenue pour une deuxième édition, avec 135 joueurs venus de toute la France ! Les phases finales du tournoi se sont finies le dimanche 20 mars 2022 avec une victoire de l'équipe des Ponts Paristech contre l'ECE Paris en finale avec une partie [Armaggedon](https://www.chess.com/terms/armageddon-chess) en départage.
 <!-- On se retrouve l'année prochaine pour la troisième édition ! -->
+
+## Nous suivre sur les réseaux
+
+Voici les liens qui vous seront utiles pour le tournoi :
+- [Serveur Discord](https://discord.gg/jpRQGSrQ)
+- [Page Facebook](https://www.facebook.com/profile.php?id=100086146823297)
+- [Page Instagram](https://www.instagram.com/life_echecs/)
+- [Page LinkedIn](https://www.linkedin.com/company/88926816/)
