@@ -13,12 +13,22 @@ permalink: /teams.html
 | RZ_Kyoukai |
 | jmpion     |
 
+## ECAM
+
+| Équipe 1    | Équipe 2           |
+|-------------|--------------------|
+| Emilio26250 | GelatoEtLesCookies |
+| Mugiwara2b  | dino9292           |
+| AyMiteck    | emilesby           |
+| alicea2001  | MrChocolatine      |
+| Patamoule   |                    |
+
 ## EFREI
 
 | Équipe 1  | Équipe 2     | Équipe 3     |
 |-----------|--------------|--------------|
 | Akimasaaa | lordhululung | julessucrot  |
-| stardocka | charisma21   | LGE007       |
+| stardocka | Carisma22    | LGE007       |
 | chesstut  | fatedane     | CanapeGeant  |
 | Bluemue   | Mandon2030   | Perses_Destro|
 
