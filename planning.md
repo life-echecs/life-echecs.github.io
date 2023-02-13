@@ -6,7 +6,7 @@ permalink: /planning.html
 
 ## Tournois de qualification
 
-Il y a 4 tournois de qualification, au format suisse.
+Il y a 4 tournois de qualification, au format suisse. Vous pouvez vous inscrire sur le [club chess.com](https://www.chess.com/club/life-2023/join/020c60) de l'événement !
 
 ### Lundi 13 février
 
