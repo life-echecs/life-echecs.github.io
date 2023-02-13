@@ -2,7 +2,7 @@
 title: Table test
 ---
 
-<table>
+<table class="table">
   {% for row in site.data.tournaments.2022.q1 %}
     {% if forloop.first %}
     <tr>
