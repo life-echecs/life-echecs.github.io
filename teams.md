@@ -4,6 +4,24 @@ title: Équipes
 permalink: /teams.html
 ---
 
+## Centrale Supélec
+
+| Équipe 1   |
+|------------|
+| mat0881    |
+| corndacier |
+| RZ_Kyoukai |
+| jmpion     |
+
+## EFREI
+
+| Équipe 1  | Équipe 2     | Équipe 3     |
+|-----------|--------------|--------------|
+| Akimasaaa | lordhululung | julessucrot  |
+| stardocka | charisma21   | LGE007       |
+| chesstut  | fatedane     | CanapeGeant  |
+| Bluemue   | Mandon2030   | Perses_Destro|
+
 ## ENSAE
 
 | Équipe 1   |
@@ -61,21 +79,3 @@ permalink: /teams.html
 | Bousghour | Arthur111110 | krakal22     |
 | Tomyys    | vframeze     | Dreadfog     |
 | gogetamza | Enguer31     | Nathentropie |
-
-## EFREI
-
-| Équipe 1  | Équipe 2     | Équipe 3     |
-|-----------|--------------|--------------|
-| Akimasaaa | lordhululung | julessucrot  |
-| stardocka | charisma21   | LGE007       |
-| chesstut  | fatedane     | CanapeGeant  |
-| Bluemue   | Mandon2030   | Perses_Destro|
-
-## Centrale Supélec
-
-| Équipe 1           |
-|--------------------|
-| TBD                |
-| TBD                |
-| TBD                |
-| TBD                |
