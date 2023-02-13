@@ -60,6 +60,16 @@ permalink: /teams.html
 | [thefarter](https://www.chess.com/member/thefarter)             |
 | [NastyWoodpecker](https://www.chess.com/member/NastyWoodpecker) |
 
+## INSA Strasbourg
+
+| Équipe 1                                              |
+|-------------------------------------------------------|
+| [coconem](https://www.chess.com/member/coconem)       |
+| [bengolo13](https://www.chess.com/member/bengolo13)   |
+| [FloP0809](https://www.chess.com/member/FloP0809)     |
+| [F4_Enjoyer](https://www.chess.com/member/F4_Enjoyer) |
+| [Djuzuh](https://www.chess.com/member/Djuzuh)         |
+
 ## Polytech Orléans
 
 | Équipe 1                                            |
