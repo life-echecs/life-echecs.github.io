@@ -6,6 +6,8 @@ permalink: /teams.html
 
 ## Centrale Supélec
 
+L'équipe 1 s'est qualifiée pour les phases finales en terminant 2e du tournoi du 13 février.
+
 | Équipe 1                                              |
 |-------------------------------------------------------|
 | [mat0881](https://www.chess.com/member/mat0881)       |
@@ -14,6 +16,8 @@ permalink: /teams.html
 | [jmpion](https://www.chess.com/member/jmpion)         |
 
 ## ECAM
+
+L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tournoi du 13 février.
 
 | Équipe 1                                                | Équipe 2                                                              |
 |---------------------------------------------------------|-----------------------------------------------------------------------|
