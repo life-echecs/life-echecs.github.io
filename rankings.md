@@ -21,3 +21,5 @@ title: Résultats
     {% endfor %}
     </table>
 </div>
+
+*NB: Certains joueurs ayant rencontré des bugs de connexion, ils ont pu obtenir 0.5pt en compensation.*
