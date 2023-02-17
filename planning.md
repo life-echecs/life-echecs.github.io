@@ -31,6 +31,7 @@ Les dates des phases finales seront communiquées ultérieurement.
 ## Nous suivre sur les réseaux
 
 Voici les liens qui vous seront utiles pour le tournoi :
+- [Serveur Discord](https://discord.gg/V2EFdNJ7)
 - [Page Facebook](https://www.facebook.com/profile.php?id=100086146823297)
 - [Page Instagram](https://www.instagram.com/life_echecs/)
 - [Page LinkedIn](https://www.linkedin.com/company/88926816/)
