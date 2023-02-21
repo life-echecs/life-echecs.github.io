@@ -29,6 +29,8 @@ L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tourn
 
 ## EFREI
 
+L'équipe 1 s'est qualifiée pour les phases finales en terminant 2e du tournoi du 20 février.
+
 | Équipe 1                                            | Équipe 2                                                  | Équipe 3                                                    |
 |-----------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------|
 | [Akimasaaa](https://www.chess.com/member/Akimasaaa) | [lordhululung](https://www.chess.com/member/lordhululung) | [julessucrot](https://www.chess.com/member/julessucrot)     |
@@ -37,6 +39,8 @@ L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tourn
 | [Bluemue](https://www.chess.com/member/Bluemue)     | [Mandon2030](https://www.chess.com/member/Mandon2030)     | [Perses_Destro](https://www.chess.com/member/Perses_Destro) |
 
 ## ENSAE
+
+L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tournoi du 20 février.
 
 | Équipe 1                                              |
 |-------------------------------------------------------|
