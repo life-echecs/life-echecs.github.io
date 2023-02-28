@@ -98,6 +98,15 @@ L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tourn
 | [michadtr](https://www.chess.com/member/michadtr)   |
 | [Bulle_NVL](https://www.chess.com/member/Bulle_NVL) |
 
+## Polytechnique
+
+| Équipe 1                                          |
+|---------------------------------------------------|
+| [jd2810](https://www.chess.com/member/jd2810)     |
+| [Numago33](https://www.chess.com/member/Numago33) |
+| [WTHRS](https://www.chess.com/member/WTHRS)       |
+| [Versus24](https://www.chess.com/member/Versus24) |
+
 ## Ponts et Chaussées
 
 | Équipe 1                                                              |
