@@ -49,6 +49,16 @@ L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tourn
 | [Jolaseche](https://www.chess.com/member/Jolaseche)   |
 | [Apdv](https://www.chess.com/member/Apdv)             |
 
+## ENGEES
+
+| Équipe 1                                            |
+|-----------------------------------------------------|
+| [Jeanbcc2b](https://www.chess.com/member/Jeanbcc2b) |
+| [xabih64](https://www.chess.com/member/xabih64)     |
+| [Quatron22](https://www.chess.com/member/Quatron22) |
+| [Buche2](https://www.chess.com/member/Buche2)       |
+| [clems50](https://www.chess.com/member/clems50)     |
+
 ## Grenoble INP - Esisar
 
 | Équipe 1                                                        |
