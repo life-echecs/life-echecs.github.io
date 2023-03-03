@@ -100,6 +100,8 @@ L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tourn
 
 ## Polytechnique
 
+L'équipe 1 s'est qualifiée pour les phases finales en terminant 2e du tournoi du 1er mars.
+
 | Équipe 1                                          |
 |---------------------------------------------------|
 | [jd2810](https://www.chess.com/member/jd2810)     |
@@ -118,6 +120,8 @@ L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tourn
 | [ValPonts](https://www.chess.com/member/ValPonts)                     |
 
 ## Toulouse INP - ENSEEIHT
+
+L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tournoi du 1er mars.
 
 | Équipe 1                                            | Équipe 2                                                  | Équipe 3                                                  |
 |-----------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
