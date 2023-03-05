@@ -59,6 +59,15 @@ L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tourn
 | [Buche2](https://www.chess.com/member/Buche2)       |
 | [clems50](https://www.chess.com/member/clems50)     |
 
+## EPITA
+
+| Équipe 1                                              |
+|-------------------------------------------------------|
+| [bloupseur](https://www.chess.com/member/bloupseur)   |
+| [timo2711](https://www.chess.com/member/timo2711)     |
+| [Th0rOnDoR0](https://www.chess.com/member/Th0rOnDoR0) |
+| [Elfrith](https://www.chess.com/member/Elfrith)       |
+
 ## Grenoble INP - Esisar
 
 | Équipe 1                                                        |
