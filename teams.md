@@ -31,6 +31,8 @@ L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tourn
 
 L'équipe 1 s'est qualifiée pour les phases finales en terminant 2e du tournoi du 20 février.
 
+L'équipe 2 s'est qualifiée pour les phases finales en terminant 7e au classement général.
+
 | Équipe 1                                            | Équipe 2                                                  | Équipe 3                                                    |
 |-----------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------|
 | [Akimasaaa](https://www.chess.com/member/Akimasaaa) | [lordhululung](https://www.chess.com/member/lordhululung) | [julessucrot](https://www.chess.com/member/julessucrot)     |
@@ -51,6 +53,8 @@ L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tourn
 
 ## ENGEES
 
+L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tournoi du 8 mars.
+
 | Équipe 1                                            |
 |-----------------------------------------------------|
 | [Jeanbcc2b](https://www.chess.com/member/Jeanbcc2b) |
@@ -69,6 +73,8 @@ L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tourn
 | [Elfrith](https://www.chess.com/member/Elfrith)       |
 
 ## Grenoble INP - Esisar
+
+L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère au classement général.
 
 | Équipe 1                                                        |
 |-----------------------------------------------------------------|
@@ -89,6 +95,8 @@ L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tourn
 
 ## INSA Strasbourg
 
+L'équipe 1 s'est qualifiée pour les phases finales en terminant 2e du tournoi du 8 mars.
+
 | Équipe 1                                              |
 |-------------------------------------------------------|
 | [coconem](https://www.chess.com/member/coconem)       |
@@ -98,6 +106,8 @@ L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tourn
 | [Djuzuh](https://www.chess.com/member/Djuzuh)         |
 
 ## Polytech Orléans
+
+L'équipe 1 s'est qualifiée pour les phases finales en terminant 4e au classement général.
 
 | Équipe 1                                            |
 |-----------------------------------------------------|
@@ -119,6 +129,8 @@ L'équipe 1 s'est qualifiée pour les phases finales en terminant 2e du tournoi 
 | [Versus24](https://www.chess.com/member/Versus24) |
 
 ## Ponts et Chaussées
+
+L'équipe 1 s'est qualifiée pour les phases finales en terminant 5e au classement général.
 
 | Équipe 1                                                              |
 |-----------------------------------------------------------------------|
