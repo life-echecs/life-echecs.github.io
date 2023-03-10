@@ -65,3 +65,23 @@ title: Résultats
     {% endfor %}
     </table>
 </div>
+
+## Tournoi de qualification 4
+
+<div class="table-container">
+    <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
+    {% for row in site.data.tournaments.2023.resultats_q4 %}
+        {% if forloop.first %}
+        <tr>
+        {% for pair in row %}
+            <th>{{ pair[0] }}</th>
+        {% endfor %}
+        </tr>
+        {% endif %}
+
+        {% tablerow pair in row %}
+        {{ pair[1] }}
+        {% endtablerow %}
+    {% endfor %}
+    </table>
+</div>
