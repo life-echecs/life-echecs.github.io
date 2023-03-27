@@ -26,7 +26,7 @@ Mercredi 8 mars 2023 : [Tournoi de qualification](https://www.chess.com/play/tou
 
 ## Phases finales
 
-Les dates des phases finales seront communiquées ultérieurement.
+Les phases finales auront lieu le samedi 13 mai à partir de 14h. Le tout sera commenté comme l'année dernière par le MI Kevin Terrieux.
 
 ## Nous suivre sur les réseaux
 
