@@ -8,6 +8,8 @@
   link: /planning.html
 - name: Équipes
   link: /teams.html
+- name: Direct
+  link: /watch.html
 - name: Résultats
   dropdown: 
     - name: 2021
