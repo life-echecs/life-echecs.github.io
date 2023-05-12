@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Équipes
-permalink: /finales.html
+permalink: /watch.html
 ---
 
 ## Centrale Supélec
