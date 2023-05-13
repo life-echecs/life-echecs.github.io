@@ -127,12 +127,12 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912674?action=un
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912691?action=undefined&clubId=512063). Score : 0-1.
 
-| ENGEES    |                                                                                        | INSA Strasbourg |
-|-----------|----------------------------------------------------------------------------------------|-----------------|
+| ENGEES    |                                                                                            | INSA Strasbourg |
+|-----------|--------------------------------------------------------------------------------------------|-----------------|
 | jeanbcc2b | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728871399) | Bengolo13       |
 | clems50   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728871401) | F4_Enjoyer      |
-| Quaton22  | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728871403) | FloP0809        |
-| xabih64   | 0-1 (forfait)                               | Djuzuh          |
+| Quaton22  | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728871403) 1 | FloP0809        |
+| xabih64   | 0-1 (forfait)                                                                              | Djuzuh          |
 
 # Finale
 
