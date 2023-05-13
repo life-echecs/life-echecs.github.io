@@ -112,37 +112,37 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912672?action=un
 
 ## INSA Strasbourg - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912674?action=undefined&clubId=493861). Score : 0-2.
+Le match est disponible [ici](https://www.chess.com/play/match/1912674?action=undefined&clubId=493861). Score : 1-2. Victoire de Polytechnique.
 
 | INSA Strasbourg |                                                                                                | Polytechnique |
 |-----------------|------------------------------------------------------------------------------------------------|---------------|
 | coconem         | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059645) 1 | Numago33          |
 | F4_Enjoyer      | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059647) 1 | WTHRS             |
 | FloP0809        | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059649) | Versus24          |
-| Djuzuh          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059651) | natello35         |
+| Djuzuh          | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059651) 0 | natello35         |
 
 # Petite Finale
 
-## TBD - TBD
+## TBD - INSA Strasbourg
 
 Le match est disponible [ici](https://www.chess.com/).
 
-| TBD |                                                                                        | TBD |
-|-----|----------------------------------------------------------------------------------------|-----|
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
+| TBD |                                                                                        | INSA Strasbourg |
+|-----|----------------------------------------------------------------------------------------|-----------------|
+| TBD | [<img src="img/assets/eye.png" width=20>]() | coconem         |
+| TBD | [<img src="img/assets/eye.png" width=20>]() | F4_Enjoyer      |
+| TBD | [<img src="img/assets/eye.png" width=20>]() | FloP0809        |
+| TBD | [<img src="img/assets/eye.png" width=20>]() | Djuzuh          |
 
 # Finale
 
-## TBD - TBD
+## TBD - Polytechnique
 
 Le match est disponible [ici](https://www.chess.com/).
 
-| TBD |                                                                                        | TBD |
-|-----|----------------------------------------------------------------------------------------|-----|
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
+| TBD |                                                                                        | Polytechnique |
+|-----|----------------------------------------------------------------------------------------|---------------|
+| TBD | [<img src="img/assets/eye.png" width=20>]() | Numago33          |
+| TBD | [<img src="img/assets/eye.png" width=20>]() | WTHRS             |
+| TBD | [<img src="img/assets/eye.png" width=20>]() | Versus24          |
+| TBD | [<img src="img/assets/eye.png" width=20>]() | natello35         |
