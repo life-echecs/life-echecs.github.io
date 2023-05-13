@@ -73,28 +73,28 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=un
 | Dams51           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669523) | jeanbcc2b |
 | IPA247           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669531) | xabih64   |
 | Bulle_NVL        | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669535) | Quaton22  |
-| Forfait          | F-1                                        | Clems50                                   |
+| Forfait          | F-1                                                                                    | Clems50   |
 
 ## EFREI 2 - INSA Strasbourg
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069).
 
-| EFREI 2 |                                                                                        | INSA Strasbourg |
-|-----|----------------------------------------------------------------------------------------|-----------------|
-| Mandon2030 | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667699) | coconem         |
+| EFREI 2      |                                                                                        | INSA Strasbourg |
+|--------------|----------------------------------------------------------------------------------------|-----------------|
+| Mandon2030   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667699) | coconem         |
 | lordhululung | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667701) | F4_Enjoyer      |
-| carisma22 | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667703) | FloP0809        |
+| carisma22    | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667703) | FloP0809        |
 
 ## Grenoble INP - Esisar - Polytechnique
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857).
 
 | Grenoble INP - Esisar |                                                                                        | Polytechnique |
-|-----------------------|----------------------------------------------------------------------------------------|-----|
-| Demokaka22              | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662305) | WTHRS |
-|  Marguetv           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662307) | Numago33 |
-|   TwinkleSprinklz            | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662309) | Versus24 |
-|    minhtuandinh    | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662311) | jd2810 |
+|-----------------------|----------------------------------------------------------------------------------------|---------------|
+| Demokaka22            | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662305) | WTHRS         |
+| Marguetv              | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662307) | Numago33      |
+| TwinkleSprinklz       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662309) | Versus24      |
+| minhtuandinh          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662311) | jd2810        |
 
 # Demis finales
 
