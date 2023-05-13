@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Équipes
+title: Tournoi en Direct
 permalink: /watch.html
 ---
 
