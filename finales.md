@@ -101,7 +101,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=un
 
 ## Centrale Supélec - ENGEES
 
-Le match est disponible [ici]([https://www.chess.com/](https://www.chess.com/play/match/1912668?action=undefined&clubId=512061)).
+Le match est disponible [ici](https://www.chess.com/play/match/1912668?action=undefined&clubId=512061).
 
 | Centrale Supélec |                                                                                            | ENGEES    |
 |------------------|--------------------------------------------------------------------------------------------|-----------|
