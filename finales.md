@@ -55,7 +55,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912638?action=un
 
 ## Centrale Supélec - Toulouse INP - ENSEEIHT
 
-Le match est disponible [ici](https://www.chess.com/).
+Le match est disponible [ici](https://www.chess.com/play/match/1912661?action=undefined&clubId=512061).
 
 | TBD |                                                                                        | Toulouse INP - ENSEEIHT |
 |-----|----------------------------------------------------------------------------------------|-------------------------|
@@ -66,7 +66,7 @@ Le match est disponible [ici](https://www.chess.com/).
 
 ## Polytech Orléans - ENGEES
 
-Le match est disponible [ici](https://www.chess.com/).
+Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=undefined&clubId=493863).
 
 | Polytech Orléans |                                                                                        | TBD |
 |------------------|----------------------------------------------------------------------------------------|-----|
@@ -77,7 +77,7 @@ Le match est disponible [ici](https://www.chess.com/).
 
 ## EFREI 2 - INSA Strasbourg
 
-Le match est disponible [ici](https://www.chess.com/).
+Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069).
 
 | TBD |                                                                                        | INSA Strasbourg |
 |-----|----------------------------------------------------------------------------------------|-----------------|
@@ -88,7 +88,7 @@ Le match est disponible [ici](https://www.chess.com/).
 
 ## Grenoble INP - Esisar - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/).
+Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069).
 
 | Grenoble INP - Esisar |                                                                                        | TBD |
 |-----------------------|----------------------------------------------------------------------------------------|-----|
