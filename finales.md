@@ -8,14 +8,14 @@ permalink: /watch.html
 
 ## ENSAE - Centrale Supélec
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912635?action=undefined&clubId=512059). Score : 0-3.
+Le match est disponible [ici](https://www.chess.com/play/match/1912635?action=undefined&clubId=512059). Score final : 0-4. Victoire de Centrale Supélec.
 
 | ENSAE      |                                                                                            | Centrale Supélec |
 |------------|--------------------------------------------------------------------------------------------|------------------|
 | Vincent608 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718184299) 1 | RZ_Kyoukai       |
 | Michel_100 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718184303) 1 | jmpion           |
 | Jolaseche  | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718184307) 1 | mat0881          |
-| Apdv       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718827427) | corndacier       |
+| Apdv       | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718827427) 1 | corndacier       |
 
 ## ENGEES - Ponts ParisTech
 
