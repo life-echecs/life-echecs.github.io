@@ -55,7 +55,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912638?action=un
 
 ## Centrale Supélec - Toulouse INP - ENSEEIHT
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912661?action=undefined&clubId=512061). Score : 4-0. Victoire de Centrale Supélec.
+Le match est disponible [ici](https://www.chess.com/play/match/1912661?action=undefined&clubId=512061). Score final : 4-0. Victoire de Centrale Supélec.
 
 | Centrale Supélec |                                                                                            | Toulouse INP - ENSEEIHT |
 |------------------|--------------------------------------------------------------------------------------------|-------------------------|
@@ -66,7 +66,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912661?action=un
 
 ## Polytech Orléans - ENGEES
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=undefined&clubId=493863). Score : 0-4. Victoire de l'ENGEES.
+Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=undefined&clubId=493863). Score final : 0-4. Victoire de l'ENGEES.
 
 | Polytech Orléans |                                                                                            | ENGEES    |
 |------------------|--------------------------------------------------------------------------------------------|-----------|
@@ -77,7 +77,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=un
 
 ## EFREI 2 - INSA Strasbourg
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069). Score : ½-3½. Victoire de l'INSA Strasbourg
+Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069). Score final : ½-3½. Victoire de l'INSA Strasbourg
 
 | EFREI 2      |                                                                                            | INSA Strasbourg |
 |--------------|--------------------------------------------------------------------------------------------|-----------------|
@@ -88,7 +88,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=un
 
 ## Grenoble INP - Esisar - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857). Score : 1-3. Victoire de Polytechnique.
+Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857). Score final : 1-3. Victoire de Polytechnique.
 
 | Grenoble INP - Esisar |                                                                                            | Polytechnique |
 |-----------------------|--------------------------------------------------------------------------------------------|---------------|
