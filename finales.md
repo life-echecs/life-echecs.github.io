@@ -143,6 +143,6 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912682).
 | Centrale Supélec |                                                                                        | Polytechnique |
 |------------------|----------------------------------------------------------------------------------------|---------------|
 | RZ_Kyoukai       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850929) | Numago33      |
-| jmpion           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850931) | WTHRS         |
+| jmpion           | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850931) 0 | WTHRS         |
 | mat0881          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850933) | Versus24      |
 | corndacier       | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850935) 0 | natello35     |
