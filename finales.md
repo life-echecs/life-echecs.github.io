@@ -77,7 +77,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=un
 
 ## EFREI 2 - INSA Strasbourg
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069). Score : 0-3. Victoire de l'INSA Strasbourg
+Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069). Score : ½-3½. Victoire de l'INSA Strasbourg
 
 | EFREI 2      |                                                                                            | INSA Strasbourg |
 |--------------|--------------------------------------------------------------------------------------------|-----------------|
