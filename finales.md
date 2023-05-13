@@ -125,7 +125,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912674?action=un
 
 ## ENGEES - INSA Strasbourg
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912691?action=undefined&clubId=512063).
+Le match est disponible [ici](https://www.chess.com/play/match/1912691?action=undefined&clubId=512063). Score : 0-1.
 
 | ENGEES    |                                                                                        | INSA Strasbourg |
 |-----------|----------------------------------------------------------------------------------------|-----------------|
