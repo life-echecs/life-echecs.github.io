@@ -15,7 +15,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912635?action=un
 | Vincent608 | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718184299) | RZ_Kyoukai       |
 | Michel_100 | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718184303) | jmpion           |
 | Jolaseche  | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718184307) | mat0881          |
-| Apdv       | [<img src="img/assets/eye.png" width=20>]() | corndacier       |
+| Apdv       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718827427) | corndacier       |
 
 ## ENGEES - Ponts ParisTech
 
