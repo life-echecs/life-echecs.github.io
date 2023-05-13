@@ -77,17 +77,18 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=un
 
 ## EFREI 2 - INSA Strasbourg
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069). Score : 0-1.
+Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069). Score : 0-3. Victoire de l'INSA Strasbourg
 
 | EFREI 2      |                                                                                            | INSA Strasbourg |
 |--------------|--------------------------------------------------------------------------------------------|-----------------|
 | Mandon2030   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667699) | coconem         |
-| lordhululung | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667701) | F4_Enjoyer      |
+| lordhululung | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667701) 1 | F4_Enjoyer      |
 | carisma22    | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667703) 1 | FloP0809        |
+| Forfait      | 0-1                                                                                        | bengolo13       |
 
 ## Grenoble INP - Esisar - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857). Score : 0-3.
+Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857). Score : 0-3. Victoire de Polytechnique.
 
 | Grenoble INP - Esisar |                                                                                            | Polytechnique |
 |-----------------------|--------------------------------------------------------------------------------------------|---------------|
@@ -109,16 +110,16 @@ Le match est disponible [ici](https://www.chess.com/).
 | TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
 | TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
 
-## TBD - Polytechnique
+## INSA Strasbourg - Polytechnique
 
 Le match est disponible [ici](https://www.chess.com/).
 
-| TBD |                                                                                        | Polytechnique |
-|-----|----------------------------------------------------------------------------------------|-----|
-| TBD | [<img src="img/assets/eye.png" width=20>]() | WTHRS |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | Numago33 |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | Versus24 |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | jd2810 |
+| INSA Strasbourg |                                                                                            | Polytechnique |
+|-----------------|--------------------------------------------------------------------------------------------|---------------|
+| coconem         | [<img src="img/assets/eye.png" width=20>]() | WTHRS             |
+| bengolo13       | [<img src="img/assets/eye.png" width=20>]() | Numago33          |
+| F4_Enjoyer      | [<img src="img/assets/eye.png" width=20>]() | Versus24          |
+| FloP0809        | [<img src="img/assets/eye.png" width=20>]() | jd2810            |
 
 # Petite Finale
 
