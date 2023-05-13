@@ -101,25 +101,25 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=un
 
 ## Centrale Supélec - ENGEES
 
-Le match est disponible [ici](https://www.chess.com/).
+Le match est disponible [ici]([https://www.chess.com/](https://www.chess.com/play/match/1912668?action=undefined&clubId=512061)).
 
 | Centrale Supélec |                                                                                            | ENGEES    |
 |------------------|--------------------------------------------------------------------------------------------|-----------|
-| RZ_Kyoukai       | [<img src="img/assets/eye.png" width=20>]() | jeanbcc2b |
-| jmpion           | [<img src="img/assets/eye.png" width=20>]() | xabih64   |
-| mat0881          | [<img src="img/assets/eye.png" width=20>]() | Quaton22  |
-| corndacier       | [<img src="img/assets/eye.png" width=20>]() | Clems50   |
+| RZ_Kyoukai       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912668?action=undefined&clubId=512061) | jeanbcc2b |
+| jmpion           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912668?action=undefined&clubId=512061) | xabih64   |
+| mat0881          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912668?action=undefined&clubId=512061) | Quaton22  |
+| corndacier       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912668?action=undefined&clubId=512061) | Clems50   |
 
 ## INSA Strasbourg - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/).
+Le match est disponible [ici](https://www.chess.com/play/match/1912670?action=undefined&clubId=493861).
 
 | INSA Strasbourg |                                                                                            | Polytechnique |
 |-----------------|--------------------------------------------------------------------------------------------|---------------|
-| coconem         | [<img src="img/assets/eye.png" width=20>]() | WTHRS             |
-| bengolo13       | [<img src="img/assets/eye.png" width=20>]() | Numago33          |
-| F4_Enjoyer      | [<img src="img/assets/eye.png" width=20>]() | Versus24          |
-| FloP0809        | [<img src="img/assets/eye.png" width=20>]() | jd2810            |
+| coconem         | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912670?action=undefined&clubId=493861) | Numago33          |
+| bengolo13       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912670?action=undefined&clubId=493861) | WTHRS             |
+| F4_Enjoyer      | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912670?action=undefined&clubId=493861) | Versus24          |
+| FloP0809        | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912670?action=undefined&clubId=493861) | jd2810            |
 
 # Petite Finale
 
