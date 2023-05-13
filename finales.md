@@ -79,12 +79,11 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=un
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069).
 
-| TBD |                                                                                        | INSA Strasbourg |
+| EFREI 2 |                                                                                        | INSA Strasbourg |
 |-----|----------------------------------------------------------------------------------------|-----------------|
-| TBD | [<img src="img/assets/eye.png" width=20>]() | coconem         |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | bengolo13       |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | F4_Enjoyer      |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | FloP0809        |
+| Mandon2030 | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667699) | coconem         |
+| lordhululung | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667701) | F4_Enjoyer      |
+| carisma22 | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667703) | FloP0809        |
 
 ## Grenoble INP - Esisar - Polytechnique
 
