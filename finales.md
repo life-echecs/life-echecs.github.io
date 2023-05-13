@@ -55,14 +55,14 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912638?action=un
 
 ## Centrale Supélec - Toulouse INP - ENSEEIHT
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912661?action=undefined&clubId=512061).
+Le match est disponible [ici](https://www.chess.com/play/match/1912661?action=undefined&clubId=512061). Score : 2-0.
 
 | Centrale Supélec |                                                                                            | Toulouse INP - ENSEEIHT |
 |------------------|--------------------------------------------------------------------------------------------|-------------------------|
 | RZ_Kyoukai       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655907) | adpkh                   |
 | jmpion           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655911) | Learza7                 |
-| mat0881          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655913) | Bousghour               |
-| corndacier       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655915) | gogetamza               |
+| mat0881          | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655913) 0 | Bousghour               |
+| corndacier       | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655915) 0 | gogetamza               |
 
 ## Polytech Orléans - ENGEES
 
