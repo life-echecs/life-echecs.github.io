@@ -101,14 +101,14 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=un
 
 ## Centrale Supélec - ENGEES
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912672?action=undefined&clubId=512061).
+Le match est disponible [ici](https://www.chess.com/play/match/1912672?action=undefined&clubId=512061). Score : 1-0.
 
 | Centrale Supélec |                                                                                            | ENGEES    |
 |------------------|--------------------------------------------------------------------------------------------|-----------|
 | RZ_Kyoukai       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726039613) | jeanbcc2b |
 | jmpion           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726039617) | xabih64   |
 | mat0881          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726039619) | clems50   |
-| corndacier       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726039623) | Quaton22  |
+| corndacier       | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726039623) 0 | Quaton22  |
 
 ## INSA Strasbourg - Polytechnique
 
