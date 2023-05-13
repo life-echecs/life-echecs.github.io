@@ -26,7 +26,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912633?action=un
 | Jeanbcc2b | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718205157) | PontsMatthieu      |
 | xabih64   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718205159) | TroisFrancsSixSous |
 | clems50   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718205161) | AugustePonts       |
-| Buche2    | [<img src="img/assets/eye.png" width=20>]() | jospeii            |
+| Quatron22 | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718775419) | ValPonts           |
 
 
 ## EFREI 2 - ECAM LaSalle
