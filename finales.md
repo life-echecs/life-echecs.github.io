@@ -107,7 +107,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912668?action=un
 |------------------|--------------------------------------------------------------------------------------------|-----------|
 | RZ_Kyoukai       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912668?action=undefined&clubId=512061) | jeanbcc2b |
 | jmpion           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912668?action=undefined&clubId=512061) | xabih64   |
-| mat0881          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912668?action=undefined&clubId=512061) | Clems50   |
+| mat0881          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912668?action=undefined&clubId=512061) | clems50   |
 | corndacier       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912668?action=undefined&clubId=512061) | Quaton22  |
 
 ## INSA Strasbourg - Polytechnique
