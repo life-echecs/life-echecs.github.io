@@ -125,12 +125,12 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912674?action=un
 
 ## ENGEES - INSA Strasbourg
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912691?action=undefined&clubId=512063). Score : 1-2.
+Le match est disponible [ici](https://www.chess.com/play/match/1912691?action=undefined&clubId=512063). Score : 1½-2½. Victoire de l'INSA Strasbourg.
 
 | ENGEES    |                                                                                            | INSA Strasbourg |
 |-----------|--------------------------------------------------------------------------------------------|-----------------|
 | jeanbcc2b | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728871399) 0 | Bengolo13       |
-| clems50   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728871401) | F4_Enjoyer      |
+| clems50   | ½ [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728871401) ½ | F4_Enjoyer      |
 | Quaton22  | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728871403) 1 | FloP0809        |
 | xabih64   | 0-1 (forfait)                                                                              | Djuzuh          |
 
