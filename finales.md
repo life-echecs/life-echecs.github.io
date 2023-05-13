@@ -33,12 +33,12 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912633?action=un
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912636?action=undefined&clubId=512073). Victoire de l'EFREI 2 (par forfait).
 
-| EFREI 2      |     | ECAM LaSalle |
-|--------------|-----|--------------|
-| Mandon2030   | 1-0 | Emilio26250  |
-| lordhululung | 1-0 | AyMiteck     |
-| fatedane     | 1-0 | Mugiwara2b   |
-| carisma22    | 1-0 | alicea2001   |
+| EFREI 2      |               | ECAM LaSalle |
+|--------------|---------------|--------------|
+| Mandon2030   | 1-0 (forfait) | Emilio26250  |
+| lordhululung | 1-0 (forfait) | AyMiteck     |
+| fatedane     | 1-0 (forfait) | Mugiwara2b   |
+| carisma22    | 1-0 (forfait) | alicea2001   |
 
 ## EFREI 1 - Polytechnique
 
@@ -55,25 +55,25 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912638?action=un
 
 ## Centrale Supélec - Toulouse INP - ENSEEIHT
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912661?action=undefined&clubId=512061). Score : 2-0.
+Le match est disponible [ici](https://www.chess.com/play/match/1912661?action=undefined&clubId=512061). Score : 4-0. Victoire de Centrale Supélec.
 
 | Centrale Supélec |                                                                                            | Toulouse INP - ENSEEIHT |
 |------------------|--------------------------------------------------------------------------------------------|-------------------------|
-| RZ_Kyoukai       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655907) | adpkh                   |
-| jmpion           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655911) | Learza7                 |
+| RZ_Kyoukai       | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655907) 0 | adpkh                   |
+| jmpion           | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655911) 0 | Learza7                 |
 | mat0881          | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655913) 0 | Bousghour               |
 | corndacier       | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655915) 0 | gogetamza               |
 
 ## Polytech Orléans - ENGEES
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=undefined&clubId=493863). Score : 0-2.
+Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=undefined&clubId=493863). Score : 0-4. Victoire de l'ENGEES.
 
 | Polytech Orléans |                                                                                            | ENGEES    |
 |------------------|--------------------------------------------------------------------------------------------|-----------|
-| Dams51           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669523) | jeanbcc2b |
+| Dams51           | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669523) 1 | jeanbcc2b |
 | IPA247           | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669531) 1 | xabih64   |
-| Bulle_NVL        | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669535) | Quaton22  |
-| Forfait          | F-1                                                                                    | Clems50   |
+| Bulle_NVL        | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669535) 1 | Quaton22  |
+| Forfait          | 0-1  (forfait)                                                                             | Clems50   |
 
 ## EFREI 2 - INSA Strasbourg
 
@@ -84,7 +84,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=un
 | Mandon2030   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667699) | coconem         |
 | lordhululung | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667701) 1 | F4_Enjoyer      |
 | carisma22    | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667703) 1 | FloP0809        |
-| Forfait      | 0-1                                                                                        | bengolo13       |
+| Forfait      | 0-1 (forfait)                                                                              | bengolo13       |
 
 ## Grenoble INP - Esisar - Polytechnique
 
@@ -99,16 +99,16 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=un
 
 # Demis finales
 
-## TBD - TBD
+## Centrale Supélec - ENGEES
 
 Le match est disponible [ici](https://www.chess.com/).
 
-| TBD |                                                                                        | TBD |
+| Centrale Supélec |                                                                                        | TBD |
 |-----|----------------------------------------------------------------------------------------|-----|
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
+| RZ_Kyoukai | [<img src="img/assets/eye.png" width=20>]() | TBD |
+| jmpion | [<img src="img/assets/eye.png" width=20>]() | TBD |
+| mat0881 | [<img src="img/assets/eye.png" width=20>]() | TBD |
+| corndacier | [<img src="img/assets/eye.png" width=20>]() | TBD |
 
 ## INSA Strasbourg - Polytechnique
 
