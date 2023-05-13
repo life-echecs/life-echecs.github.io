@@ -87,12 +87,12 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=un
 
 ## Grenoble INP - Esisar - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857). Score : 0-2.
+Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857). Score : 0-3.
 
 | Grenoble INP - Esisar |                                                                                            | Polytechnique |
 |-----------------------|--------------------------------------------------------------------------------------------|---------------|
 | Demokaka22            | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662305) | WTHRS         |
-| Marguetv              | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662307) | Numago33      |
+| Marguetv              | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662307) 1 | Numago33      |
 | TwinkleSprinklz       | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662309) 1 | Versus24      |
 | minhtuandinh          | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662311) 1 | jd2810        |
 
@@ -109,16 +109,16 @@ Le match est disponible [ici](https://www.chess.com/).
 | TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
 | TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
 
-## TBD - TBD
+## TBD - Polytechnique
 
 Le match est disponible [ici](https://www.chess.com/).
 
-| TBD |                                                                                        | TBD |
+| TBD |                                                                                        | Polytechnique |
 |-----|----------------------------------------------------------------------------------------|-----|
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | TBD |
+| TBD | [<img src="img/assets/eye.png" width=20>]() | WTHRS |
+| TBD | [<img src="img/assets/eye.png" width=20>]() | Numago33 |
+| TBD | [<img src="img/assets/eye.png" width=20>]() | Versus24 |
+| TBD | [<img src="img/assets/eye.png" width=20>]() | jd2810 |
 
 # Petite Finale
 
