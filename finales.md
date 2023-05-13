@@ -8,7 +8,7 @@ permalink: /watch.html
 
 ## ENSAE - Centrale Supélec
 
-Le match est disponible [ici](https://www.chess.com/).
+Le match est disponible [ici](https://www.chess.com/play/match/1912635?action=undefined&clubId=512059).
 
 | ENSAE      |                                                                                        | Centrale Supélec |
 |------------|----------------------------------------------------------------------------------------|------------------|
@@ -19,7 +19,7 @@ Le match est disponible [ici](https://www.chess.com/).
 
 ## ENGEES - Ponts ParisTech
 
-Le match est disponible [ici](https://www.chess.com/).
+Le match est disponible [ici](https://www.chess.com/play/match/1912633?action=undefined&clubId=512063).
 
 | ENGEES    |                                                                                        | Ponts ParisTech    |
 |-----------|----------------------------------------------------------------------------------------|--------------------|
@@ -31,7 +31,7 @@ Le match est disponible [ici](https://www.chess.com/).
 
 ## EFREI 2 - ECAM LaSalle
 
-Le match est disponible [ici](https://www.chess.com/).
+Le match est disponible [ici](https://www.chess.com/play/match/1912636?action=undefined&clubId=512073).
 
 | EFREI 2      |                                                                                        | ECAM LaSalle |
 |--------------|----------------------------------------------------------------------------------------|--------------|
@@ -42,7 +42,7 @@ Le match est disponible [ici](https://www.chess.com/).
 
 ## EFREI 1 - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/).
+Le match est disponible [ici](https://www.chess.com/play/match/1912638?action=undefined&clubId=512071).
 
 | EFREI 1   |                                                                                                 | Polytechnique |
 |-----------|-------------------------------------------------------------------------------------------------|---------------|
