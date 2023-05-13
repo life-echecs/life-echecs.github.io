@@ -66,7 +66,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912661?action=un
 
 ## Polytech Orléans - ENGEES
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=undefined&clubId=493863). Score : 0-1.
+Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=undefined&clubId=493863). Score : 0-2.
 
 | Polytech Orléans |                                                                                            | ENGEES    |
 |------------------|--------------------------------------------------------------------------------------------|-----------|
@@ -77,23 +77,23 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=un
 
 ## EFREI 2 - INSA Strasbourg
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069).
+Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069). Score : 0-1.
 
 | EFREI 2      |                                                                                            | INSA Strasbourg |
 |--------------|--------------------------------------------------------------------------------------------|-----------------|
 | Mandon2030   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667699) | coconem         |
 | lordhululung | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667701) | F4_Enjoyer      |
-| carisma22    | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667703) | FloP0809        |
+| carisma22    | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667703) 1 | FloP0809        |
 
 ## Grenoble INP - Esisar - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857). Score : 0-1.
+Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857). Score : 0-2.
 
 | Grenoble INP - Esisar |                                                                                            | Polytechnique |
 |-----------------------|--------------------------------------------------------------------------------------------|---------------|
 | Demokaka22            | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662305) | WTHRS         |
 | Marguetv              | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662307) | Numago33      |
-| TwinkleSprinklz       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662309) | Versus24      |
+| TwinkleSprinklz       | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662309) 1 | Versus24      |
 | minhtuandinh          | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662311) 1 | jd2810        |
 
 # Demis finales
