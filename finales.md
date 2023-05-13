@@ -89,12 +89,12 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=un
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857).
 
-| Grenoble INP - Esisar |                                                                                        | TBD |
+| Grenoble INP - Esisar |                                                                                        | Polytechnique |
 |-----------------------|----------------------------------------------------------------------------------------|-----|
-| Letton72              | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| Demokaka22            | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| Marguetv              | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| TwinkleSprinklz       | [<img src="img/assets/eye.png" width=20>]() | TBD |
+| Demokaka22              | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662305) | WTHRS |
+|  Marguetv           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662307) | Numago33 |
+|   TwinkleSprinklz            | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662309) | Versus24 |
+|    minhtuandinh    | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662311) | jd2810 |
 
 # Demis finales
 
