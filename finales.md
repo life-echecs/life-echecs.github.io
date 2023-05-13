@@ -88,11 +88,11 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=un
 
 ## Grenoble INP - Esisar - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857). Score : 0-3. Victoire de Polytechnique.
+Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857). Score : 1-3. Victoire de Polytechnique.
 
 | Grenoble INP - Esisar |                                                                                            | Polytechnique |
 |-----------------------|--------------------------------------------------------------------------------------------|---------------|
-| Demokaka22            | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662305) | WTHRS         |
+| Demokaka22            | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662305) 0 | WTHRS         |
 | Marguetv              | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662307) 1 | Numago33      |
 | TwinkleSprinklz       | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662309) 1 | Versus24      |
 | minhtuandinh          | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662311) 1 | jd2810        |
