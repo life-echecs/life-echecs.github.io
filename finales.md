@@ -57,8 +57,8 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912638?action=un
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912661?action=undefined&clubId=512061).
 
-| Centrale Supélec |                                                                                        | Toulouse INP - ENSEEIHT |
-|------------------|----------------------------------------------------------------------------------------|-------------------------|
+| Centrale Supélec |                                                                                            | Toulouse INP - ENSEEIHT |
+|------------------|--------------------------------------------------------------------------------------------|-------------------------|
 | RZ_Kyoukai       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655907) | adpkh                   |
 | jmpion           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655911) | Learza7                 |
 | mat0881          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655913) | Bousghour               |
@@ -66,12 +66,12 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912661?action=un
 
 ## Polytech Orléans - ENGEES
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=undefined&clubId=493863).
+Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=undefined&clubId=493863). Score : 0-1.
 
-| Polytech Orléans |                                                                                        | ENGEES    |
-|------------------|----------------------------------------------------------------------------------------|-----------|
+| Polytech Orléans |                                                                                            | ENGEES    |
+|------------------|--------------------------------------------------------------------------------------------|-----------|
 | Dams51           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669523) | jeanbcc2b |
-| IPA247           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669531) | xabih64   |
+| IPA247           | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669531) 1 | xabih64   |
 | Bulle_NVL        | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669535) | Quaton22  |
 | Forfait          | F-1                                                                                    | Clems50   |
 
@@ -79,8 +79,8 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=un
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069).
 
-| EFREI 2      |                                                                                        | INSA Strasbourg |
-|--------------|----------------------------------------------------------------------------------------|-----------------|
+| EFREI 2      |                                                                                            | INSA Strasbourg |
+|--------------|--------------------------------------------------------------------------------------------|-----------------|
 | Mandon2030   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667699) | coconem         |
 | lordhululung | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667701) | F4_Enjoyer      |
 | carisma22    | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667703) | FloP0809        |
@@ -89,8 +89,8 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=un
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857). Score : 0-1.
 
-| Grenoble INP - Esisar |                                                                                        | Polytechnique |
-|-----------------------|----------------------------------------------------------------------------------------|---------------|
+| Grenoble INP - Esisar |                                                                                            | Polytechnique |
+|-----------------------|--------------------------------------------------------------------------------------------|---------------|
 | Demokaka22            | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662305) | WTHRS         |
 | Marguetv              | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662307) | Numago33      |
 | TwinkleSprinklz       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662309) | Versus24      |
