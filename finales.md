@@ -138,7 +138,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912691?action=un
 
 ## Centrale Supélec - Polytechnique
 
-Le match est disponible [ici]([https://www.chess.com/](https://www.chess.com/play/match/1912682)).
+Le match est disponible [ici](https://www.chess.com/play/match/1912682).
 
 | Centrale Supélec |                                                                                        | Polytechnique |
 |------------------|----------------------------------------------------------------------------------------|---------------|
