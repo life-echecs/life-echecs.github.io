@@ -101,24 +101,24 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=un
 
 ## Centrale Supélec - ENGEES
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912672?action=undefined&clubId=512061). Score : 3-0. Victoire de Centrale.
+Le match est disponible [ici](https://www.chess.com/play/match/1912672?action=undefined&clubId=512061). Score : 4-0. Victoire de Centrale.
 
 | Centrale Supélec |                                                                                            | ENGEES    |
 |------------------|--------------------------------------------------------------------------------------------|-----------|
 | RZ_Kyoukai       | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726039613) 0 | jeanbcc2b |
-| jmpion           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726039617) | xabih64   |
+| jmpion           | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726039617) 0 | xabih64   |
 | mat0881          | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726039619) 0 | clems50   |
 | corndacier       | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726039623) 0 | Quaton22  |
 
 ## INSA Strasbourg - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912674?action=undefined&clubId=493861). Score : 1-2. Victoire de Polytechnique.
+Le match est disponible [ici](https://www.chess.com/play/match/1912674?action=undefined&clubId=493861). Score : 1-3. Victoire de Polytechnique.
 
 | INSA Strasbourg |                                                                                                | Polytechnique |
 |-----------------|------------------------------------------------------------------------------------------------|---------------|
 | coconem         | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059645) 1 | Numago33          |
 | F4_Enjoyer      | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059647) 1 | WTHRS             |
-| FloP0809        | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059649) | Versus24          |
+| FloP0809        | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059649) 1 | Versus24          |
 | Djuzuh          | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059651) 0 | natello35         |
 
 # Petite Finale
