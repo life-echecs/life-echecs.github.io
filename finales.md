@@ -88,7 +88,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=un
 
 ## Grenoble INP - Esisar - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069).
+Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857).
 
 | Grenoble INP - Esisar |                                                                                        | TBD |
 |-----------------------|----------------------------------------------------------------------------------------|-----|
