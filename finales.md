@@ -8,7 +8,7 @@ permalink: /watch.html
 
 ## ENSAE - Centrale Supélec
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912635?action=undefined&clubId=512059). Score final : 0-4. Victoire de Centrale Supélec.
+Le match est disponible [ici](https://www.chess.com/play/match/1912635?action=undefined&clubId=512059){:target="_blank"}. Score final : 0-4. Victoire de Centrale Supélec.
 
 | ENSAE      |                                                                                            | Centrale Supélec |
 |------------|--------------------------------------------------------------------------------------------|------------------|
@@ -19,7 +19,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912635?action=un
 
 ## ENGEES - Ponts ParisTech
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912633?action=undefined&clubId=512063). Score final : 2-2. Victoire de l'ENGEES (départage par les 2 premiers échiquiers).
+Le match est disponible [ici](https://www.chess.com/play/match/1912633?action=undefined&clubId=512063){:target="_blank"}. Score final : 2-2. Victoire de l'ENGEES (départage par les 2 premiers échiquiers).
 
 | ENGEES    |                                                                                            | Ponts ParisTech    |
 |-----------|--------------------------------------------------------------------------------------------|--------------------|
@@ -31,7 +31,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912633?action=un
 
 ## EFREI 2 - ECAM LaSalle
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912636?action=undefined&clubId=512073). Victoire de l'EFREI 2 (par forfait).
+Le match est disponible [ici](https://www.chess.com/play/match/1912636?action=undefined&clubId=512073){:target="_blank"}. Victoire de l'EFREI 2 (par forfait).
 
 | EFREI 2      |     | ECAM LaSalle |
 |--------------|-----|--------------|
@@ -42,7 +42,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912636?action=un
 
 ## EFREI 1 - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912638?action=undefined&clubId=512071). Score final : 0-4. Victoire de Polytechnique.
+Le match est disponible [ici](https://www.chess.com/play/match/1912638?action=undefined&clubId=512071){:target="_blank"}. Score final : 0-4. Victoire de Polytechnique.
 
 | EFREI 1   |                                                                                            | Polytechnique |
 |-----------|--------------------------------------------------------------------------------------------|---------------|
