@@ -103,12 +103,12 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=un
 
 Le match est disponible [ici](https://www.chess.com/).
 
-| Centrale Supélec |                                                                                        | TBD |
-|-----|----------------------------------------------------------------------------------------|-----|
-| RZ_Kyoukai | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| jmpion | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| mat0881 | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| corndacier | [<img src="img/assets/eye.png" width=20>]() | TBD |
+| Centrale Supélec |                                                                                            | ENGEES    |
+|------------------|--------------------------------------------------------------------------------------------|-----------|
+| RZ_Kyoukai       | [<img src="img/assets/eye.png" width=20>]() | jeanbcc2b |
+| jmpion           | [<img src="img/assets/eye.png" width=20>]() | xabih64   |
+| mat0881          | [<img src="img/assets/eye.png" width=20>]() | Quaton22  |
+| corndacier       | [<img src="img/assets/eye.png" width=20>]() | Clems50   |
 
 ## INSA Strasbourg - Polytechnique
 
