@@ -95,7 +95,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=un
 | Demokaka22            | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662305) 0 | WTHRS         |
 | Marguetv              | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662307) 1 | Numago33      |
 | TwinkleSprinklz       | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662309) 1 | Versus24      |
-| minhtuandinh          | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662311) 1 | jd2810        |
+| minhtuandinh          | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662311) 1 | natello35     |
 
 # Demis finales
 
@@ -119,7 +119,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912670?action=un
 | coconem         | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912670?action=undefined&clubId=493861) | Numago33          |
 | bengolo13       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912670?action=undefined&clubId=493861) | WTHRS             |
 | F4_Enjoyer      | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912670?action=undefined&clubId=493861) | Versus24          |
-| FloP0809        | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912670?action=undefined&clubId=493861) | jd2810            |
+| FloP0809        | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912670?action=undefined&clubId=493861) | natello35         |
 
 # Petite Finale
 
