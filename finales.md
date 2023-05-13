@@ -112,12 +112,12 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912672?action=un
 
 ## INSA Strasbourg - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912674?action=undefined&clubId=493861). Score : 0-1.
+Le match est disponible [ici](https://www.chess.com/play/match/1912674?action=undefined&clubId=493861). Score : 0-2.
 
 | INSA Strasbourg |                                                                                                | Polytechnique |
 |-----------------|------------------------------------------------------------------------------------------------|---------------|
 | coconem         | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059645) 1 | Numago33          |
-| F4_Enjoyer      | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059647) | WTHRS             |
+| F4_Enjoyer      | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059647) 1 | WTHRS             |
 | FloP0809        | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059649) | Versus24          |
 | Djuzuh          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77726059651) | natello35         |
 
