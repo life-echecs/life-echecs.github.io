@@ -84,7 +84,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=un
 | Mandon2030   | ½ [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667699) ½ | coconem         |
 | lordhululung | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667701) 1 | F4_Enjoyer      |
 | carisma22    | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721667703) 1 | FloP0809        |
-| Forfait      | 0-1 (forfait)                                                                              | bengolo13       |
+| Forfait      | 0-1 (forfait)                                                                              | Djuzuh          |
 
 ## Grenoble INP - Esisar - Polytechnique
 
