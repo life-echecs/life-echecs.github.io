@@ -33,12 +33,12 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912633?action=un
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912636?action=undefined&clubId=512073). Victoire de l'EFREI 2 (par forfait).
 
-| EFREI 2      |                                                                                        | ECAM LaSalle |
-|--------------|----------------------------------------------------------------------------------------|--------------|
-| Mandon2030   | [<img src="img/assets/eye.png" width=20>]() | Emilio26250  |
-| lordhululung | [<img src="img/assets/eye.png" width=20>]() | AyMiteck     |
-| fatedane     | [<img src="img/assets/eye.png" width=20>]() | Mugiwara2b   |
-| carisma22    | [<img src="img/assets/eye.png" width=20>]() | alicea2001   |
+| EFREI 2      |     | ECAM LaSalle |
+|--------------|-----|--------------|
+| Mandon2030   | 1-0 | Emilio26250  |
+| lordhululung | 1-0 | AyMiteck     |
+| fatedane     | 1-0 | Mugiwara2b   |
+| carisma22    | 1-0 | alicea2001   |
 
 ## EFREI 1 - Polytechnique
 
@@ -87,14 +87,14 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=un
 
 ## Grenoble INP - Esisar - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857).
+Le match est disponible [ici](https://www.chess.com/play/match/1912666?action=undefined&clubId=493857). Score : 0-1.
 
 | Grenoble INP - Esisar |                                                                                        | Polytechnique |
 |-----------------------|----------------------------------------------------------------------------------------|---------------|
 | Demokaka22            | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662305) | WTHRS         |
 | Marguetv              | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662307) | Numago33      |
 | TwinkleSprinklz       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662309) | Versus24      |
-| minhtuandinh          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662311) | jd2810        |
+| minhtuandinh          | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721662311) 1 | jd2810        |
 
 # Demis finales
 
