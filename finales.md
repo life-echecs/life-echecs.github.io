@@ -125,7 +125,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912674?action=un
 
 ## ENGEES - INSA Strasbourg
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912691?action=undefined&clubId=512063). Score : 0-1.
+Le match est disponible [ici](https://www.chess.com/play/match/1912691?action=undefined&clubId=512063). Score : 0-2.
 
 | ENGEES    |                                                                                            | INSA Strasbourg |
 |-----------|--------------------------------------------------------------------------------------------|-----------------|
@@ -138,11 +138,11 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912691?action=un
 
 ## Centrale Supélec - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/1912682).
+Le match est disponible [ici](https://www.chess.com/play/match/1912682). Score : 3½ - ½. Victoire de Centrale Supélec.
 
 | Centrale Supélec |                                                                                        | Polytechnique |
 |------------------|----------------------------------------------------------------------------------------|---------------|
-| RZ_Kyoukai       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850929) | Numago33      |
+| RZ_Kyoukai       | ½ [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850929) ½ | Numago33      |
 | jmpion           | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850931) 0 | WTHRS         |
-| mat0881          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850933) | Versus24      |
+| mat0881          | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850933) 0 | Versus24      |
 | corndacier       | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850935) 0 | natello35     |
