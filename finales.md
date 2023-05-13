@@ -58,22 +58,24 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912638?action=un
 Le match est disponible [ici](https://www.chess.com/play/match/1912661?action=undefined&clubId=512061).
 
 | Centrale Supélec |                                                                                        | Toulouse INP - ENSEEIHT |
-|-----|----------------------------------------------------------------------------------------|-------------------------|
-| RZ_Kyoukai | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655907) | adpkh                   |
-| jmpion | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655911) | Learza7                  |
-| mat0881 | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655913) | Bousghour                 |
-| corndacier | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655915) | gogetamza               |
+|------------------|----------------------------------------------------------------------------------------|-------------------------|
+| RZ_Kyoukai       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655907) | adpkh                   |
+| jmpion           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655911) | Learza7                 |
+| mat0881          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655913) | Bousghour               |
+| corndacier       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655915) | gogetamza               |
 
 ## Polytech Orléans - ENGEES
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=undefined&clubId=493863).
 
-| Polytech Orléans |                                                                                        | ENGEES |
-|------------------|----------------------------------------------------------------------------------------|-----|
-| Dams51        | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669523) | jeanbcc2b |
-| IPA247           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669531) | xabih64 |
-| Bulle_NVL           | [<img src="img/assets/eye.png" width=20>]() | Quaton22 |
-| Forfait         | F-1 | Clems50 |## EFREI 2 - INSA Strasbourg
+| Polytech Orléans |                                                                                        | ENGEES    |
+|------------------|----------------------------------------------------------------------------------------|-----------|
+| Dams51           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669523) | jeanbcc2b |
+| IPA247           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669531) | xabih64   |
+| Bulle_NVL        | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669535) | Quaton22  |
+| Forfait          | F-1                                        | Clems50                                   |
+
+## EFREI 2 - INSA Strasbourg
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069).
 
