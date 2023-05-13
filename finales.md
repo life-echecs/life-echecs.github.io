@@ -14,7 +14,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912635?action=un
 |------------|----------------------------------------------------------------------------------------|------------------|
 | Vincent608 | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718184299) | RZ_Kyoukai       |
 | Michel_100 | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718184303) | jmpion           |
-| Jolaseche  | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/7771818430) | mat0881          |
+| Jolaseche  | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718184307) | mat0881          |
 | Apdv       | [<img src="img/assets/eye.png" width=20>]() | corndacier       |
 
 ## ENGEES - Ponts ParisTech
@@ -23,9 +23,9 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912633?action=un
 
 | ENGEES    |                                                                                        | Ponts ParisTech    |
 |-----------|----------------------------------------------------------------------------------------|--------------------|
-| Jeanbcc2b | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/7771820515) | PontsMatthieu      |
-| xabih64   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/7771820515) | TroisFrancsSixSous |
-| clems50   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/7771820516) | AugustePonts       |
+| Jeanbcc2b | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718205157) | PontsMatthieu      |
+| xabih64   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718205159) | TroisFrancsSixSous |
+| clems50   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718205161) | AugustePonts       |
 | Buche2    | [<img src="img/assets/eye.png" width=20>]() | jospeii            |
 
 
@@ -46,10 +46,10 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912638?action=un
 
 | EFREI 1   |                                                                                                 | Polytechnique |
 |-----------|-------------------------------------------------------------------------------------------------|---------------|
-| stardocka | [<img src="img/assets/eye.png" width=20>]()          | WTHRS         |
-| Akimasaaa | [<img src="img/assets/eye.png" width=20>]()          | Numago33      |
-| Bluemue   | [<img src="img/assets/eye.png" width=20>]()          | Versus24      |
-| chesstut  | [<img src="img/assets/eye.png" width=20>]()          | jd2810        |
+| stardocka | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718191305)          | WTHRS         |
+| Akimasaaa | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718191307)          | Numago33      |
+| Bluemue   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718191309)          | Versus24      |
+| chesstut  | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77718191311)          | jd2810        |
 
 # Quarts de finales
 
