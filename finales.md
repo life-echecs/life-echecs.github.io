@@ -57,25 +57,23 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912638?action=un
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912661?action=undefined&clubId=512061).
 
-| TBD |                                                                                        | Toulouse INP - ENSEEIHT |
+| Centrale Supélec |                                                                                        | Toulouse INP - ENSEEIHT |
 |-----|----------------------------------------------------------------------------------------|-------------------------|
-| TBD | [<img src="img/assets/eye.png" width=20>]() | adpkh                   |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | Tomyys                  |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | Learza7                 |
-| TBD | [<img src="img/assets/eye.png" width=20>]() | Bousghour               |
+| RZ_Kyoukai | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655907) | adpkh                   |
+| jmpion | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655911) | Learza7                  |
+| mat0881 | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655913) | Bousghour                 |
+| corndacier | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721655915) | gogetamza               |
 
 ## Polytech Orléans - ENGEES
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912662?action=undefined&clubId=493863).
 
-| Polytech Orléans |                                                                                        | TBD |
+| Polytech Orléans |                                                                                        | ENGEES |
 |------------------|----------------------------------------------------------------------------------------|-----|
-| Dr-patels        | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| Dams51           | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| IPA247           | [<img src="img/assets/eye.png" width=20>]() | TBD |
-| michadtr         | [<img src="img/assets/eye.png" width=20>]() | TBD |
-
-## EFREI 2 - INSA Strasbourg
+| Dams51        | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669523) | jeanbcc2b |
+| IPA247           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77721669531) | xabih64 |
+| Bulle_NVL           | [<img src="img/assets/eye.png" width=20>]() | Quaton22 |
+| Forfait         | F-1 | Clems50 |## EFREI 2 - INSA Strasbourg
 
 Le match est disponible [ici](https://www.chess.com/play/match/1912664?action=undefined&clubId=512069).
 
