@@ -129,10 +129,10 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912691?action=un
 
 | ENGEES    |                                                                                        | INSA Strasbourg |
 |-----------|----------------------------------------------------------------------------------------|-----------------|
-| jeanbcc2b | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912691?action=undefined&clubId=512063) | coconem         |
-| xabih64   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912691?action=undefined&clubId=512063) | F4_Enjoyer      |
-| clems50   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912691?action=undefined&clubId=512063) | FloP0809        |
-| Quaton22  | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912691?action=undefined&clubId=512063) | Djuzuh          |
+| jeanbcc2b | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728871399) | Bengolo13       |
+| clems50   | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728871401) | F4_Enjoyer      |
+| Quaton22  | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728871403) | FloP0809        |
+| xabih64   | 0-1 (forfait)                               | Djuzuh          |
 
 # Finale
 
@@ -142,7 +142,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912682).
 
 | Centrale Supélec |                                                                                        | Polytechnique |
 |------------------|----------------------------------------------------------------------------------------|---------------|
-| RZ_Kyoukai       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912682) | Numago33          |
-| jmpion           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912682) | WTHRS             |
-| mat0881          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912682) | Versus24          |
-| corndacier       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/play/match/1912682) | natello35         |
+| RZ_Kyoukai       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850929) | Numago33      |
+| jmpion           | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850931) | WTHRS         |
+| mat0881          | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850933) | Versus24      |
+| corndacier       | [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850935) | natello35     |
