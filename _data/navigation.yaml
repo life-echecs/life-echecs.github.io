@@ -11,14 +11,15 @@
 - name: Direct
   link: /watch.html
 - name: Résultats
-  dropdown: 
+  dropdown:
     - name: 2021
       link: /results/2021
     - name: 2022
       link: /results/2022
+    - name: 2023
+      link: /results/2023
 - name: Documents
   dropdown:
     - name: Règlement LIFE
       link: /files/Reglement_LIFE.pdf
       download: true
-
