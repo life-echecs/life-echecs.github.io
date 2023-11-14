@@ -4,7 +4,9 @@ title: Équipes
 permalink: /teams.html
 ---
 
-## Centrale Supélec
+Les inscriptions pour cette nouvelle édition 2024 sont ouvertes !
+
+<!-- ## Centrale Supélec
 
 L'équipe 1 s'est qualifiée pour les phases finales en terminant 2e du tournoi du 13 février.
 
@@ -150,4 +152,4 @@ L'équipe 1 s'est qualifiée pour les phases finales en terminant 1ère du tourn
 | [Learza7](https://www.chess.com/member/Learza7)     | [hngtfbcds](https://www.chess.com/member/hngtfbcds)       | [Maxime0601](https://www.chess.com/member/Maxime0601)     |
 | [Bousghour](https://www.chess.com/member/Bousghour) | [Arthur111110](https://www.chess.com/member/Arthur111110) | [krakal22](https://www.chess.com/member/krakal22)         |
 | [Tomyys](https://www.chess.com/member/Tomyys)       | [vframeze](https://www.chess.com/member/vframeze)         | [Dreadfog](https://www.chess.com/member/Dreadfog)         |
-| [gogetamza](https://www.chess.com/member/gogetamza) | [Enguer31](https://www.chess.com/member/Enguer31)         | [Nathentropie](https://www.chess.com/member/Nathentropie) |
+| [gogetamza](https://www.chess.com/member/gogetamza) | [Enguer31](https://www.chess.com/member/Enguer31)         | [Nathentropie](https://www.chess.com/member/Nathentropie) | -->

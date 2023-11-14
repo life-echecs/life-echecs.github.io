@@ -2,7 +2,9 @@
 title: Résultats
 ---
 
-## Résultats des phases de qualification
+Les résultats des différents tournois seront mis à jour au fur et à mesure.
+
+<!-- ## Résultats des phases de qualification
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
@@ -104,4 +106,4 @@ title: Résultats
         {% endtablerow %}
     {% endfor %}
     </table>
-</div>
+</div> -->

@@ -4,7 +4,9 @@ title: Tournoi en Direct
 permalink: /watch.html
 ---
 
-# Huitièmes de finales
+Vous trouverez ici tous les liens des matchs pour les phases finales.
+
+<!-- # Huitièmes de finales
 
 ## ENSAE - Centrale Supélec
 
@@ -145,4 +147,4 @@ Le match est disponible [ici](https://www.chess.com/play/match/1912682). Score :
 | RZ_Kyoukai       | ½ [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850929) ½ | Numago33      |
 | jmpion           | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850931) 0 | WTHRS         |
 | mat0881          | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850933) 0 | Versus24      |
-| corndacier       | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850935) 0 | natello35     |
+| corndacier       | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/77728850935) 0 | natello35     | -->
