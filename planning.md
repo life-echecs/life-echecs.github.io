@@ -8,7 +8,7 @@ permalink: /planning.html
 
 Il y a 4 tournois de qualification, au format suisse. Vous pouvez vous inscrire sur le [club chess.com](https://www.chess.com/club/life-2023/join/020c60) de l'événement !
 
-### Lundi 13 février
+### Lundi 15 janvier
 
 Lundi 15 janvier 2024 : Tournoi de qualification<!--[Tournoi de qualification]() --> au format suisse à la cadence 5min + 2s/coup.
 
