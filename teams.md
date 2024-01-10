@@ -6,7 +6,7 @@ permalink: /teams.html
 
 Les inscriptions pour cette nouvelle édition 2024 sont ouvertes !
 
-![Ecoles inscrites Edition 2024](/img/logos_ecoles_10012024.jpg)
+![Ecoles inscrites Edition 2024](img/logos_ecoles_10012024.jpg)
 
 <!-- ## Centrale Supélec
 
