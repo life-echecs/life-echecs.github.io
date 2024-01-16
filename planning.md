@@ -14,7 +14,7 @@ Il y a 4 tournois de qualification, au format suisse. Vous pouvez vous inscrire 
 
 ### Lundi 15 janvier
 
-Lundi 15 janvier 2024 : Tournoi de qualification<!--[Tournoi de qualification]() --> au format suisse à la cadence 5min + 2s/coup.
+Lundi 15 janvier 2024 : [Tournoi de qualification](https://www.chess.com/tournament/live/life-2024---qualif-1-4517371) au format suisse à la cadence 5min + 2s/coup.
 
 ### Lundi 22 janvier
 
@@ -35,7 +35,7 @@ Les phases finales auront lieu le samedi 13 mai à partir de 14h. Le tout sera c
 ## Nous suivre sur les réseaux
 
 Voici les liens qui vous seront utiles pour le tournoi :
-- [Serveur Discord](https://discord.gg/V2EFdNJ7)
+- [Serveur Discord](https://discord.gg/DcFdnQqVZz)
 - [Page Facebook](https://www.facebook.com/profile.php?id=100086146823297)
 - [Page Instagram](https://www.instagram.com/life_echecs/)
 - [Page LinkedIn](https://www.linkedin.com/company/88926816/)
