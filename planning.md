@@ -18,7 +18,7 @@ Lundi 15 janvier 2024 : [Tournoi de qualification](https://www.chess.com/tournam
 
 ### Lundi 22 janvier
 
-Lundi 22 janvier 2024 : Tournoi de qualification<!--[Tournoi de qualification]() --> au format suisse à la cadence 10min KO.
+Lundi 22 janvier 2024 : [Tournoi de qualification](https://www.chess.com/tournament/live/life-2024---qualif-2-4532293) au format suisse à la cadence 10min KO.
 
 ### Mercredi 31 janvier
 

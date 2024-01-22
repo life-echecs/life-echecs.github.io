@@ -4,11 +4,11 @@ title: Résultats
 
 Les résultats des différents tournois seront mis à jour au fur et à mesure.
 
-<!-- ## Résultats des phases de qualification
+## Résultats des phases de qualification
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-    {% for row in site.data.tournaments.2023.resultats_qualifs %}
+    {% for row in site.data.tournaments.2024.resultats_qualifs %}
         {% if forloop.first %}
         <tr>
         {% for pair in row %}
@@ -28,7 +28,7 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-    {% for row in site.data.tournaments.2023.resultats_q1 %}
+    {% for row in site.data.tournaments.2024.resultats_q1 %}
         {% if forloop.first %}
         <tr>
         {% for pair in row %}
@@ -50,7 +50,7 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-    {% for row in site.data.tournaments.2023.resultats_q2 %}
+    {% for row in site.data.tournaments.2024.resultats_q2 %}
         {% if forloop.first %}
         <tr>
         {% for pair in row %}
@@ -66,13 +66,11 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
     </table>
 </div>
 
-*NB: Pour départager l'EFREI et l'INSA Strasbourg à la seconde place, nous avons appliqué le point 2.3 du règlement "En cas d’égalité entre 2 équipes, l’équipe qualifiée serait celle dont la somme des places des 4 premiers joueurs est la plus faible."*
-
-## Tournoi de qualification 3
+<!-- ## Tournoi de qualification 3
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-    {% for row in site.data.tournaments.2023.resultats_q3 %}
+    {% for row in site.data.tournaments.2024.resultats_q3 %}
         {% if forloop.first %}
         <tr>
         {% for pair in row %}
@@ -92,7 +90,7 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-    {% for row in site.data.tournaments.2023.resultats_q4 %}
+    {% for row in site.data.tournaments.2024.resultats_q4 %}
         {% if forloop.first %}
         <tr>
         {% for pair in row %}
