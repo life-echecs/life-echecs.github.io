@@ -10,6 +10,8 @@
   link: /teams.html
 - name: Direct
   link: /watch.html
+- name: Tactiques
+  link: /tactics.html
 - name: Résultats
   dropdown:
     - name: 2021
