@@ -1,43 +1,43 @@
 ﻿Equipe,Tournoi 1,Tournoi 2,Tournoi 3,Tournoi 4,Total
-Centrale Nantes,0,14,21,5,,126
-Centrale Supélec 1,27.5,0,,,137.5
-Centrale Supélec 2,9.5,1,,,56.5
-ECAM LaSalle,28.5,0,,,142.5
-EFREI 1,24.5,14.5,24,,253
-EFREI 2,14.5,3.5,13,5,,104
-EFREI 3,13,4,7,,101
-EFREI 4,0,1,,,9
-ENGEES 1,20.5,9.5,13,,188
-ENGEES 2,11,0,2,5,,55
-ENIB,14,8,14,,142
-ENSAIA,7,0,,,35
-ENSIC,9,0,,,45
-ENSICAEN 1,12.5,7,13,,125.5
-ENSICAEN 2,16,3,9,5,,107
-ENSIIE 1,21.5,13,23,,224.5
-ENSIIE 2,20.5,11,17,5,,201.5
-ENSIIE 3,19,5,9,,140
-ENSIIE 4,12.5,3,,,89.5
-ENSIIE 5,6.5,2,,,50.5
-ENSSAT 1,20,8,18,5,,172
-ENSSAT 2,13,2.5,,,87.5
-EPITA,21.5,4.5,10,,148
-ESAIP,16.5,9,9,5,,163.5
-ESITC Paris,12,6.5,9,,118.5
-Grenoble INP - Esisar 1,19.5,11,21,,196.5
-Grenoble INP - Esisar 2,2.5,5,3,,57.5
-INSA Strabourg,19,10,16,,185
-ISAE Supaéro,0,16,9,,144
-Mines Alès 1,19,0,,,95
-Mines Alès 2,12,6,8,,114
-Polytech Paris-Saclay 1,15,4,4,5,,111
-Polytech Paris-Saclay 2,6,0,,,30
-Polytechnique,24,14.5,23,5,,250.5
-Polytechnique Bachelors,20.5,15.5,,,242
-Télécom Physique Strasbourg,14.5,4,7,,108.5
-Toulouse INP - Enseeiht 1,22,14.5,25,,240.5
-Toulouse INP - Enseeiht 2,13.5,11,16,5,,166.5
-Toulouse INP - Enseeiht 3,17,8,14,5,,157
-Toulouse INP - ENSIACET,0,9.5,10,,85.5
-UTC 1,25.5,15.5,22,,267
-UTC 2,17.5,8,13,,159.5
+UTC 1,25.5,15.5,22,0,377
+EFREI 1,24.5,14.5,24,0,373
+Polytechnique,24,14.5,23.5,0,368
+Toulouse INP - Enseeiht 1,22,14.5,25,0,365.5
+ENSIIE 1,21.5,13,23,0,339.5
+Grenoble INP - Esisar 1,19.5,11,21,0,301.5
+ENSIIE 2,20.5,11,17.5,0,289
+INSA Strabourg,19,10,16,0,265
+ENSSAT 1,20,8,18.5,0,264.5
+ENGEES 1,20.5,9.5,13,0,253
+Toulouse INP - Enseeiht 2,13.5,11,16.5,0,249
+Polytechnique Bachelors,20.5,15.5,0,0,242
+Centrale Nantes,0,14,21.5,0,233.5
+Toulouse INP - Enseeiht 3,17,8,14.5,0,229.5
+UTC 2,17.5,8,13,0,224.5
+ENIB,14,8,14,0,212
+ESAIP,16.5,9,9.5,0,211
+EPITA,21.5,4.5,10,0,198
+ENSICAEN 1,12.5,7,13,0,190.5
+ISAE Supaéro,0,16,9,0,189
+ENSIIE 3,19,5,9,0,185
+EFREI 2,14.5,3.5,13.5,0,171.5
+ESITC Paris,12,6.5,9,0,163.5
+ENSICAEN 2,16,3,9.5,0,154.5
+Mines Alès 2,12,6,8,0,154
+Télécom Physique Strasbourg,14.5,4,7,0,143.5
+ECAM LaSalle,28.5,0,0,0,142.5
+Centrale Supélec 1,27.5,0,0,0,137.5
+EFREI 3,13,4,7,0,136
+Toulouse INP - ENSIACET,0,9.5,10,0,135.5
+Polytech Paris-Saclay 1,15,4,4.5,0,133.5
+Mines Alès 1,19,0,0,0,95
+ENSIIE 4,12.5,3,0,0,89.5
+ENSSAT 2,13,2.5,0,0,87.5
+Grenoble INP - Esisar 2,2.5,5,3,0,72.5
+ENGEES 2,11,0,2.5,0,67.5
+Centrale Supélec 2,9.5,1,0,0,56.5
+ENSIIE 5,6.5,2,0,0,50.5
+ENSIC,9,0,0,0,45
+ENSAIA,7,0,0,0,35
+Polytech Paris-Saclay 2,6,0,0,0,30
+EFREI 4,0,1,0,0,9
