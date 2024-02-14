@@ -86,7 +86,7 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
     </table>
 </div>
 
-<!-- ## Tournoi de qualification 4
+## Tournoi de qualification 4
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
@@ -104,4 +104,4 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
         {% endtablerow %}
     {% endfor %}
     </table>
-</div> -->
+</div>
