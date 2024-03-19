@@ -6,7 +6,7 @@ permalink: /planning.html
 
 ## Phases finales
 
-La date des phases finales sera communiquée ultérieurement.
+Les phases finales ont lieu le samedi 23 mars à 14h sur Chess.com.
 
 ## Tournois de qualification
 
