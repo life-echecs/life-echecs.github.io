@@ -4,7 +4,40 @@ title: Tournoi en Direct
 permalink: /watch.html
 ---
 
-Vous trouverez ici tous les liens des matchs pour les phases finales.
+# Huitièmes de finales
+
+## ECAM - N7 2
+
+Le match est disponible [ici](https://www.chess.com/play/match/2377233)
+
+## INSA - ENSIIE
+
+Le match est disponible [ici](https://www.chess.com/play/match/2377234)
+
+## UTC 2 - EFREI 1
+
+Le match est disponible [ici](https://www.chess.com/play/match/2377235)
+
+## X - ENGEES
+
+Le match est disponible [ici](https://www.chess.com/play/match/2377236)
+
+## ISAE - Esisar
+
+Le match est disponible [ici](https://www.chess.com/play/match/2377237)
+
+## UTC 1 - ENSIIE 2
+
+Le match est disponible [ici](https://www.chess.com/play/match/2377238)
+
+## ENSSAT - Centrale Nantes
+
+Le match est disponible [ici](https://www.chess.com/play/match/2377239)
+
+## N7 1 - X Bachelors
+
+Le match est disponible [ici](https://www.chess.com/play/match/2377240)
+
 
 <!-- # Huitièmes de finales
 
