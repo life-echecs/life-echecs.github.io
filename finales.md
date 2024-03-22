@@ -6,11 +6,11 @@ permalink: /watch.html
 
 # Huitièmes de finales
 
-## ECAM - N7 2
+## ECAM Lasalle - Toulouse INP - ENSEEIHT 2
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377233)
 
-## INSA - ENSIIE
+## INSA Strasbourg - ENSIIE 1
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377234)
 
@@ -18,11 +18,11 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377234)
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377235)
 
-## X - ENGEES
+## Polytechnique - ENGEES 1
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377236)
 
-## ISAE - Esisar
+## ISAE Supaero - Grenoble INP - Esisar 1
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377237)
 
@@ -34,7 +34,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377238)
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377239)
 
-## N7 1 - X Bachelors
+## Toulouse INP - ENSEEIHT 1 - Polytechnique Bachelors
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377240)
 
