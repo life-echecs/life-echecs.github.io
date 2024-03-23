@@ -44,7 +44,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387270). Score f
 
 ## EFREI 1 - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/2387273). Score final 2-2.
+Le match est disponible [ici](https://www.chess.com/play/match/2387273). Score final 2-2. Victoire de Polytechnique en Armaggedon.
 
 | EFREI 1 | | Polytechnique |
 |-|-|-|
@@ -55,7 +55,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387273). Score f
 
 Armaggedon :
 
-| segpa_sauvage | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104944946253) - | jd2810 |
+| segpa_sauvage | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104944946253) 1 | jd2810 |
 
 ## ISAE Supaero - UTC 1
 
