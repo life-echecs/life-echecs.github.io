@@ -79,9 +79,9 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377239)
 
 | ENSSAT | | Centrale Nantes |
 |-|-|-|
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694407) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694417) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694437) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 
 ## Toulouse INP - ENSEEIHT 1 - Polytechnique Bachelors
