@@ -30,7 +30,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377234). Score f
 
 ## UTC 2 - EFREI 1
 
-Le match est disponible [ici](https://www.chess.com/play/match/2377235). Score final 1-3. Victoire de l'EFREI 1.
+Le match est disponible [ici](https://www.chess.com/play/match/2377235).
 
 | UTC 2 | | EFREI 1 |
 |-|-|-|
@@ -75,7 +75,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377238). Score f
 
 ## ENSSAT - Centrale Nantes
 
-Le match est disponible [ici](https://www.chess.com/play/match/2377239)
+Le match est disponible [ici](https://www.chess.com/play/match/2377239).
 
 | ENSSAT | | Centrale Nantes |
 |-|-|-|
