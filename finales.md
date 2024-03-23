@@ -23,10 +23,10 @@ Le match est disponible [ici]().
 
 | ? | | Polytechnique |
 |-|-|-|
-|  | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
-|  | - [<img src="img/assets/eye.png" width=20>]() - | Numago33 |
-|  | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
-|  | - [<img src="img/assets/eye.png" width=20>]() - |  |
+| AstroFormula | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
+| eliott_p | - [<img src="img/assets/eye.png" width=20>]() - | Numago33 |
+| ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
+| Kingmouli | - [<img src="img/assets/eye.png" width=20>]() - |  |
 
 ## ISAE Supaero - UTC 1
 
