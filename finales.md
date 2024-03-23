@@ -41,7 +41,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377235). Score f
 
 ## Polytechnique - ENGEES 1
 
-Le match est disponible [ici](https://www.chess.com/play/match/2377236). Score final 4-0. Victoire de POolytechnique.
+Le match est disponible [ici](https://www.chess.com/play/match/2377236). Score final 4-0. Victoire de Polytechnique.
 
 | Polytechnique | | ENGEES 1 |
 
@@ -64,12 +64,12 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377237). Score f
 
 ## UTC 1 - ENSIIE 2
 
-Le match est disponible [ici](https://www.chess.com/play/match/2377238)
+Le match est disponible [ici](https://www.chess.com/play/match/2377238). Score final 3-1. Victoire de l'UTC 1.
 
 | UTC 1 | | ENSIIE 2 |
 |-|-|-|
 | KinedEr | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937696115) 0 | Amau33 |
-| Cyphedre | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937696121) - | otavmaster |
+| Cyphedre | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937696121) 0 | otavmaster |
 | togabo | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937696125) 0 | Greekfreak343434 |
 | gebas1305 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937696131) 1 | Beechope |
 
