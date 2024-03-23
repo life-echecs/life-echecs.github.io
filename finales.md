@@ -83,8 +83,8 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377235).
 |-|-|-|
 | BastienLeS | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684941) 0 | stardocka |
 | Sh_rl_ck7 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684951) 1 | WilsonTJ4L |
-|  |  |  |
-|  |  |  |
+| BenjiChessK |  | segpa_sauvage |
+| 8Rapik8 |  | QuietChair |
 
 ## Polytechnique - ENGEES 1
 
