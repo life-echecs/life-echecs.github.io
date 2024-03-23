@@ -68,10 +68,10 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377238)
 
 | UTC 1 | | ENSIIE 2 |
 |-|-|-|
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937696115) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937696121) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937696125) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937696131) - |  |
+| KinedEr | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937696115) - | Amau33 |
+| Cyphedre | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937696121) - | otavmaster |
+| togabo | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937696125) 0 | Greekfreak343434 |
+| gebas1305 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937696131) 1 | Beechope |
 
 ## ENSSAT - Centrale Nantes
 
