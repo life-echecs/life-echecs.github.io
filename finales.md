@@ -6,27 +6,27 @@ permalink: /watch.html
 
 # Demi-finales
 
-## ECAM Lasalle - ?
+## ECAM Lasalle - Polytechnique
 
 Le match est disponible [ici]().
 
-| ECAM Lasalle | | ? |
+| ECAM Lasalle | | Polytechnique |
 |-|-|-|
-| emilio26250 | - [<img src="img/assets/eye.png" width=20>]() - |  |
-| toto_chess20 | - [<img src="img/assets/eye.png" width=20>]() - |  |
-| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>]() - |  |
+| emilio26250 | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
+| toto_chess20 | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
+| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>]() - | jd2810 |
 |  | 0 forfait 1 |  |
 
-## ISAE Supaero - ?
+## ISAE Supaero - Toulouse INP - ENSEEIHT 1
 
 Le match est disponible [ici]().
 
-| ISAE Supaero | | ? |
+| ISAE Supaero | | Toulouse INP - ENSEEIHT 1 |
 |-|-|-|
-| AstroFormula | - [<img src="img/assets/eye.png" width=20>]() - |  |
-| eliott_p | - [<img src="img/assets/eye.png" width=20>]() - |  |
-| ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>]() - |  |
-| Kingmouli | - [<img src="img/assets/eye.png" width=20>]() - |  |
+| AstroFormula | - [<img src="img/assets/eye.png" width=20>]() - | Bousghour |
+| eliott_p | - [<img src="img/assets/eye.png" width=20>]() - | Learza7 |
+| ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>]() - | lulubatlouise |
+| Kingmouli | - [<img src="img/assets/eye.png" width=20>]() - | enguer31 |
 
 
 # Quarts de finales
