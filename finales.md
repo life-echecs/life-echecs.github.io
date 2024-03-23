@@ -25,9 +25,9 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387284).
 
 | ISAE Supaero | | Polytechnique |
 |-|-|-|
-| AstroFormula | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104950867769) 1 | Turonimusr |
+| AstroFormula | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104950867769) 0 | Turonimusr |
 | eliott_p | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104950867775) - | Numago33 |
-| ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104950867779) - | jd2810 |
+| ivan_gonzalvez | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104950867779) 1 | jd2810 |
 | Kingmouli | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104950867789) 1 | yangshu |
 
 
