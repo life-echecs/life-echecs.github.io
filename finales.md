@@ -19,14 +19,14 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387270).
 
 ## EFREI 1 - Polytechnique
 
-Le match est disponible [ici]().
+Le match est disponible [ici](https://www.chess.com/play/match/2387273).
 
 | EFREI 1 | | Polytechnique |
 |-|-|-|
-| stardocka | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
-| WilsonTJ4L | - [<img src="img/assets/eye.png" width=20>]() - | Numago33 |
-| segpa_sauvage | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
-| QuietChair | - [<img src="img/assets/eye.png" width=20>]() - | ? |
+| segpa_sauvage | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
+| QuietChair | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
+| stardocka | - [<img src="img/assets/eye.png" width=20>]() - | jd2810 |
+| WilsonTJ4L | - [<img src="img/assets/eye.png" width=20>]() - | natello35 |
 
 ## ISAE Supaero - UTC 1
 
