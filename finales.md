@@ -26,7 +26,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387273).
 | segpa_sauvage | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560339) 1 | Turonimusr |
 | QuietChair | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560345) - | yangshu |
 | stardocka | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560353) 1 | jd2810 |
-| WilsonTJ4L | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560359) - | natello35 |
+| WilsonTJ4L | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560359) 0 | natello35 |
 
 ## ISAE Supaero - UTC 1
 
