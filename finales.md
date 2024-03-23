@@ -44,6 +44,10 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387275). Score f
 | toto_chess20 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627291) 0 | jd2810 |
 | SandwichOSaumon | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627295) 1 | yangshu |
 
+Armaggedon :
+
+| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>]() - | jd2810 |
+
 ## ISAE Supaero - Toulouse INP - ENSEEIHT 1
 
 Le match est disponible [ici](https://www.chess.com/play/match/2387274). Score final 1-3. Victoire de Toulouse INP - ENSEEIHT 1.
