@@ -8,13 +8,13 @@ permalink: /watch.html
 
 ## ECAM Lasalle - Toulouse INP - ENSEEIHT 1
 
-Le match est disponible [ici](https://www.chess.com/play/match/2387283). Score 2-1. Victoire de l'ECAM Lasalle.
+Le match est disponible [ici](https://www.chess.com/play/match/2387283). Score 2.5-1.5. Victoire de l'ECAM Lasalle.
 
 | ECAM Lasalle | | Toulouse INP - ENSEEIHT 1 |
 |-|-|-|
 | emilio26250 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104950876657) 0 | Bousghour |
 | AyMitecK | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104950876665) 0 | Learza7 |
-| toto_chess20 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104950962993) - | lulubatlouise |
+| toto_chess20 | 1/2 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104950962993) 1/2 | lulubatlouise |
 | SandwichOSaumon | 0 forfait 1 | enguer31 |
 
 # Petite Finale
