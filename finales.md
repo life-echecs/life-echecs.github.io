@@ -26,7 +26,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377234)
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690507) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690517) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690523) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+| 1 | forfait | 0 |
 
 ## UTC 2 - EFREI 1
 
@@ -36,8 +36,8 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377235)
 |-|-|-|
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684941) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684951) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+| 0 | forfait | 1 |
+| 0 | forfait | 1 |
 
 ## Polytechnique - ENGEES 1
 
@@ -49,7 +49,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377236)
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689979) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689981) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689985) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+| 1 | forfait | 0 |
 
 ## ISAE Supaero - Grenoble INP - Esisar 1
 
@@ -58,9 +58,9 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377237)
 | ISAE Supaero | | Grenoble INP - Esisar 1 |
 |-|-|-|
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690523) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+| 1 | forfait | 0 |
+| 1 | forfait | 0 |
+| 1 | forfait | 0 |
 
 ## UTC 1 - ENSIIE 2
 
