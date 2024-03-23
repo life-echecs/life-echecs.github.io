@@ -6,22 +6,22 @@ permalink: /watch.html
 
 # Huitièmes de finales
 
-## ECAM - N7 2
+## ECAM Lasalle - Toulouse INP - ENSEEIHT 2
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377233)
 
-| ECAM | | N7 2 |
+| ECAM Lasalle | | Toulouse INP - ENSEEIHT 2 |
 |-|-|-|
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 
-## INSA - ENSIIE
+## INSA Strasbourg - ENSIIE 1
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377234)
 
-| INSA | | ENSIIE |
+| INSA Strasbourg | | ENSIIE 1 |
 |-|-|-|
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
@@ -39,22 +39,23 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377235)
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 
-## X - ENGEES
+## Polytechnique - ENGEES 1
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377236)
 
-| X | | ENGEES |
+| Polytechnique | | ENGEES 1 |
+
 |-|-|-|
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 
-## ISAE - Esisar
+## ISAE Supaero - Grenoble INP - Esisar 1
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377237)
 
-| ISAE | | Esisar |
+| ISAE Supaero | | Grenoble INP - Esisar 1 |
 |-|-|-|
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
@@ -83,11 +84,11 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377239)
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 
-## N7 1 - X Bachelors
+## Toulouse INP - ENSEEIHT 1 - Polytechnique Bachelors
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377240)
 
-| N7 1 | | X Bachelors |
+| Toulouse INP - ENSEEIHT 1 | | Polytechnique Bachelors |
 |-|-|-|
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
