@@ -12,9 +12,9 @@ Le match est disponible [ici]().
 
 | ECAM Lasalle | | ? |
 |-|-|-|
-| emilio26250 | - [<img src="img/assets/eye.png" width=20>]() - | ? |
-| toto_chess20 | - [<img src="img/assets/eye.png" width=20>]() - | ? |
-| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>]() - | ? |
+| emilio26250 | - [<img src="img/assets/eye.png" width=20>]() - |  |
+| toto_chess20 | - [<img src="img/assets/eye.png" width=20>]() - |  |
+| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>]() - |  |
 |  | 0 forfait 1 |  |
 
 ## ISAE Supaero - ?
@@ -23,10 +23,10 @@ Le match est disponible [ici]().
 
 | ISAE Supaero | | UTC 1 |
 |-|-|-|
-| AstroFormula | 1/- [<img src="img/assets/eye.png" width=20>]() -/2 | KinedEr |
-| eliott_p | - [<img src="img/assets/eye.png" width=20>]() - | Cyphedre |
-| ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>]() - | togabo |
-| Kingmouli | - [<img src="img/assets/eye.png" width=20>]() - | gebas1305 |
+| AstroFormula | - [<img src="img/assets/eye.png" width=20>]() - |  |
+| eliott_p | - [<img src="img/assets/eye.png" width=20>]() - |  |
+| ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>]() - |  |
+| Kingmouli | - [<img src="img/assets/eye.png" width=20>]() - |  |
 
 
 # Quarts de finales
