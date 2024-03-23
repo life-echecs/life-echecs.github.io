@@ -80,7 +80,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377239)
 | ENSSAT | | Centrale Nantes |
 |-|-|-|
 | Mont-Lo | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694407) - | DessinaTHOR |
-| Chevan2 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694417) - | AdriLam |
+| Chevan2 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694417) 1 | AdriLam |
 | NaCle2 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694437) - | Paul15634 |
 |  | forfait |  |
 
