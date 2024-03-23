@@ -23,10 +23,10 @@ Le match est disponible [ici]().
 
 | ? | | Polytechnique |
 |-|-|-|
-|  | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
-|  | - [<img src="img/assets/eye.png" width=20>]() - | Numago33 |
-|  | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
-|  | - [<img src="img/assets/eye.png" width=20>]() - | ? |
+| ? | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
+| ? | - [<img src="img/assets/eye.png" width=20>]() - | Numago33 |
+| ? | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
+| ? | - [<img src="img/assets/eye.png" width=20>]() - | ? |
 
 ## ISAE Supaero - UTC 1
 
@@ -48,7 +48,7 @@ Le match est disponible [ici]().
 | DessinaTHOR | - [<img src="img/assets/eye.png" width=20>]() - | Bousghour |
 | AdriLam | - [<img src="img/assets/eye.png" width=20>]() - | Learza7 |
 | Paul15634 | - [<img src="img/assets/eye.png" width=20>]() - | lulubatlouise |
-|  | - [<img src="img/assets/eye.png" width=20>]() - | enguer31 |
+| ? | - [<img src="img/assets/eye.png" width=20>]() - | enguer31 |
 
 
 # Huitièmes de finales
