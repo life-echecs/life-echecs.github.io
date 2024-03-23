@@ -13,7 +13,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387275).
 | ECAM Lasalle | | Polytechnique |
 |-|-|-|
 | emilio26250 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627279) - | Turonimusr |
-| AyMitecK | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627283) - | Numago33 |
+| AyMitecK | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627283) 1 | Numago33 |
 | toto_chess20 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627291) 0 | jd2810 |
 | SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627295) - | yangshu |
 
