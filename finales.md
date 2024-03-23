@@ -13,8 +13,8 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377233)
 | ECAM Lasalle | | Toulouse INP - ENSEEIHT 2 |
 |-|-|-|
 | emilio26250 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694443) 0 | Arthur111110 |
-|  | toto_chess20 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694449) - | gogetamza |
-|  | SandwichOSaumon [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694451) - | BaptisteR23 |
+| toto_chess20 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694449) - | gogetamza |
+| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694451) - | BaptisteR23 |
 |  | forfait |  |
 
 ## INSA Strasbourg - ENSIIE 1
@@ -24,7 +24,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377234)
 | INSA Strasbourg | | ENSIIE 1 |
 |-|-|-|
 | Flavien67 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690507) - | Colin_Alaska |
-| coconem | 1/2  [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690517) 1/2 | Mael2210270 |
+| coconem | 1/2 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690517) 1/2 | Mael2210270 |
 | FloP0809 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690523) - | Selim43046721 |
 | 1 | forfait | 0 |
 
@@ -46,9 +46,9 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377236)
 | Polytechnique | | ENGEES 1 |
 
 |-|-|-|
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689979) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689981) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689985) - |  |
+| Turonimusr | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689979) - | jeanbcc2b |
+| Numago33 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689981) - | elpequenito |
+| yangshu | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689985) - | paulduc03 |
 | 1 | forfait | 0 |
 
 ## ISAE Supaero - Grenoble INP - Esisar 1
