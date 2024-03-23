@@ -12,10 +12,10 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387270).
 
 | ECAM Lasalle | | ENSIIE 1 |
 |-|-|-|
-| emilio26250 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403939) - | Colin_Alaska |
-| toto_chess20 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403945) - | Mael2210270 |
-| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403949) - | Selim43046721 |
-| ? | - [<img src="img/assets/eye.png" width=20>]() - | ? |
+| emilio26250 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403939) - | valdemor26 |
+| toto_chess20 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403945) - | Colin_Alaska |
+| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403949) - | Mael2210270 |
+|  | forfait |  |
 
 ## EFREI 1 - Polytechnique
 
@@ -45,10 +45,10 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387271).
 
 | Centrale Nantes | | Toulouse INP - ENSEEIHT 1 |
 |-|-|-|
-| DessinaTHOR | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401029) - | Bousghour |
-| AdriLam | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401043) - | Learza7 |
-| Paul15634 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401049) - | lulubatlouise |
-| ? | - [<img src="img/assets/eye.png" width=20>]() - | enguer31 |
+| AdriLam | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401029) - | Bousghour |
+| DessinaTHOR | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401043) - | lulubatlouise |
+| Baptiste2001 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401049) - | enguer31 |
+|  | forfait |  |
 
 
 # Huitièmes de finales
