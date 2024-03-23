@@ -90,10 +90,10 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377240)
 
 | Toulouse INP - ENSEEIHT 1 | | Polytechnique Bachelors |
 |-|-|-|
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688299) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688305) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688313) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688317) - |  |
 
 <!-- # Huitièmes de finales
 
