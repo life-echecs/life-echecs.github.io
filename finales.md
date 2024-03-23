@@ -19,13 +19,13 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377233). Score f
 
 ## INSA Strasbourg - ENSIIE 1
 
-Le match est disponible [ici](https://www.chess.com/play/match/2377234)
+Le match est disponible [ici](https://www.chess.com/play/match/2377234). Score final 1.5-2.5. Victoire de l'ENSIIE 1.
 
 | INSA Strasbourg | | ENSIIE 1 |
 |-|-|-|
 | Flavien67 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690507) 1 | Colin_Alaska |
 | coconem | 1/2 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690517) 1/2 | Mael2210270 |
-| FloP0809 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690523) - | Selim43046721 |
+| FloP0809 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690523) 1 | Selim43046721 |
 |  | 1 forfait 0 |  |
 
 ## UTC 2 - EFREI 1
