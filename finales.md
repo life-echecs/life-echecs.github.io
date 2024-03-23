@@ -21,7 +21,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387283).
 
 ## ISAE Supaero - Polytechnique
 
-Le match est disponible [ici]().
+Le match est disponible [ici](https://www.chess.com/play/match/2387284).
 
 | ISAE Supaero | | Polytechnique |
 |-|-|-|
