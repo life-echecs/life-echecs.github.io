@@ -35,7 +35,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387269).
 | ISAE Supaero | | UTC 1 |
 |-|-|-|
 | AstroFormula | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942400987) - | KinedEr |
-| eliott_p | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942400997) - | Cyphedre |
+| eliott_p | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942400997) 0 | Cyphedre |
 | ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401011) - | togabo |
 | Kingmouli | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401021) 0 | gebas1305 |
 
