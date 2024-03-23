@@ -23,10 +23,10 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387273).
 
 | EFREI 1 | | Polytechnique |
 |-|-|-|
-| segpa_sauvage | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
-| QuietChair | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
-| stardocka | - [<img src="img/assets/eye.png" width=20>]() - | jd2810 |
-| WilsonTJ4L | - [<img src="img/assets/eye.png" width=20>]() - | natello35 |
+| segpa_sauvage | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560339) - | Turonimusr |
+| QuietChair | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560345) - | yangshu |
+| stardocka | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560353) - | jd2810 |
+| WilsonTJ4L | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560359) - | natello35 |
 
 ## ISAE Supaero - UTC 1
 
