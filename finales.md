@@ -8,7 +8,7 @@ permalink: /watch.html
 
 ## ECAM Lasalle - ENSIIE 1
 
-Le match est disponible [ici](https://www.chess.com/play/match/2387270).
+Le match est disponible [ici](https://www.chess.com/play/match/2387270). Score final 3-1. Victoire de l'ECAM Lasalle.
 
 | ECAM Lasalle | | ENSIIE 1 |
 |-|-|-|
