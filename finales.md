@@ -8,14 +8,14 @@ permalink: /watch.html
 
 ## ECAM Lasalle - Toulouse INP - ENSEEIHT 2
 
-Le match est disponible [ici](https://www.chess.com/play/match/2377233)
+Le match est disponible [ici](https://www.chess.com/play/match/2377233). Score final : 4-0. Victoire de l'ECAM Lasalle.
 
 | ECAM Lasalle | | Toulouse INP - ENSEEIHT 2 |
 |-|-|-|
 | emilio26250 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694443) 0 | Arthur111110 |
 | toto_chess20 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694449) 0 | gogetamza |
-| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694451) - | BaptisteR23 |
-|  | forfait |  |
+| SandwichOSaumon | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694451) 0 | BaptisteR23 |
+|  | 1 forfait 0 |  |
 
 ## INSA Strasbourg - ENSIIE 1
 
