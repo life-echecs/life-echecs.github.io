@@ -46,8 +46,8 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377236)
 | Polytechnique | | ENGEES 1 |
 
 |-|-|-|
-| Turonimusr | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689979) - | jeanbcc2b |
-| Numago33 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689981) - | elpequenito |
+| Turonimusr | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689979) 0 | jeanbcc2b |
+| Numago33 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689981) 0 | elpequenito |
 | yangshu | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689985) - | paulduc03 |
 |  | 1 forfait 0 |  |
 
