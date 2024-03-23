@@ -90,10 +90,10 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377240)
 
 | Toulouse INP - ENSEEIHT 1 | | Polytechnique Bachelors |
 |-|-|-|
-| Bousghour | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688299) - | nicolas_h |
-| Learza7 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688305) - | fundoomaster |
-| lulubatlouise | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688313) 0 | kajkokjw |
-| enguer31 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688317) - | ViperFang2020 |
+| Bousghour | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688299) 0 | nicolas_h |
+| Learza7 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688305) 0 | fundoomaster |
+| lulubatlouise | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688313) 1 | kajkokjw |
+| enguer31 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688317) 0 | ViperFang2020 |
 
 <!-- # Huitièmes de finales
 
