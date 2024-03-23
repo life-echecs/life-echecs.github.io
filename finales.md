@@ -45,9 +45,9 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387271).
 
 | Centrale Nantes | | Toulouse INP - ENSEEIHT 1 |
 |-|-|-|
-| DessinaTHOR | - [<img src="img/assets/eye.png" width=20>]() - | Bousghour |
-| AdriLam | - [<img src="img/assets/eye.png" width=20>]() - | Learza7 |
-| Paul15634 | - [<img src="img/assets/eye.png" width=20>]() - | lulubatlouise |
+| DessinaTHOR | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401029) - | Bousghour |
+| AdriLam | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401043) - | Learza7 |
+| Paul15634 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401049) - | lulubatlouise |
 | ? | - [<img src="img/assets/eye.png" width=20>]() - | enguer31 |
 
 
