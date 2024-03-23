@@ -30,13 +30,13 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387273).
 
 ## ISAE Supaero - UTC 1
 
-Le match est disponible [ici](https://www.chess.com/play/match/2387269).
+Le match est disponible [ici](https://www.chess.com/play/match/2387269). Score final 2.5-1.5. Victoire de l'ISAE Supaero.
 
 | ISAE Supaero | | UTC 1 |
 |-|-|-|
-| AstroFormula | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942400987) - | KinedEr |
+| AstroFormula | 1/2 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942400987) 1/2 | KinedEr |
 | eliott_p | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942400997) 0 | Cyphedre |
-| ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401011) - | togabo |
+| ivan_gonzalvez | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401011) 1 | togabo |
 | Kingmouli | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401021) 0 | gebas1305 |
 
 ## Centrale Nantes - Toulouse INP - ENSEEIHT 1
