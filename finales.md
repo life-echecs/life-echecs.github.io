@@ -8,7 +8,7 @@ permalink: /watch.html
 
 ## ECAM Lasalle - Polytechnique
 
-Le match est disponible [ici]().
+Le match est disponible [ici](https://www.chess.com/play/match/2387275).
 
 | ECAM Lasalle | | Polytechnique |
 |-|-|-|
@@ -19,7 +19,7 @@ Le match est disponible [ici]().
 
 ## ISAE Supaero - Toulouse INP - ENSEEIHT 1
 
-Le match est disponible [ici]().
+Le match est disponible [ici](https://www.chess.com/play/match/2387274).
 
 | ISAE Supaero | | Toulouse INP - ENSEEIHT 1 |
 |-|-|-|
