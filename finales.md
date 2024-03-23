@@ -23,9 +23,9 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377234)
 
 | INSA Strasbourg | | ENSIIE 1 |
 |-|-|-|
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690507) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690517) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690523) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 
 ## UTC 2 - EFREI 1
