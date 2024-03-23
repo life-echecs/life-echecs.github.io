@@ -12,7 +12,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387270).
 
 | ECAM Lasalle | | ENSIIE 1 |
 |-|-|-|
-| emilio26250 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403939) - | valdemor26 |
+| emilio26250 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403939) 0 | valdemor26 |
 | toto_chess20 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403945) 0 | Colin_Alaska |
 | SandwichOSaumon | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403949) 0 | Mael2210270 |
 |  | 0 forfait 1 |  |
