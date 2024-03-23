@@ -12,9 +12,9 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387270).
 
 | ECAM Lasalle | | ENSIIE 1 |
 |-|-|-|
-| emilio26250 | - [<img src="img/assets/eye.png" width=20>]() - | Colin_Alaska |
-| toto_chess20 | - [<img src="img/assets/eye.png" width=20>]() - | Mael2210270 |
-| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>]() - | Selim43046721 |
+| emilio26250 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403939) - | Colin_Alaska |
+| toto_chess20 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403945) - | Mael2210270 |
+| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403949) - | Selim43046721 |
 | ? | - [<img src="img/assets/eye.png" width=20>]() - | ? |
 
 ## EFREI 1 - Polytechnique
