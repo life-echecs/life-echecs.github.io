@@ -23,7 +23,7 @@ Le match est disponible [ici]().
 
 Le match est disponible [ici]().
 
-| ISAE Supaero |                                                                                            | ? |
+| ISAE Supaero | | ? |
 |-|-|-|
 | AstroFormula | - [<img src="img/assets/eye.png" width=20>]() - | ? |
 | eliott_p | - [<img src="img/assets/eye.png" width=20>]() - | ? |
@@ -46,7 +46,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387275). Score f
 
 Armaggedon :
 
-| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>]() - | jd2810 |
+| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104949712281) - | jd2810 |
 
 ## ISAE Supaero - Toulouse INP - ENSEEIHT 1
 
