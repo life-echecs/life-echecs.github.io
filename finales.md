@@ -15,7 +15,7 @@ Le match est disponible [ici]().
 | emilio26250 | - [<img src="img/assets/eye.png" width=20>]() - | Colin_Alaska |
 | toto_chess20 | - [<img src="img/assets/eye.png" width=20>]() - | Mael2210270 |
 | SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>]() - | Selim43046721 |
-|  | - [<img src="img/assets/eye.png" width=20>]() - |  |
+| ? | - [<img src="img/assets/eye.png" width=20>]() - | ? |
 
 ## ? - Polytechnique
 
@@ -23,10 +23,10 @@ Le match est disponible [ici]().
 
 | ? | | Polytechnique |
 |-|-|-|
-| AstroFormula | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
-| eliott_p | - [<img src="img/assets/eye.png" width=20>]() - | Numago33 |
-| ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
-| Kingmouli | - [<img src="img/assets/eye.png" width=20>]() - |  |
+|  | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
+|  | - [<img src="img/assets/eye.png" width=20>]() - | Numago33 |
+|  | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
+|  | - [<img src="img/assets/eye.png" width=20>]() - | ? |
 
 ## ISAE Supaero - UTC 1
 
@@ -34,10 +34,10 @@ Le match est disponible [ici]().
 
 | ISAE Supaero | | UTC 1 |
 |-|-|-|
-|  | - [<img src="img/assets/eye.png" width=20>]() - | KinedEr |
-|  | - [<img src="img/assets/eye.png" width=20>]() - | Cyphedre |
-|  | - [<img src="img/assets/eye.png" width=20>]() - | togabo |
-|  | - [<img src="img/assets/eye.png" width=20>]() - | gebas1305 |
+| AstroFormula | - [<img src="img/assets/eye.png" width=20>]() - | KinedEr |
+| eliott_p | - [<img src="img/assets/eye.png" width=20>]() - | Cyphedre |
+| ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>]() - | togabo |
+| Kingmouli | - [<img src="img/assets/eye.png" width=20>]() - | gebas1305 |
 
 ## Centrale Nantes - Toulouse INP - ENSEEIHT 1
 
