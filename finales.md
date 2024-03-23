@@ -4,6 +4,33 @@ title: Tournoi en Direct
 permalink: /watch.html
 ---
 
+# Finale
+
+## ? - Toulouse INP - ENSEEIHT 1
+
+Le match est disponible [ici]().
+
+| ? |                                                                                        | Toulouse INP - ENSEEIHT 1 |
+|-|-|-|
+| ? | - [<img src="img/assets/eye.png" width=20>]() - | Bousghour |
+| ? | - [<img src="img/assets/eye.png" width=20>]() - | Learza7 |
+| ? | - [<img src="img/assets/eye.png" width=20>]() - | lulubatlouise |
+| ? | - [<img src="img/assets/eye.png" width=20>]() - | enguer31 |
+
+# Petite Finale
+
+## ISAE Supaero - ?
+
+Le match est disponible [ici]().
+
+| ISAE Supaero |                                                                                            | ? |
+|-|-|-|
+| AstroFormula | - [<img src="img/assets/eye.png" width=20>]() - | ? |
+| eliott_p | - [<img src="img/assets/eye.png" width=20>]() - | ? |
+| ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>]() - | ? |
+| Kingmouli | - [<img src="img/assets/eye.png" width=20>]() - | ? |
+
+
 # Demi-finales
 
 ## ECAM Lasalle - Polytechnique
