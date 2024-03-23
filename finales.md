@@ -8,7 +8,7 @@ permalink: /watch.html
 
 ## ECAM Lasalle - ENSIIE 1
 
-Le match est disponible [ici]().
+Le match est disponible [ici](https://www.chess.com/play/match/2387270).
 
 | ECAM Lasalle | | ENSIIE 1 |
 |-|-|-|
@@ -30,7 +30,7 @@ Le match est disponible [ici]().
 
 ## ISAE Supaero - UTC 1
 
-Le match est disponible [ici]().
+Le match est disponible [ici](https://www.chess.com/play/match/2387269).
 
 | ISAE Supaero | | UTC 1 |
 |-|-|-|
@@ -41,7 +41,7 @@ Le match est disponible [ici]().
 
 ## Centrale Nantes - Toulouse INP - ENSEEIHT 1
 
-Le match est disponible [ici]().
+Le match est disponible [ici](https://www.chess.com/play/match/2387271).
 
 | Centrale Nantes | | Toulouse INP - ENSEEIHT 1 |
 |-|-|-|
