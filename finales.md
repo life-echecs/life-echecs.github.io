@@ -17,16 +17,16 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387270).
 | SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>]() - | Selim43046721 |
 | ? | - [<img src="img/assets/eye.png" width=20>]() - | ? |
 
-## ? - Polytechnique
+## EFREI 1 - Polytechnique
 
 Le match est disponible [ici]().
 
-| ? | | Polytechnique |
+| EFREI 1 | | Polytechnique |
 |-|-|-|
-| ? | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
-| ? | - [<img src="img/assets/eye.png" width=20>]() - | Numago33 |
-| ? | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
-| ? | - [<img src="img/assets/eye.png" width=20>]() - | ? |
+| stardocka | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
+| WilsonTJ4L | - [<img src="img/assets/eye.png" width=20>]() - | Numago33 |
+| segpa_sauvage | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
+| QuietChair | - [<img src="img/assets/eye.png" width=20>]() - | ? |
 
 ## ISAE Supaero - UTC 1
 
@@ -77,14 +77,14 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377234). Score f
 
 ## UTC 2 - EFREI 1
 
-Le match est disponible [ici](https://www.chess.com/play/match/2377235).
+Le match est disponible [ici](https://www.chess.com/play/match/2377235). Score final 1-3. Victoire de l'EFREI 1.
 
 | UTC 2 | | EFREI 1 |
 |-|-|-|
 | BastienLeS | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684941) 0 | stardocka |
 | Sh_rl_ck7 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684951) 1 | WilsonTJ4L |
-| BenjiChessK |  | segpa_sauvage |
-| 8Rapik8 |  | QuietChair |
+| BenjiChessK | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104940690053) 1 | segpa_sauvage |
+| 8Rapik8 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104940723287) 1 | QuietChair |
 
 ## Polytechnique - ENGEES 1
 
