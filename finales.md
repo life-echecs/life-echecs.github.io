@@ -13,9 +13,9 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387275).
 | ECAM Lasalle | | Polytechnique |
 |-|-|-|
 | emilio26250 | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
-| toto_chess20 | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
-| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>]() - | jd2810 |
-|  | 0 forfait 1 |  |
+| AyMitecK | - [<img src="img/assets/eye.png" width=20>]() - | Numago33 |
+| toto_chess20 | - [<img src="img/assets/eye.png" width=20>]() - | jd2810 |
+| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
 
 ## ISAE Supaero - Toulouse INP - ENSEEIHT 1
 
