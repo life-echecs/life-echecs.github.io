@@ -21,7 +21,7 @@ Le match est disponible [ici]().
 
 Le match est disponible [ici]().
 
-| ISAE Supaero | | UTC 1 |
+| ISAE Supaero | | ? |
 |-|-|-|
 | AstroFormula | - [<img src="img/assets/eye.png" width=20>]() - |  |
 | eliott_p | - [<img src="img/assets/eye.png" width=20>]() - |  |
@@ -55,7 +55,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387273). Score f
 
 Armaggedon :
 
-| QuietChair | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104944790597) - | yangshu |
+| segpa_sauvage | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104944946253) - | jd2810 |
 
 ## ISAE Supaero - UTC 1
 
@@ -70,7 +70,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387269). Score f
 
 ## Centrale Nantes - Toulouse INP - ENSEEIHT 1
 
-Le match est disponible [ici](https://www.chess.com/play/match/2387271). Score final 2-2.
+Le match est disponible [ici](https://www.chess.com/play/match/2387271). Score final 2-2. Victoire de Toulouse INP - ENSEEIHT 1 en Armaggedon.
 
 | Centrale Nantes | | Toulouse INP - ENSEEIHT 1 |
 |-|-|-|
@@ -81,7 +81,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387271). Score f
 
 Armaggedon :
 
-| DessinaTHOR | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104944904861) - | Bousghour |
+| DessinaTHOR | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104944904861) 1 | Bousghour |
 
 # Huitièmes de finales
 
