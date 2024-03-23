@@ -41,14 +41,14 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377235). Score f
 
 ## Polytechnique - ENGEES 1
 
-Le match est disponible [ici](https://www.chess.com/play/match/2377236)
+Le match est disponible [ici](https://www.chess.com/play/match/2377236). Score final 4-0. Victoire de POolytechnique.
 
 | Polytechnique | | ENGEES 1 |
 
 |-|-|-|
 | Turonimusr | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689979) 0 | jeanbcc2b |
 | Numago33 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689981) 0 | elpequenito |
-| yangshu | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689985) - | paulduc03 |
+| yangshu | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689985) 0 | paulduc03 |
 |  | 1 forfait 0 |  |
 
 ## ISAE Supaero - Grenoble INP - Esisar 1
