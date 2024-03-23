@@ -86,7 +86,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377239)
 
 ## Toulouse INP - ENSEEIHT 1 - Polytechnique Bachelors
 
-Le match est disponible [ici](https://www.chess.com/play/match/2377240)
+Le match est disponible [ici](https://www.chess.com/play/match/2377240). Score final 3-1. Victoire de Toulouse INP - ENSEEIHT 1.
 
 | Toulouse INP - ENSEEIHT 1 | | Polytechnique Bachelors |
 |-|-|-|
