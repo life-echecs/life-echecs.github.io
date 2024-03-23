@@ -12,10 +12,10 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377233)
 
 | ECAM Lasalle | | Toulouse INP - ENSEEIHT 2 |
 |-|-|-|
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694443) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694449) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694451) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+| emilio26250 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694443) 0 | Arthur111110 |
+|  | toto_chess20 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694449) - | gogetamza |
+|  | SandwichOSaumon [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694451) - | BaptisteR23 |
+|  | forfait |  |
 
 ## INSA Strasbourg - ENSIIE 1
 
@@ -82,7 +82,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377239)
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694407) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694417) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694437) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | forfait |  |
 
 ## Toulouse INP - ENSEEIHT 1 - Polytechnique Bachelors
 
