@@ -10,34 +10,89 @@ permalink: /watch.html
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377233)
 
+| ECAM | | N7 2 |
+|-|-|-|
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+
 ## INSA - ENSIIE
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377234)
+
+| INSA | | ENSIIE |
+|-|-|-|
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 
 ## UTC 2 - EFREI 1
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377235)
 
+| UTC 2 | | EFREI 1 |
+|-|-|-|
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+
 ## X - ENGEES
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377236)
+
+| X | | ENGEES |
+|-|-|-|
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 
 ## ISAE - Esisar
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377237)
 
+| ISAE | | Esisar |
+|-|-|-|
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+
 ## UTC 1 - ENSIIE 2
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377238)
+
+| UTC 1 | | ENSIIE 2 |
+|-|-|-|
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 
 ## ENSSAT - Centrale Nantes
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377239)
 
+| ENSSAT | | Centrale Nantes |
+|-|-|-|
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+
 ## N7 1 - X Bachelors
 
 Le match est disponible [ici](https://www.chess.com/play/match/2377240)
 
+| N7 1 | | X Bachelors |
+|-|-|-|
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 
 <!-- # Huitièmes de finales
 
