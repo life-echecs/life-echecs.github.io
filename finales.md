@@ -12,9 +12,9 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377233)
 
 | ECAM Lasalle | | Toulouse INP - ENSEEIHT 2 |
 |-|-|-|
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694443) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694449) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694451) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 
 ## INSA Strasbourg - ENSIIE 1
