@@ -23,7 +23,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387274).
 
 | ISAE Supaero | | Toulouse INP - ENSEEIHT 1 |
 |-|-|-|
-| AstroFormula | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623413) - | Bousghour |
+| AstroFormula | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623413) 1 | Bousghour |
 | eliott_p | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623421) - | Learza7 |
 | ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623429) - | lulubatlouise |
 | Kingmouli | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623437) 1 | enguer31 |
