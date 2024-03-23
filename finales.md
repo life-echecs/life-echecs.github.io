@@ -30,7 +30,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377234)
 
 ## UTC 2 - EFREI 1
 
-Le match est disponible [ici](https://www.chess.com/play/match/2377235)
+Le match est disponible [ici](https://www.chess.com/play/match/2377235). Score final 1-3. Victoire de l'EFREI 1.
 
 | UTC 2 | | EFREI 1 |
 |-|-|-|
@@ -79,9 +79,9 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377239)
 
 | ENSSAT | | Centrale Nantes |
 |-|-|-|
-| Mont-Lo | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694407) - | DessinaTHOR |
+| Mont-Lo | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694407) 0 | DessinaTHOR |
 | Chevan2 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694417) 1 | AdriLam |
-| NaCle2 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694437) - | Paul15634 |
+| NaCle2 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694437) 1 | Paul15634 |
 |  | forfait |  |
 
 ## Toulouse INP - ENSEEIHT 1 - Polytechnique Bachelors
