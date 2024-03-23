@@ -6,36 +6,36 @@ permalink: /watch.html
 
 # Finale
 
-## ? - Toulouse INP - ENSEEIHT 1
+## ECAM Lasalle - Toulouse INP - ENSEEIHT 1
 
 Le match est disponible [ici]().
 
-| ? |                                                                                        | Toulouse INP - ENSEEIHT 1 |
+| ECAM Lasalle | | Toulouse INP - ENSEEIHT 1 |
 |-|-|-|
-| ? | - [<img src="img/assets/eye.png" width=20>]() - | Bousghour |
-| ? | - [<img src="img/assets/eye.png" width=20>]() - | Learza7 |
-| ? | - [<img src="img/assets/eye.png" width=20>]() - | lulubatlouise |
-| ? | - [<img src="img/assets/eye.png" width=20>]() - | enguer31 |
+| emilio26250 | - [<img src="img/assets/eye.png" width=20>]() - | Bousghour |
+| AyMitecK | - [<img src="img/assets/eye.png" width=20>]() - | Learza7 |
+| toto_chess20 | - [<img src="img/assets/eye.png" width=20>]() - | lulubatlouise |
+| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>]() - | enguer31 |
 
 # Petite Finale
 
-## ISAE Supaero - ?
+## ISAE Supaero - Polytechnique
 
 Le match est disponible [ici]().
 
-| ISAE Supaero | | ? |
+| ISAE Supaero | | Polytechnique |
 |-|-|-|
-| AstroFormula | - [<img src="img/assets/eye.png" width=20>]() - | ? |
-| eliott_p | - [<img src="img/assets/eye.png" width=20>]() - | ? |
-| ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>]() - | ? |
-| Kingmouli | - [<img src="img/assets/eye.png" width=20>]() - | ? |
+| AstroFormula | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
+| eliott_p | - [<img src="img/assets/eye.png" width=20>]() - | Numago33 |
+| ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>]() - | jd2810 |
+| Kingmouli | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
 
 
 # Demi-finales
 
 ## ECAM Lasalle - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/2387275). Score final 2-2.
+Le match est disponible [ici](https://www.chess.com/play/match/2387275). Score final 2-2. Victoire de l'ECAM Lasalle en Armaggedon.
 
 | ECAM Lasalle | | Polytechnique |
 |-|-|-|
@@ -46,7 +46,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387275). Score f
 
 Armaggedon :
 
-| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104949712281) - | jd2810 |
+| SandwichOSaumon | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104949712281) 0 | jd2810 |
 
 ## ISAE Supaero - Toulouse INP - ENSEEIHT 1
 
