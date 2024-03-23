@@ -14,7 +14,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387275).
 |-|-|-|
 | emilio26250 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627279) - | Turonimusr |
 | AyMitecK | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627283) - | Numago33 |
-| toto_chess20 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627291) - | jd2810 |
+| toto_chess20 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627291) 0 | jd2810 |
 | SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627295) - | yangshu |
 
 ## ISAE Supaero - Toulouse INP - ENSEEIHT 1
@@ -26,7 +26,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387274).
 | AstroFormula | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623413) - | Bousghour |
 | eliott_p | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623421) - | Learza7 |
 | ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623429) - | lulubatlouise |
-| Kingmouli | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623437) - | enguer31 |
+| Kingmouli | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623437) 1 | enguer31 |
 
 
 # Quarts de finales
