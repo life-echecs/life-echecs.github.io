@@ -41,14 +41,14 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387269).
 
 ## Centrale Nantes - Toulouse INP - ENSEEIHT 1
 
-Le match est disponible [ici](https://www.chess.com/play/match/2387271).
+Le match est disponible [ici](https://www.chess.com/play/match/2387271). Score final 2-2.
 
 | Centrale Nantes | | Toulouse INP - ENSEEIHT 1 |
 |-|-|-|
 | AdriLam | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401029) 1 | Bousghour |
 | DessinaTHOR | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401043) 0 | lulubatlouise |
 | Baptiste2001 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401049) 1 | enguer31 |
-|  | forfait |  |
+|  | 1 forfait 0 |  |
 
 
 # Huitièmes de finales
