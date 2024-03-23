@@ -4,6 +4,53 @@ title: Tournoi en Direct
 permalink: /watch.html
 ---
 
+# Quarts de finales
+
+## ECAM Lasalle - ENSIIE 1
+
+Le match est disponible [ici]().
+
+| ECAM Lasalle | | ENSIIE 1 |
+|-|-|-|
+| emilio26250 | - [<img src="img/assets/eye.png" width=20>]() - | Colin_Alaska |
+| toto_chess20 | - [<img src="img/assets/eye.png" width=20>]() - | Mael2210270 |
+| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>]() - | Selim43046721 |
+|  | - [<img src="img/assets/eye.png" width=20>]() - |  |
+
+## ? - Polytechnique
+
+Le match est disponible [ici]().
+
+| ? | | Polytechnique |
+|-|-|-|
+|  | - [<img src="img/assets/eye.png" width=20>]() - | Turonimusr |
+|  | - [<img src="img/assets/eye.png" width=20>]() - | Numago33 |
+|  | - [<img src="img/assets/eye.png" width=20>]() - | yangshu |
+|  | - [<img src="img/assets/eye.png" width=20>]() - |  |
+
+## ISAE Supaero - UTC 1
+
+Le match est disponible [ici]().
+
+| ISAE Supaero | | UTC 1 |
+|-|-|-|
+|  | - [<img src="img/assets/eye.png" width=20>]() - | KinedEr |
+|  | - [<img src="img/assets/eye.png" width=20>]() - | Cyphedre |
+|  | - [<img src="img/assets/eye.png" width=20>]() - | togabo |
+|  | - [<img src="img/assets/eye.png" width=20>]() - | gebas1305 |
+
+## Centrale Nantes - Toulouse INP - ENSEEIHT 1
+
+Le match est disponible [ici]().
+
+| Centrale Nantes | | Toulouse INP - ENSEEIHT 1 |
+|-|-|-|
+| DessinaTHOR | - [<img src="img/assets/eye.png" width=20>]() - | Bousghour |
+| AdriLam | - [<img src="img/assets/eye.png" width=20>]() - | Learza7 |
+| Paul15634 | - [<img src="img/assets/eye.png" width=20>]() - | lulubatlouise |
+|  | - [<img src="img/assets/eye.png" width=20>]() - | enguer31 |
+
+
 # Huitièmes de finales
 
 ## ECAM Lasalle - Toulouse INP - ENSEEIHT 2
@@ -94,6 +141,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377240). Score f
 | Learza7 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688305) 0 | fundoomaster |
 | lulubatlouise | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688313) 1 | kajkokjw |
 | enguer31 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688317) 0 | ViperFang2020 |
+
 
 <!-- # Huitièmes de finales
 
