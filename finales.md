@@ -8,24 +8,24 @@ permalink: /watch.html
 
 ## ECAM Lasalle - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/2387275). Score 2-1.
+Le match est disponible [ici](https://www.chess.com/play/match/2387275). Score final 2-2.
 
 | ECAM Lasalle | | Polytechnique |
 |-|-|-|
 | emilio26250 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627279) 0 | Turonimusr |
 | AyMitecK | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627283) 1 | Numago33 |
 | toto_chess20 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627291) 0 | jd2810 |
-| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627295) - | yangshu |
+| SandwichOSaumon | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946627295) 1 | yangshu |
 
 ## ISAE Supaero - Toulouse INP - ENSEEIHT 1
 
-Le match est disponible [ici](https://www.chess.com/play/match/2387274). Score 0-3. Victoire de Toulouse INP - ENSEEIHT 1.
+Le match est disponible [ici](https://www.chess.com/play/match/2387274). Score final 1-3. Victoire de Toulouse INP - ENSEEIHT 1.
 
 | ISAE Supaero | | Toulouse INP - ENSEEIHT 1 |
 |-|-|-|
 | AstroFormula | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623413) 1 | Bousghour |
 | eliott_p | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623421) 1 | Learza7 |
-| ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623429) - | lulubatlouise |
+| ivan_gonzalvez | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623429) 0 | lulubatlouise |
 | Kingmouli | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104946623437) 1 | enguer31 |
 
 
