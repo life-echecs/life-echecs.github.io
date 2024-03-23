@@ -13,7 +13,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377233)
 | ECAM Lasalle | | Toulouse INP - ENSEEIHT 2 |
 |-|-|-|
 | emilio26250 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694443) 0 | Arthur111110 |
-| toto_chess20 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694449) - | gogetamza |
+| toto_chess20 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694449) 0 | gogetamza |
 | SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694451) - | BaptisteR23 |
 |  | forfait |  |
 
@@ -26,7 +26,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377234)
 | Flavien67 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690507) - | Colin_Alaska |
 | coconem | 1/2 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690517) 1/2 | Mael2210270 |
 | FloP0809 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690523) - | Selim43046721 |
-| 1 | forfait | 0 |
+|  | 1 forfait 0 |  |
 
 ## UTC 2 - EFREI 1
 
@@ -36,8 +36,8 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377235)
 |-|-|-|
 | BastienLeS | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684941) - | stardocka |
 | Sh_rl_ck7 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684951) 1 | WilsonTJ4L |
-| 0 | forfait | 1 |
-| 0 | forfait | 1 |
+|  | 0 forfait 1 |  |
+|  | 0 forfait 1 |  |
 
 ## Polytechnique - ENGEES 1
 
@@ -49,7 +49,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377236)
 | Turonimusr | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689979) - | jeanbcc2b |
 | Numago33 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689981) - | elpequenito |
 | yangshu | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689985) - | paulduc03 |
-| 1 | forfait | 0 |
+|  | 1 forfait 0 |  |
 
 ## ISAE Supaero - Grenoble INP - Esisar 1
 
@@ -58,9 +58,9 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377237)
 | ISAE Supaero | | Grenoble INP - Esisar 1 |
 |-|-|-|
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690523) - |  |
-| 1 | forfait | 0 |
-| 1 | forfait | 0 |
-| 1 | forfait | 0 |
+|  | 1 forfait 0 |  |
+|  | 1 forfait 0 |  |
+|  | 1 forfait 0 |  |
 
 ## UTC 1 - ENSIIE 2
 
