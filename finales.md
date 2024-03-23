@@ -4,6 +4,31 @@ title: Tournoi en Direct
 permalink: /watch.html
 ---
 
+# Demi-finales
+
+## ECAM Lasalle - ?
+
+Le match est disponible [ici]().
+
+| ECAM Lasalle | | ? |
+|-|-|-|
+| emilio26250 | - [<img src="img/assets/eye.png" width=20>]() - | ? |
+| toto_chess20 | - [<img src="img/assets/eye.png" width=20>]() - | ? |
+| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>]() - | ? |
+|  | 0 forfait 1 |  |
+
+## ISAE Supaero - ?
+
+Le match est disponible [ici]().
+
+| ISAE Supaero | | UTC 1 |
+|-|-|-|
+| AstroFormula | 1/- [<img src="img/assets/eye.png" width=20>]() -/2 | KinedEr |
+| eliott_p | - [<img src="img/assets/eye.png" width=20>]() - | Cyphedre |
+| ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>]() - | togabo |
+| Kingmouli | - [<img src="img/assets/eye.png" width=20>]() - | gebas1305 |
+
+
 # Quarts de finales
 
 ## ECAM Lasalle - ENSIIE 1
@@ -19,12 +44,12 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387270). Score f
 
 ## EFREI 1 - Polytechnique
 
-Le match est disponible [ici](https://www.chess.com/play/match/2387273).
+Le match est disponible [ici](https://www.chess.com/play/match/2387273). Score final 2-2.
 
 | EFREI 1 | | Polytechnique |
 |-|-|-|
 | segpa_sauvage | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560339) 1 | Turonimusr |
-| QuietChair | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560345) - | yangshu |
+| QuietChair | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560345) 0 | yangshu |
 | stardocka | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560353) 1 | jd2810 |
 | WilsonTJ4L | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560359) 0 | natello35 |
 
