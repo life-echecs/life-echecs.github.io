@@ -36,7 +36,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377235)
 |-|-|-|
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684941) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684951) - |  |
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689981) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 
 ## Polytechnique - ENGEES 1
@@ -46,7 +46,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377236)
 | Polytechnique | | ENGEES 1 |
 
 |-|-|-|
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
+|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937689979) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
 |  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/) - |  |
