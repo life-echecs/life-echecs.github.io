@@ -14,7 +14,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387270).
 |-|-|-|
 | emilio26250 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403939) - | valdemor26 |
 | toto_chess20 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403945) - | Colin_Alaska |
-| SandwichOSaumon | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403949) - | Mael2210270 |
+| SandwichOSaumon | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403949) 0 | Mael2210270 |
 |  | forfait |  |
 
 ## EFREI 1 - Polytechnique
