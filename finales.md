@@ -34,7 +34,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377235)
 
 | UTC 2 | | EFREI 1 |
 |-|-|-|
-| BastienLeS | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684941) - | stardocka |
+| BastienLeS | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684941) 0 | stardocka |
 | Sh_rl_ck7 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684951) 1 | WilsonTJ4L |
 |  | 0 forfait 1 |  |
 |  | 0 forfait 1 |  |
