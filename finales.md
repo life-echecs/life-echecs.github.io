@@ -4,7 +4,7 @@ title: Tournoi en Direct
 permalink: /watch.html
 ---
 
-<iframe src="https://player.twitch.tv/?video=2099028651" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?video=2099028651&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 # Finale
 
