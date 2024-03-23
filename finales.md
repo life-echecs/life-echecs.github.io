@@ -53,11 +53,11 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377236)
 
 ## ISAE Supaero - Grenoble INP - Esisar 1
 
-Le match est disponible [ici](https://www.chess.com/play/match/2377237)
+Le match est disponible [ici](https://www.chess.com/play/match/2377237). Score final : 4-0. Victoire de l'ISAE Supaero.
 
 | ISAE Supaero | | Grenoble INP - Esisar 1 |
 |-|-|-|
-|  | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937690523) - |  |
+|  | 1 forfait 0 |  |
 |  | 1 forfait 0 |  |
 |  | 1 forfait 0 |  |
 |  | 1 forfait 0 |  |
