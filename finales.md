@@ -37,7 +37,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387269).
 | AstroFormula | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942400987) - | KinedEr |
 | eliott_p | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942400997) - | Cyphedre |
 | ivan_gonzalvez | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401011) - | togabo |
-| Kingmouli | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401021) - | gebas1305 |
+| Kingmouli | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401021) 0 | gebas1305 |
 
 ## Centrale Nantes - Toulouse INP - ENSEEIHT 1
 
