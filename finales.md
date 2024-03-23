@@ -53,6 +53,10 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387273). Score f
 | stardocka | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560353) 1 | jd2810 |
 | WilsonTJ4L | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560359) 0 | natello35 |
 
+Armaggedon :
+
+| QuietChair | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104944790597) - | yangshu |
+
 ## ISAE Supaero - UTC 1
 
 Le match est disponible [ici](https://www.chess.com/play/match/2387269). Score final 2.5-1.5. Victoire de l'ISAE Supaero.
@@ -75,6 +79,9 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387271). Score f
 | Baptiste2001 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942401049) 1 | enguer31 |
 |  | 1 forfait 0 |  |
 
+Armaggedon :
+
+| DessinaTHOR | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104944904861) - | Bousghour |
 
 # Huitièmes de finales
 
