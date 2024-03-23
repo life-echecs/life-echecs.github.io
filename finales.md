@@ -15,7 +15,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387283).
 | emilio26250 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104950876657) - | Bousghour |
 | AyMitecK | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104950876665) - | Learza7 |
 | toto_chess20 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104950876669) - | lulubatlouise |
-| SandwichOSaumon | 0 forfait 1 | enguer31 |
+| SandwichOSaumon | ? | enguer31 |
 
 # Petite Finale
 
