@@ -13,9 +13,9 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387270).
 | ECAM Lasalle | | ENSIIE 1 |
 |-|-|-|
 | emilio26250 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403939) - | valdemor26 |
-| toto_chess20 | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403945) - | Colin_Alaska |
+| toto_chess20 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403945) 0 | Colin_Alaska |
 | SandwichOSaumon | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942403949) 0 | Mael2210270 |
-|  | forfait |  |
+|  | 0 forfait 1 |  |
 
 ## EFREI 1 - Polytechnique
 
@@ -25,7 +25,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2387273).
 |-|-|-|
 | segpa_sauvage | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560339) - | Turonimusr |
 | QuietChair | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560345) - | yangshu |
-| stardocka | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560353) - | jd2810 |
+| stardocka | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560353) 1 | jd2810 |
 | WilsonTJ4L | - [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104942560359) - | natello35 |
 
 ## ISAE Supaero - UTC 1
