@@ -83,8 +83,8 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377235).
 |-|-|-|
 | BastienLeS | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684941) 0 | stardocka |
 | Sh_rl_ck7 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937684951) 1 | WilsonTJ4L |
-|  | 0 forfait 1 |  |
-|  | 0 forfait 1 |  |
+|  |  |  |
+|  |  |  |
 
 ## Polytechnique - ENGEES 1
 
@@ -122,14 +122,14 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377238). Score f
 
 ## ENSSAT - Centrale Nantes
 
-Le match est disponible [ici](https://www.chess.com/play/match/2377239).
+Le match est disponible [ici](https://www.chess.com/play/match/2377239). Score final 1-3. Victoire de Centrale Nantes
 
 | ENSSAT | | Centrale Nantes |
 |-|-|-|
 | Mont-Lo | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694407) 0 | DessinaTHOR |
 | Chevan2 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694417) 1 | AdriLam |
 | NaCle2 | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937694437) 1 | Paul15634 |
-|  | forfait |  |
+|  | 0 forfait 1 |  |
 
 ## Toulouse INP - ENSEEIHT 1 - Polytechnique Bachelors
 
