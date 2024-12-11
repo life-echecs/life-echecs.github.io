@@ -21,7 +21,7 @@ description: >
   prestigieux pour leur école.
 
 # Theme https://www.csrhymes.com/bulma-clean-theme/
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 theme_color: "#e5e1f2"
 
 # Plugins
