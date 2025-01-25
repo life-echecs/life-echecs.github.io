@@ -8,7 +8,7 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-    {% for row in site.data.tournaments.2024.resultats_qualifs %}
+    {% for row in site.data.tournaments.2025.resultats_qualifs %}
         {% if forloop.first %}
         <tr>
         {% for pair in row %}
@@ -28,7 +28,7 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-    {% for row in site.data.tournaments.2024.resultats_q1 %}
+    {% for row in site.data.tournaments.2025.resultats_q1 %}
         {% if forloop.first %}
         <tr>
         {% for pair in row %}
@@ -44,7 +44,7 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
     </table>
 </div>
 
-*NB: Certains joueurs ayant rencontré des bugs de connexion, ils ont pu obtenir 0.5pt en compensation.*
+<!-- *NB: Certains joueurs ayant rencontré des bugs de connexion, ils ont pu obtenir 0.5pt en compensation.*
 
 ## Tournoi de qualification 2
 
@@ -104,4 +104,4 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
         {% endtablerow %}
     {% endfor %}
     </table>
-</div>
+</div> -->
