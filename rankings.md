@@ -44,7 +44,7 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
     </table>
 </div>
 
-<!-- *NB: Certains joueurs ayant rencontré des bugs de connexion, ils ont pu obtenir 0.5pt en compensation.*
+<!-- *NB: Certains joueurs ayant rencontré des bugs de connexion, ils ont pu obtenir 0.5pt en compensation.* -->
 
 ## Tournoi de qualification 2
 
@@ -66,7 +66,7 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
     </table>
 </div>
 
-## Tournoi de qualification 3
+<!-- ## Tournoi de qualification 3
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
