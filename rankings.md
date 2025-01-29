@@ -50,7 +50,7 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-    {% for row in site.data.tournaments.2024.resultats_q2 %}
+    {% for row in site.data.tournaments.2025.resultats_q2 %}
         {% if forloop.first %}
         <tr>
         {% for pair in row %}
