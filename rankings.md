@@ -66,11 +66,11 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
     </table>
 </div>
 
-<!-- ## Tournoi de qualification 3
+## Tournoi de qualification 3
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-    {% for row in site.data.tournaments.2024.resultats_q3 %}
+    {% for row in site.data.tournaments.2025.resultats_q3 %}
         {% if forloop.first %}
         <tr>
         {% for pair in row %}
@@ -86,11 +86,11 @@ Les résultats des différents tournois seront mis à jour au fur et à mesure.
     </table>
 </div>
 
-## Tournoi de qualification 4
+<!-- ## Tournoi de qualification 4
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-    {% for row in site.data.tournaments.2024.resultats_q4 %}
+    {% for row in site.data.tournaments.2025.resultats_q4 %}
         {% if forloop.first %}
         <tr>
         {% for pair in row %}
