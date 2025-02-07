@@ -6,27 +6,28 @@ permalink: /planning.html
 
 ## Phases finales
 
-Les phases finales ont lieu le samedi 23 mars à 14h sur Chess.com.
+La date des phases finales est encore à définir.
+<!-- Les phases finales ont lieu le samedi 23 mars à 14h sur Chess.com. -->
 
 ## Tournois de qualification
 
-Il y a 4 tournois de qualification, au format suisse. Vous pouvez vous inscrire sur le [club chess.com](https://www.chess.com/club/life-2023/join/020c60) de l'événement !
+Il y a 4 tournois de qualification, au format suisse. Vous pouvez vous inscrire sur le [club chess.com](https://www.chess.com/club/life-2025) de l'événement !
 
-### Lundi 15 janvier
+### Lundi 20 janvier
 
-Lundi 15 janvier 2024 : [Tournoi de qualification](https://www.chess.com/tournament/live/life-2024---qualif-1-4517371) au format suisse à la cadence 5min + 2s/coup.
+Lundi 20 janvier 2024 : [Tournoi de qualification](https://www.chess.com/tournament/live/qualification-1---life-2025-5400541) au format suisse à la cadence 5min + 2s/coup.
 
-### Lundi 22 janvier
+### Lundi 27 janvier
 
-Lundi 22 janvier 2024 : [Tournoi de qualification](https://www.chess.com/tournament/live/life-2024---qualif-2-4532293) au format suisse à la cadence 10min KO.
+Lundi 27 janvier 2024 : [Tournoi de qualification](https://www.chess.com/tournament/live/qualification-2---life-2025-5420833) au format suisse à la cadence 10min KO.
 
-### Mercredi 31 janvier
+### Mercredi 05 février
 
-Mercredi 31 janvier 2024 : [Tournoi de qualification](https://www.chess.com/tournament/live/life-2024---qualif-3-4548525) au format suisse à la cadence 5min KO.
+Mercredi 05 février 2024 : [Tournoi de qualification](https://www.chess.com/tournament/live/qualification-3---life-2025-5443579) au format suisse à la cadence 5min KO.
 
-### Mercredi 7 février
+### Mercredi 12 février
 
-Mercredi 7 février 2024 : [Tournoi de qualification](https://www.chess.com/tournament/live/life-2024---qualif-4-4562477) au format suisse à la cadence 10min + 1s/coup.
+Mercredi 12 février 2024 : [Tournoi de qualification](https://www.chess.com/play/tournament/5456389) au format suisse à la cadence 10min + 1s/coup.
 
 <!-- ## Phases finales
 
