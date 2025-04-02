@@ -52,7 +52,7 @@ permalink: /teams.html
 
 </style>
 
-## Equipes finalistes
+<!--## Equipes finalistes
 
 <div class="container has-text-centered">
     <div class="columns is-centered is-vcentered">
@@ -299,4 +299,4 @@ permalink: /teams.html
 
 ## Equipes inscrites
 
-![Ecoles inscrites Edition 2024](/img/logos_ecoles_23012024.png)
+![Ecoles inscrites Edition 2024](/img/logos_ecoles_23012024.png)-->
