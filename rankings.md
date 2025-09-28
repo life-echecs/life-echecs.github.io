@@ -2,7 +2,8 @@
 title: Résultats
 ---
 
-Les résultats des différents tournois seront mis à jour au fur et à mesure.
+# Résultats des qualifications de l'édition 2025
+<!--Les résultats des différents tournois seront mis à jour au fur et à mesure.-->
 
 ## Résultats des phases de qualification
 
