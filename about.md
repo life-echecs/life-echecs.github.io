@@ -10,41 +10,27 @@ permalink: /about.html
 
 Cette compétition, dont la toute première édition a eu lieu début 2021, était organisée par le [BNEI](https://www.bnei.fr/) sur l'initiative du club d'échecs de l'[ENSEEIHT](https://www.enseeiht.fr/fr/index.html). Après la deuxième édition de 2022, la LIFE est devenue une association indépendante.
 
-L'édition 2024 se déroulera en ligne et opposera des écoles d'ingénieurs venues de toute la France au travers de matchs par équipes. Les affrontements se feront selon différents formats : Rapide et Blitz afin de déterminer quelles équipes se qualifieront pour les phases finales.
+L'édition 2026 se déroulera en ligne et opposera des écoles d'ingénieurs venues de toute la France au travers de matchs par équipes. Les affrontements se feront selon différents formats : Rapide et Blitz afin de déterminer quelles équipes se qualifieront pour les phases finales.
 
-Les parties seront jouées sur le site [Chess.com](https://www.chess.com/home) et seront aussi visionnables sur cette même plateforme via des liens qui sont dans la page [Calendrier](/planning.html). Pour les phases finales, les parties seront directement retransmises et commentées sur [Twitch](https://www.twitch.tv/proevolutionechecs).
+Les parties seront jouées sur le site [Chess.com](https://www.chess.com/home) et seront aussi visionnables sur cette même plateforme via des liens qui sont dans la page [Calendrier](/planning.html). Pour les phases finales, les parties seront directement retransmises et commentées sur [Twitch](https://www.twitch.tv/happystreams__).
 
 ### Vous souhaitez représenter la LIFE dans votre école ?
 
-Si vous souhaitez vous inscrire à l'édition 2024, vous pouvez envoyez un mail à [contact@life-echecs.org](mailto:contact@life-echecs.org?subject=Inscription LIFE 2024).
+Si vous souhaitez vous inscrire à l'édition 2026, vous pouvez envoyez un mail à [contact@life-echecs.org](mailto:contact@life-echecs.org?subject=Inscription LIFE 2026).
 
 <!-- Vous pourrez aussi retrouver des publications régulières sur l'événement Facebook associé. -->
 N'hésitez pas à aller jeter un oeil à la page de [nos sponsors](/sponsors.html) pour découvrir les entreprises qui nous aident à rendre ce tournoi possible et qui pourraient vous intéresser.
 
 ## Le principes de la LIFE
 
-Suite au succès des [trois premières éditions](/results/2023.html), nous ne pouvions pas nous arrêter là, nous voilà donc de retour avec une quatrième édition de la LIFE.
-Pour préparer cette nouvelle édition, *nous avons tenu compte de vos retours* pour améliorer le format et voici le résultat de ce travail dans les grandes lignes :
+Suite au succès des [cinq premières éditions](/results/2025.html), nous ne pouvions pas nous arrêter là, nous voilà donc de retour avec une sixième édition de la LIFE.
+Pour arriver au format actuel, *nous avons tenu compte de vos retours* pour améliorer petit à petit notre formule et voici le résultat de ce travail dans les grandes lignes :
 
 - Des **qualifications sur 4 semaines** via 4 tournois indépendants au format suisse,
 - Des **équipes de 4 à 5** joueurs,
 - Plus aucune limite au nombre d'équipes, que ce soit le nombre au total mais aussi le nombre par école,
-- Des **prix individuels** pour les meilleurs joueurs dans différentes catégories elo lors des phases de qualification,
-    * Première équipe :
-        + 1 livre d'échecs
-        + 1 tome [Blitz](https://www.shibuya-productions.com/fr/projets/blitz.html,021)
-        + 3 mois d'abonnement diamant chess.com
-        + 1 trophée
-    * Deuxième équipe :
-        + 1 tome [Blitz](https://www.shibuya-productions.com/fr/projets/blitz.html,021)
-        + 3 mois d'abonnement platine chess.com
-        + 1 trophée
-    * Troisième équipe :
-        + 1 mois d'abonnement diamant chess.com
-        + 1 trophée
-    * Quatrième équipe :
-        + 1 mois d'abonnement diamant chess.com
-    * Les gagnants de chaque catégorie elo (<1000, <1500, <2000) obtiendront aussi des abonnements chess.com.
+- Différents prix pour les meilleurs joueurs et les meilleures équipes
+
 - Pour plus de détails, vous pouvez aller regarder le <a href="{{ '/files/Reglement_LIFE.pdf' | relative_url }}" download>règlement</a>,
 - Enfin, si vous avez des questions vous pouvez les poser à cette adresse : [contact@life-echecs.org](mailto:contact@life-echecs.org).
 
@@ -61,6 +47,14 @@ La LIFE est revenue pour une deuxième édition, avec 135 joueurs venus de toute
 ### 2023
 
 Lors de la troisième édition c'est l'équipe de Centrale Supélec qui s'est imposée, devant Polytechnique, l'INSA Strasbourg et l'ENGEES.
+
+### 2024
+
+Lors de la quatrième édition, la compétition a été dominée par l'ECAM LaSalle, suivie de deux équipes toulousaines : l'ENSEEIHT et l'ISAE Supaero.
+
+### 2025
+
+Lors de la dernière édition en date, l"ECAM signe le premier doublé de l'histoire de la LIFE au terme d'un tournoi riche en [Armaggedons](https://www.chess.com/terms/armageddon-chess) et en rebondissements. Le podium est complété par l'UTC et Polytechnique.
 
 ## Nous suivre sur les réseaux
 
