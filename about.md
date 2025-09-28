@@ -23,7 +23,7 @@ N'hésitez pas à aller jeter un oeil à la page de [nos sponsors](/sponsors.htm
 
 ## Le principes de la LIFE
 
-Suite au succès des [cinq premières éditions](/results/2025.html), nous ne pouvions pas nous arrêter là, nous voilà donc de retour avec une sixième édition de la LIFE.
+Suite au succès des cinq premières éditions, nous ne pouvions pas nous arrêter là, nous voilà donc de retour avec une sixième édition de la LIFE.
 Pour arriver au format actuel, *nous avons tenu compte de vos retours* pour améliorer petit à petit notre formule et voici le résultat de ce travail dans les grandes lignes :
 
 - Des **qualifications sur 4 semaines** via 4 tournois indépendants au format suisse,
