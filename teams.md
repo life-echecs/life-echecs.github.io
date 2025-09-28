@@ -52,6 +52,9 @@ permalink: /teams.html
 
 </style>
 
+La liste des équipes inscrites sera mise à jour régulièrement sur cette page.
+
+
 <!--## Equipes finalistes
 
 <div class="container has-text-centered">
