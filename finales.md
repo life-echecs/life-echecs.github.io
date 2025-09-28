@@ -6,7 +6,9 @@ permalink: /watch.html
 
 # Finale
 
-## ECAM Lasalle - Toulouse INP - ENSEEIHT 1
+Vous trouverez ici les liens vers les parties de la phase finale en temps voulu.
+
+<!--## ECAM Lasalle - Toulouse INP - ENSEEIHT 1
 
 Le match est disponible [ici](https://www.chess.com/play/match/2387283). Score final 2.5-1.5. Victoire de l'ECAM Lasalle.
 
@@ -203,7 +205,7 @@ Le match est disponible [ici](https://www.chess.com/play/match/2377240). Score f
 | Bousghour | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688299) 0 | nicolas_h |
 | Learza7 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688305) 0 | fundoomaster |
 | lulubatlouise | 0 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688313) 1 | kajkokjw |
-| enguer31 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688317) 0 | ViperFang2020 |
+| enguer31 | 1 [<img src="img/assets/eye.png" width=20>](https://www.chess.com/game/live/104937688317) 0 | ViperFang2020 | -->
 
 
 <!-- # Huitièmes de finales
