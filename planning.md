@@ -11,23 +11,23 @@ La date des phases finales est encore à définir.
 
 ## Tournois de qualification
 
-Il y a 4 tournois de qualification, au format suisse. Vous pouvez vous inscrire sur le [club chess.com](https://www.chess.com/club/life-2025) de l'événement !
+Il y a 4 tournois de qualification, au format suisse. Vous pouvez vous inscrire sur le [club chess.com](https://www.chess.com/club/life-2026) de l'événement !
 
-### Lundi 20 janvier
+### Lundi 19 janvier
 
-Lundi 20 janvier 2024 : [Tournoi de qualification](https://www.chess.com/tournament/live/qualification-1---life-2025-5400541) au format suisse à la cadence 5min + 2s/coup.
+Lundi 19 janvier 2026 : Tournoi de qualification au format suisse à la cadence 5min + 2s/coup.
 
-### Lundi 27 janvier
+### Lundi 26 janvier
 
-Lundi 27 janvier 2024 : [Tournoi de qualification](https://www.chess.com/tournament/live/qualification-2---life-2025-5420833) au format suisse à la cadence 10min KO.
+Lundi 26 janvier 2026 : Tournoi de qualification au format suisse à la cadence 10min KO.
 
-### Mercredi 05 février
+### Mercredi 04 février
 
-Mercredi 05 février 2024 : [Tournoi de qualification](https://www.chess.com/tournament/live/qualification-3---life-2025-5443579) au format suisse à la cadence 5min KO.
+Mercredi 04 février 2026 : Tournoi de qualification au format suisse à la cadence 5min KO.
 
 ### Mercredi 12 février
 
-Mercredi 12 février 2024 : [Tournoi de qualification](https://www.chess.com/play/tournament/5456389) au format suisse à la cadence 10min + 1s/coup.
+Mercredi 11 février 2026 : Tournoi de qualification au format suisse à la cadence 10min + 1s/coup.
 
 <!-- ## Phases finales
 
