@@ -13,21 +13,21 @@ La date des phases finales est encore à définir.
 
 Il y a 4 tournois de qualification, au format suisse. Vous pouvez vous inscrire sur le [club chess.com](https://www.chess.com/club/life-2026) de l'événement !
 
-### Lundi 19 janvier
-
-Lundi 19 janvier 2026 : Tournoi de qualification au format suisse à la cadence 5min + 2s/coup.
-
-### Lundi 26 janvier
-
-Lundi 26 janvier 2026 : Tournoi de qualification au format suisse à la cadence 10min KO.
-
 ### Mercredi 04 février
 
 Mercredi 04 février 2026 : Tournoi de qualification au format suisse à la cadence 5min KO.
 
-### Mercredi 12 février
+### Mercredi 11 février
 
 Mercredi 11 février 2026 : Tournoi de qualification au format suisse à la cadence 10min + 1s/coup.
+
+### Lundi 16 février
+
+Lundi 16 février 2026 : Tournoi de qualification au format suisse à la cadence 5min + 2s/coup.
+
+### Lundi 23 février
+
+Lundi 23 février 2026 : Tournoi de qualification au format suisse à la cadence 10min KO.
 
 <!-- ## Phases finales
 
