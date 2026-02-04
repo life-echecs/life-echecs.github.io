@@ -55,7 +55,7 @@ permalink: /teams.html
 La liste des équipes inscrites sera mise à jour régulièrement sur cette page.
 
 
-<!--## Equipes finalistes
+## Equipes finalistes
 
 <div class="container has-text-centered">
     <div class="columns is-centered is-vcentered">
@@ -300,6 +300,6 @@ La liste des équipes inscrites sera mise à jour régulièrement sur cette page
 </div>
 
 
-## Equipes inscrites
+<!--## Equipes inscrites
 
 ![Ecoles inscrites Edition 2024](/img/logos_ecoles_23012024.png)-->
