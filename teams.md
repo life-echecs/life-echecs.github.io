@@ -175,6 +175,23 @@ permalink: /teams.html
         </div>
         <div class="column"></div>
         <div class="ecole column one-third">
+            <img src="/img/logos_ecoles/supaero.png" alt="X" class="image" style="width:100%">
+            <div class="middle">
+                <h2 class="title is-4">ISAE - SUPAERO 3</h2>
+                <div class="list">
+                    <li class="list-item"><a href="https://www.chess.com/member/Fepedux">Fepedux</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/smhjerem">smhjerem</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/Theo_cprd">Theo_cprd</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/AstroCel">AstroCel</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/Liliann0">Liliann0</a></li>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="columns columngap is-centered is-vcentered"></div>
+    <div class="columns is-centered is-vcentered">
+        <div class="column"></div>
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/utc_compiegne.jpg" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">UTC 1</h2>
@@ -187,10 +204,6 @@ permalink: /teams.html
                 </div>
             </div>
         </div>
-        <div class="column"></div>
-    </div>
-    <div class="columns columngap is-centered is-vcentered"></div>
-    <div class="columns is-centered is-vcentered">
         <div class="column"></div>
         <div class="ecole column one-third">
             <img src="/img/logos_ecoles/utc_compiegne.jpg" alt="X" class="image" style="width:100%">
@@ -219,6 +232,9 @@ permalink: /teams.html
                 </div>
             </div>
         </div>
+    </div>
+    <div class="columns columngap is-centered is-vcentered"></div>
+    <div class="columns is-centered is-vcentered">
         <div class="column"></div>
         <div class="ecole column one-third">
             <img src="/img/logos_ecoles/n7.png" alt="X" class="image" style="width:100%">
@@ -233,10 +249,6 @@ permalink: /teams.html
                 </div>
             </div>
         </div>
-        <div class="column"></div>
-    </div>
-    <div class="columns columngap is-centered is-vcentered"></div>
-    <div class="columns is-centered is-vcentered">
         <div class="column"></div>
         <div class="ecole column one-third">
             <img src="/img/logos_ecoles/n7.png" alt="X" class="image" style="width:100%">
