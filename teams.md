@@ -52,10 +52,10 @@ permalink: /teams.html
 
 </style>
 
-La liste des équipes inscrites sera mise à jour régulièrement sur cette page.
+<!--La liste des équipes inscrites sera mise à jour régulièrement sur cette page.-->
 
 
-## Equipes finalistes
+## Equipes Inscrites
 
 <div class="container has-text-centered">
     <div class="columns is-centered is-vcentered">
@@ -105,20 +105,6 @@ La liste des équipes inscrites sera mise à jour régulièrement sur cette page
     <div class="columns is-centered is-vcentered">
         <div class="column"></div>
         <div class="ecole column one-quarter">
-            <img src="/img/logos_ecolesinsa_strasbourg.jpg" alt="X" class="image" style="width:100%">
-            <div class="middle">
-                <h2 class="title is-4">INSA Strasbourg</h2>
-                <div class="list">
-                    <li class="list-item"><a href="https://www.chess.com/member/coconem">coconem</a></li>
-                    <li class="list-item"><a href="https://www.chess.com/member/FloP0809">FloP0809</a></li>
-                    <li class="list-item"><a href="https://www.chess.com/member/Flavien67">Flavien67</a></li>
-                    <li class="list-item"><a href="https://www.chess.com/member/Skorum">Skorum</a></li>
-                    <li class="list-item"><a href="https://www.chess.com/member/Clemeent-1">Clemeent-1</a></li>
-                </div>
-            </div>
-        </div>
-        <div class="column"></div>
-        <div class="ecole column one-quarter">
             <img src="/img/logos_ecoles/ensiie.jpg" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">ENSIIE 1</h2>
@@ -140,6 +126,20 @@ La liste des équipes inscrites sera mise à jour régulièrement sur cette page
                     <li class="list-item"><a href="https://www.chess.com/member/valdemor26">valdemor26</a></li>
                     <li class="list-item"><a href="https://www.chess.com/member/SxxdTxhx">SxxdTxhx</a></li>
                     <li class="list-item"><a href="https://www.chess.com/member/Fireback1">Fireback1</a></li>
+                </div>
+            </div>
+        </div>
+        <div class="column"></div>
+        <div class="ecole column one-quarter">
+            <img src="/img/logos_ecolesinsa_strasbourg.jpg" alt="X" class="image" style="width:100%">
+            <div class="middle">
+                <h2 class="title is-4">INSA Strasbourg</h2>
+                <div class="list">
+                    <li class="list-item"><a href="https://www.chess.com/member/coconem">coconem</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/FloP0809">FloP0809</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/Flavien67">Flavien67</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/Skorum">Skorum</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/Clemeent-1">Clemeent-1</a></li>
                 </div>
             </div>
         </div>
