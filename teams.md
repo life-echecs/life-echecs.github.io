@@ -276,6 +276,51 @@ permalink: /teams.html
                 </div>
             </div>
         </div>
+    </div>
+    <div class="columns columngap is-centered is-vcentered"></div>
+    <div class="columns is-centered is-vcentered">
+        <div class="column"></div>
+        <div class="ecole column one-third">
+            <img src="/img/logos_ecoles/ecam_lasalle.jpg" alt="X" class="image" style="width:100%">
+            <div class="middle">
+                <h2 class="title is-4">ECAM LaSalle 1</h2>
+                <div class="list">
+                    <li class="list-item"><a href="https://www.chess.com/member/EL_MIKADO">EL_MIKADO</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/saphir76">saphir76</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/I_m_gonna_beat_u">I_m_gonna_beat_u</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/Wombatjunior2">Wombatjunior2</a></li>
+            </div>
+            </div>
+        </div>
+        <div class="column"></div>
+        <div class="ecole column one-third">
+            <img src="/img/logos_ecoles/ecam_lasalle.jpg" alt="X" class="image" style="width:100%">
+            <div class="middle">
+                <h2 class="title is-4">ECAM LaSalle 2</h2>
+                <div class="list">
+                    <li class="list-item"><a href="https://www.chess.com/member/ChessFoxyz">ChessFoxyz</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/Elie456">Elie456</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/VicoLaFuFu">VicoLaFuFu</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/Cacahuete6905">Cacahuete6905</a></li>
+                </div>
+            </div>
+        </div>
+        <div class="column"></div>
+        <div class="ecole column one-third">
+            <img src="/img/logos_ecoles/ecam_lasalle.jpg" alt="X" class="image" style="width:100%">
+            <div class="middle">
+                <h2 class="title is-4">ECAM LaSalle 3</h2>
+                <div class="list">
+                    <li class="list-item"><a href="https://www.chess.com/member/ETOMITH">ETOMITH</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/scalonu">scalonu</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/zaduc">zaduc</a></li>
+                    <li class="list-item"><a href="https://www.chess.com/member/Monmaladroitprefere">Monmaladroitprefere</a></li>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="columns columngap is-centered is-vcentered"></div>
+    <div class="columns is-centered is-vcentered">
         <div class="column"></div>
         <div class="ecole column one-third">
             <img src="/img/logos_ecoles/mines_ales.jpg" alt="X" class="image" style="width:100%">
@@ -290,10 +335,6 @@ permalink: /teams.html
                 </div>
             </div>
         </div>
-        <div class="column"></div>
-    </div>
-    <div class="columns columngap is-centered is-vcentered"></div>
-    <div class="columns is-centered is-vcentered">
         <div class="column"></div>
         <div class="ecole column one-third">
         </div>
