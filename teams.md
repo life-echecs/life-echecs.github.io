@@ -60,7 +60,7 @@ permalink: /teams.html
 <div class="container has-text-centered">
     <div class="columns is-centered is-vcentered">
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/efrei.jpg" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">EFREI 1</h2>
@@ -73,7 +73,7 @@ permalink: /teams.html
             </div>
         </div>
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/efrei.jpg" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">EFREI 2</h2>
@@ -86,7 +86,7 @@ permalink: /teams.html
             </div>
         </div>
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/x.jpg" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">Polytechnique</h2>
@@ -99,12 +99,11 @@ permalink: /teams.html
                 </div>
             </div>
         </div>
-        <div class="column"></div>
     </div>
     <div class="columns columngap is-centered is-vcentered"></div>
     <div class="columns is-centered is-vcentered">
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/ensiie.jpg" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">ENSIIE 1</h2>
@@ -117,7 +116,7 @@ permalink: /teams.html
             </div>
         </div>
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/ensiie.jpg" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">ENSIIE 2</h2>
@@ -130,8 +129,8 @@ permalink: /teams.html
             </div>
         </div>
         <div class="column"></div>
-        <div class="ecole column one-quarter">
-            <img src="/img/logos_ecolesinsa_strasbourg.jpg" alt="X" class="image" style="width:100%">
+        <div class="ecole column one-third">
+            <img src="/img/logos_ecoles/insa_strasbourg.jpg" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">INSA Strasbourg</h2>
                 <div class="list">
@@ -143,12 +142,11 @@ permalink: /teams.html
                 </div>
             </div>
         </div>
-        <div class="column"></div>
     </div>
     <div class="columns columngap is-centered is-vcentered"></div>
     <div class="columns is-centered is-vcentered">
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/supaero.png" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">ISAE - SUPAERO 1</h2>
@@ -162,7 +160,7 @@ permalink: /teams.html
             </div>
         </div>
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/supaero.png" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">ISAE - SUPAERO 2</h2>
@@ -176,7 +174,7 @@ permalink: /teams.html
             </div>
         </div>
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/utc_compiegne.jpg" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">UTC 1</h2>
@@ -194,7 +192,7 @@ permalink: /teams.html
     <div class="columns columngap is-centered is-vcentered"></div>
     <div class="columns is-centered is-vcentered">
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/utc_compiegne.jpg" alt="X" class="image" style="width:100%">
             <div class="middle">
                  <h2 class="title is-4">UTC 2</h2>
@@ -208,7 +206,7 @@ permalink: /teams.html
             </div>
         </div>
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/utc_compiegne.jpg" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">UTC 3</h2>
@@ -222,7 +220,7 @@ permalink: /teams.html
             </div>
         </div>
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/n7.png" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">Toulouse INP - ENSEEIHT 1</h2>
@@ -240,7 +238,7 @@ permalink: /teams.html
     <div class="columns columngap is-centered is-vcentered"></div>
     <div class="columns is-centered is-vcentered">
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/n7.png" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">Toulouse INP - ENSEEIHT 2</h2>
@@ -254,7 +252,7 @@ permalink: /teams.html
             </div>
         </div>
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/n7.png" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">Toulouse INP - ENSEEIHT 3</h2>
@@ -267,7 +265,7 @@ permalink: /teams.html
             </div>
         </div>
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/mines_ales.jpg" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">IMT - Mines Alès 1</h2>
@@ -285,10 +283,10 @@ permalink: /teams.html
     <div class="columns columngap is-centered is-vcentered"></div>
     <div class="columns is-centered is-vcentered">
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
         </div>
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
             <img src="/img/logos_ecoles/mines_ales.jpg" alt="X" class="image" style="width:100%">
             <div class="middle">
                 <h2 class="title is-4">IMT - Mines Alès 2</h2>
@@ -302,7 +300,7 @@ permalink: /teams.html
             </div>
         </div>
         <div class="column"></div>
-        <div class="ecole column one-quarter">
+        <div class="ecole column one-third">
         </div>
         <div class="column"></div>
     </div>
