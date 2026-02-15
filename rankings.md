@@ -49,12 +49,12 @@ title: Résultats
 </div>
 
 <!-- *NB: Certains joueurs ayant rencontré des bugs de connexion, ils ont pu obtenir 0.5pt en compensation.* -->
-<!--
+
 ## Tournoi de qualification 2
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-    {% for row in site.data.tournaments.2025.resultats_q2 %}
+    {% for row in site.data.tournaments.2026.resultats_q2 %}
         {% if forloop.first %}
         <tr>
         {% for pair in row %}
@@ -70,6 +70,7 @@ title: Résultats
     </table>
 </div>
 
+<!--
 ## Tournoi de qualification 3
 
 <div class="table-container">
