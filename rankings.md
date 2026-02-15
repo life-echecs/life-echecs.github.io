@@ -116,7 +116,7 @@ title: Résultats
 
 <div class="table-container">
     <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-    {% for row in site.data.tournaments.2026.geenral %}
+    {% for row in site.data.tournaments.2026.general %}
         {% if forloop.first %}
         <tr>
         {% for pair in row %}
