@@ -131,4 +131,3 @@ title: Résultats
     {% endfor %}
     </table>
 </div>
--->
